@@ -20,17 +20,14 @@ Our solution combines data analysis, predictive modeling, and visualization to:
 3. Create tools for financial institutions to assess risk and make informed lending decisions
 
 ## Project Structure
-<!-- 
+
 ```.
 ├── data_assets/           # Raw and processed data files, data generated
-├── notebooks/            # Jupyter notebooks for Credit Score Modelling
-├── src/                  # Source code
-│   ├── data/            # Data processing scripts
-│   ├── models/          # Machine learning models
-│   └── visualization/   # Visualization tools
-├── requirements.txt     # Python dependencies
-└── README.md           # Project documentation
-``` -->
+├── data/                  # Data
+├── main.py                # Main script
+├── requirements.txt       # Project dependencies
+└── README.md             # Project documentation
+```
 
 ## Setup Instructions
 
