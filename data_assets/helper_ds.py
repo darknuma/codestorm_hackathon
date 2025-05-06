@@ -228,6 +228,3 @@ output_file = os.path.join('data', 'data_science_dataset.csv')
 farmers_df.to_csv(output_file, index=False)
 print(f"Generated dataset saved to '{output_file}'")
 
-# Display sample data
-print('\nSample of generated data:')
-print(farmers_df.head())

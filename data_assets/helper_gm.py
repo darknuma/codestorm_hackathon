@@ -16,8 +16,7 @@ os.makedirs('data', exist_ok=True)
 # Initialize Faker for Nigerian context if available, otherwise default
 try:
 	fake = Faker('en_NG')
-except ImportError as e:
-	print(f"An error occured: {e}")
+except: 
 	fake = Faker()
 
 # Configuration
@@ -360,7 +359,3 @@ df = pd.DataFrame(data)
 output_file = os.path.join('data', 'general_model_data.csv')
 df.to_csv(output_file, index=False)
 print(f"Generated dataset saved to '{output_file}'")
-
-# Display sample data
-print('\nSample of generated data:')
-print(df.head())

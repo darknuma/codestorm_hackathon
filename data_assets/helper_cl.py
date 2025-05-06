@@ -12,14 +12,12 @@ import os
 
 os.makedirs('data', exist_ok=True)
 
-# Set random seed for reproducibility
 np.random.seed(42)
 random.seed(42)
 
 try:
 	fake = Faker('en_NG')  #
-except ImportError as e:
-	print(f"An error occured: {e}")
+except:
 	fake = Faker()
 
 # Number of farmers to generate
@@ -626,9 +624,6 @@ output_file = os.path.join('data', 'credit_lending_data.csv')
 df.to_csv(output_file, index=False)
 print(f"Generated dataset saved to '{output_file}'")
 
-# Display sample data
-print('\nSample of generated data:')
-print(df.head())
 
 # Data summary
 print('\nData Summary:')
