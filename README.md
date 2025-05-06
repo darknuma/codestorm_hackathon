@@ -51,13 +51,21 @@ Our solution combines data analysis, predictive modeling, and visualization to:
 
 ```bash
     uv venv
-    source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+    source .venv/bin/activate  # On Windows:.venv\Scripts\activate 
 ```
 
 3; Install dependencies:
 
 ```bash
     uv pip install -r requirements.txt
+```
+
+4; Run the Generator Script
+
+```bash
+    uv run main.py cl  # Saves to data/credit_lending_data.csv
+    uv run main.py ds  # Saves to data/data_science_dataset.csv
+    uv run main.py gm  # Saves to data/general_model_data.csv
 ```
 
 ## Data Strategy
@@ -113,6 +121,16 @@ The solution is built on a modular architecture:
 ## License
 
 This project is licensed under the APACHE License - see the LICENSE file for details.
+
+## Related References
+
+1. [Zolawest](https://techcabal.com/2024/02/20/zowasel-releases-alternative-credit-evaluation-scoring-system-to-link-smallholder-farmers-with-financial-institutions/): A Credit evaluation company
+2. Scientific Papers:
+
+   - [Agricultural credit constraints in smallholder farming in developing countries: Evidence from Nigeria](https://www.sciencedirect.com/science/article/pii/S2772655X2200012X#tbl0002)
+   - Credit Worthiness and Loan Repayment Performance Among Farmer Cooperators In Owerri Agricultural Zone of Imo State, Nigeria by `Osondu, Charles Kelechi and Obike, Kingsley Chukwuemeka`.
+   - [Credits seeking and sourcing for agribusiness firms in developing countries: An empirical review of Nigerian experience]( https://doi.org/10.30574/gscarr.2023.17.2.0432 )
+   - Assessment of creditworthiness and repayment among bank of agriculture loan beneficiaries in Cross River State, Nigeria by `Nkem H. Justice, Atturo E O. and Nwagbo Kingsley`.
 
 ## Acknowledgments
 
