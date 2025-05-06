@@ -1,4 +1,4 @@
-# CODESTORM ELITE'S HACKATHON onAgriFinance: Data-Driven Access to Finance for Young Agripreneurs
+# CODESTORM ELITE'S HACKATHON on AgriFinance: Data-Driven Access to Finance for Young Agripreneurs
 
 ## Overview
 
@@ -41,20 +41,20 @@ Our solution combines data analysis, predictive modeling, and visualization to:
 
 ### Installation
 
-1. Install UV:
+1; Install UV:
 
 ```bash
     pip install uv
 ```
 
-2. Create and activate virtual environment:
+2; Create and activate virtual environment:
 
 ```bash
     uv venv
     source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 ```
 
-3. Install dependencies:
+3; Install dependencies:
 
 ```bash
     uv pip install -r requirements.txt
@@ -112,7 +112,7 @@ The solution is built on a modular architecture:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the APACHE License - see the LICENSE file for details.
 
 ## Acknowledgments
 
