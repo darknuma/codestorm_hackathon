@@ -734,26 +734,26 @@ def calculate_predicted_default_probability(row):  # For current loan request
 all_farmer_data = []
 for i in range(NUM_FARMERS):
 	farmer_id = f'NGF{i + 1:06d}'
-	age = random.randint(16, 65) #
+	age = random.randint(16, 65)  #
 
 	possible_education_levels = []
-	if age < 18: # Too young for anything beyond some secondary
+	if age < 18:  # Too young for anything beyond some secondary
 		possible_education_levels = [
 			('No Formal Education', 0.4),
 			('Primary Incomplete', 0.3),
 			('Primary Complete', 0.2),
-			('Secondary Incomplete', 0.1)
+			('Secondary Incomplete', 0.1),
 		]
-	elif age < 22: # Potentially up to Secondary Complete, maybe some early tertiary
+	elif age < 22:  # Potentially up to Secondary Complete, maybe some early tertiary
 		possible_education_levels = [
 			('No Formal Education', 0.20),
 			('Primary Incomplete', 0.10),
 			('Primary Complete', 0.20),
 			('Secondary Incomplete', 0.20),
 			('Secondary Complete', 0.25),
-			('OND/NCE', 0.05) # Less likely but possible
+			('OND/NCE', 0.05),  # Less likely but possible
 		]
-	elif age < 25: # Potentially up to OND/NCE or early BSc
+	elif age < 25:  # Potentially up to OND/NCE or early BSc
 		possible_education_levels = [
 			('No Formal Education', 0.15),
 			('Primary Incomplete', 0.10),
@@ -761,9 +761,9 @@ for i in range(NUM_FARMERS):
 			('Secondary Incomplete', 0.15),
 			('Secondary Complete', 0.25),
 			('OND/NCE', 0.15),
-			('HND/BSc', 0.05) # Less likely but possible
+			('HND/BSc', 0.05),  # Less likely but possible
 		]
-	else: # Can access all levels
+	else:  # Can access all levels
 		possible_education_levels = [
 			('No Formal Education', 0.25),
 			('Primary Incomplete', 0.15),
@@ -786,7 +786,7 @@ for i in range(NUM_FARMERS):
 		# If all are excluded (e.g. for age 6, no formal edu is 0, <= 6-6=0),
 		# you might need a fallback like 'No Formal Education'.
 
-	if not filtered_education_choices: # Fallback if all get filtered out
+	if not filtered_education_choices:  # Fallback if all get filtered out
 		# This might happen if age is very low and all defined education levels exceed max_possible_edu_years
 		# Or if weights are such that no valid option remains after filtering.
 		# A robust fallback would be 'No Formal Education' or the lowest possible valid one.
@@ -813,64 +813,67 @@ for i in range(NUM_FARMERS):
 	# )
 	# education_level_years = EDUCATION_LEVELS_MAPPING[education_category]
 
-# --- Inside the main loop ---
-# age is already generated
+	# --- Inside the main loop ---
+	# age is already generated
 
-	if age < 18: # Very young
+	if age < 18:  # Very young
 		marital_status_weights = [
 			('Single', 0.95),
-			('Married', 0.05), # Very low chance
+			('Married', 0.05),  # Very low chance
 			('Divorced', 0.00),
-			('Widowed', 0.00)
+			('Widowed', 0.00),
 		]
 	elif age < 22:
 		marital_status_weights = [
 			('Single', 0.60),
 			('Married', 0.38),
 			('Divorced', 0.01),
-			('Widowed', 0.01)
+			('Widowed', 0.01),
 		]
 	elif age < 30:
 		marital_status_weights = [
 			('Single', 0.25),
 			('Married', 0.70),
 			('Divorced', 0.02),
-			('Widowed', 0.03)
+			('Widowed', 0.03),
 		]
-	else: # 30+
+	else:  # 30+
 		marital_status_weights = [
 			('Single', 0.05),
-			('Married', 0.75), #
-			('Divorced', 0.05), # Slightly higher chance than current
-			('Widowed', 0.15)  # Higher chance for older individuals
+			('Married', 0.75),  #
+			('Divorced', 0.05),  # Slightly higher chance than current
+			('Widowed', 0.15),  # Higher chance for older individuals
 		]
 	marital_status = weighted_choice(marital_status_weights)
 
-
 	if marital_status == 'Single':
 		if age < 22:
-			household_size = random.randint(1, 3) # Likely living with parents or alone/few roommates
+			household_size = random.randint(
+				1, 3
+			)  # Likely living with parents or alone/few roommates
 		elif age < 30:
-			household_size = random.randint(1, 5) # (original logic for this bracket)
-		else: # Older single individual
+			household_size = random.randint(1, 5)  # (original logic for this bracket)
+		else:  # Older single individual
 			household_size = random.randint(1, 4)
 	elif marital_status == 'Married':
 		# For younger married individuals, household size might start smaller
-		min_hh_size = 2 # Self and spouse
+		min_hh_size = 2  # Self and spouse
 		if age < 22:
 			# Less likely to have many children immediately
-			household_size = random.randint(min_hh_size, min_hh_size + 2) # e.g., 2-4
+			household_size = random.randint(min_hh_size, min_hh_size + 2)  # e.g., 2-4
 		elif age < 30:
-			household_size = random.randint(min_hh_size, min_hh_size + 4) # e.g., 2-6
-		else: # 30+
-			household_size = random.randint(min_hh_size, 14) # Can be larger (similar to original upper range)
+			household_size = random.randint(min_hh_size, min_hh_size + 4)  # e.g., 2-6
+		else:  # 30+
+			household_size = random.randint(
+				min_hh_size, 14
+			)  # Can be larger (similar to original upper range)
 	elif marital_status == 'Widowed':
 		# Could be 1 (if no children/dependents) or more
 		# Consider age for likelihood of having dependent children
 		if age < 30:
-			household_size = random.randint(1, 3) # Less likely to have many older children
+			household_size = random.randint(1, 3)  # Less likely to have many older children
 		else:
-			household_size = random.randint(1, 10) # Can have dependents
+			household_size = random.randint(1, 10)  # Can have dependents
 	elif marital_status == 'Divorced':
 		if age < 30:
 			household_size = random.randint(1, 4)

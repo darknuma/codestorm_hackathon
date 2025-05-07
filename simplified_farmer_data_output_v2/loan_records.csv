@@ -1,0 +1,50 @@
+Loan_ID,Farmer_ID,Enterprise_ID,Loan_Amount,Interest_Rate,Loan_Date,Loan_Use_Status,Loan_Repayment_Amount,Repayment_Date,Duration_Months,Loan_Use_Duration,Credit_Worthiness_Status,Loan_Asset_Ratio,OpEx_Income_Ratio,Loan_Source,Loan_Supervision_Frequency,Distance_to_Lender,Disbursement_Lag,Has_Defaulted,Default_Reason,Prior_Loan_Repayment_Rate_Master,Prior_Loan_Repayment_History_Master,Prior_Loan_Purpose_Master,Farmer_Credit_Score_General_Master
+LOAN_0000001,FARMER_00001,ENT_000001,1000000,29.9,2018-07-18,Yes,0,,36,5,Creditworthy,1.77,0.78,Family/Friends,1,77.5,0,No,N/A,0.0,None,Asset Acquisition,538
+LOAN_0000002,FARMER_00005,ENT_000005,245000,24.8,2017-10-11,Yes,203350,2018-07-07,18,4,Creditworthy,0.18,0.76,Bank of Agriculture,5,34.6,6,No,N/A,0.83,Good,Mechanization Loan,411
+LOAN_0000003,FARMER_00007,ENT_000007,3095000,5.3,2023-04-01,No,2599800,2024-07-10,36,9,Non-creditworthy,1.84,0.65,Commercial Bank,1,37.6,1,No,N/A,0.84,Good,Mechanization Loan,748
+LOAN_0000004,FARMER_00011,ENT_000011,995000,14.1,2023-07-16,No,875600,2024-06-20,12,8,Non-creditworthy,0.61,0.52,Bank of Agriculture,5,22.2,3,No,N/A,0.88,Good,Input Loan,473
+LOAN_0000005,FARMER_00013,ENT_000013,1265000,11.2,2017-07-14,No,1227050,2017-09-02,24,16,Creditworthy,1.64,0.58,Cooperative,2,75.6,6,No,N/A,0.97,Excellent,Input Loan,729
+LOAN_0000006,FARMER_00014,ENT_000014,4320000,33.5,2023-06-24,Yes,0,,12,4,Creditworthy,2.57,0.75,Bank of Agriculture,5,12.3,1,No,N/A,0.0,None,Input Loan,776
+LOAN_0000007,FARMER_00018,ENT_000018,1455000,28.3,2022-09-24,No,1425900,2023-08-24,24,10,Creditworthy,0.7,0.43,Informal Lender,5,10.8,6,No,N/A,0.98,Excellent,Working Capital,512
+LOAN_0000008,FARMER_00025,ENT_000025,190000,23.8,2019-09-26,No,133000,2019-11-03,6,6,Creditworthy,0.28,0.63,Commercial Bank,2,33.3,3,No,N/A,0.7,Fair,Bundled Services Loan,479
+LOAN_0000009,FARMER_00026,ENT_000026,665000,24.4,2018-12-06,No,645050,2020-10-30,24,4,Creditworthy,0.49,0.51,Commercial Bank,0,31.1,3,No,N/A,0.97,Excellent,Working Capital,418
+LOAN_0000010,FARMER_00027,ENT_000027,4575000,7.1,2023-07-12,Yes,1875750,2024-10-26,36,22,Non-creditworthy,1.87,0.42,Government Program,4,1.3,6,Yes,Illness of Farmer,0.41,Poor,Working Capital,433
+LOAN_0000011,FARMER_00028,ENT_000028,5495000,13.3,2018-10-26,No,0,,36,30,Non-creditworthy,5.6,0.66,Commercial Bank,5,12.3,5,No,N/A,0.0,None,Bundled Services Loan,520
+LOAN_0000012,FARMER_00030,ENT_000030,1540000,26.6,2015-03-28,Yes,847000,2015-08-12,36,11,Creditworthy,0.59,0.54,Family/Friends,0,27.9,5,No,N/A,0.55,Fair,Asset Acquisition,734
+LOAN_0000013,FARMER_00041,ENT_000041,1535000,12.9,2023-01-19,No,1335450,2024-07-12,18,16,Creditworthy,1.66,0.64,Commercial Bank,1,85.4,3,No,N/A,0.87,Good,Mechanization Loan,476
+LOAN_0000014,FARMER_00042,ENT_000042,3175000,19.0,2019-03-05,Yes,0,,36,9,Non-creditworthy,1.37,0.79,Informal Lender,0,83.3,4,No,N/A,0.0,None,Storage Construction,456
+LOAN_0000015,FARMER_00054,ENT_000054,380000,12.3,2022-09-26,Yes,361000,2022-12-24,6,1,Creditworthy,0.8,0.49,Informal Lender,2,24.2,5,No,N/A,0.95,Excellent,Input Loan,626
+LOAN_0000016,FARMER_00055,ENT_000055,2375000,21.1,2023-12-22,Yes,2185000,2024-08-01,12,2,Creditworthy,2.14,0.52,Government Program,4,72.7,4,No,N/A,0.92,Good,Mechanization Loan,522
+LOAN_0000017,FARMER_00057,ENT_000057,2075000,20.2,2023-06-26,No,0,,18,16,Creditworthy,1.55,0.8,Commercial Bank,4,55.6,0,No,N/A,0.0,None,Working Capital,317
+LOAN_0000018,FARMER_00058,ENT_000058,1050000,22.0,2020-04-17,Yes,966000,2020-07-14,6,6,Non-creditworthy,0.9,0.67,Cooperative,0,92.5,5,No,N/A,0.92,Good,Land Expansion,587
+LOAN_0000019,FARMER_00059,ENT_000059,860000,21.6,2018-02-03,No,748200,2019-10-25,24,3,Non-creditworthy,0.24,0.79,Government Program,1,71.6,0,No,N/A,0.87,Good,Land Expansion,574
+LOAN_0000020,FARMER_00063,ENT_000063,2655000,29.9,2018-12-01,No,0,,12,8,Creditworthy,3.42,0.68,Informal Lender,3,35.5,0,No,N/A,0.0,None,Mechanization Loan,748
+LOAN_0000021,FARMER_00076,ENT_000076,330000,26.0,2018-09-20,Yes,254100,2019-03-08,18,3,Creditworthy,0.99,0.58,Microfinance Bank,4,11.8,0,No,N/A,0.77,Fair,Processing Equipment,468
+LOAN_0000022,FARMER_00077,ENT_000077,330000,16.2,2023-03-31,Yes,49500,2023-05-05,6,2,Non-creditworthy,0.9,0.8,Government Program,1,10.1,6,Yes,Diversion of Funds,0.15,Poor,Processing Equipment,425
+LOAN_0000023,FARMER_00088,ENT_000088,1950000,17.7,2018-09-16,Yes,1384500,2019-07-01,24,15,Non-creditworthy,1.02,0.56,Family/Friends,4,82.6,3,No,N/A,0.71,Fair,Asset Acquisition,404
+LOAN_0000024,FARMER_00092,ENT_000092,1250000,22.7,2023-11-02,No,225000,2023-12-21,12,11,Non-creditworthy,2.42,0.76,Government Program,4,62.7,4,Yes,Market Loss,0.18,Poor,Input Loan,410
+LOAN_0000025,FARMER_00098,ENT_000098,1970000,25.8,2022-03-16,No,1910900,2022-10-30,12,9,Non-creditworthy,1.57,0.57,Bank of Agriculture,4,91.7,6,No,N/A,0.97,Excellent,Bundled Services Loan,554
+LOAN_0000026,FARMER_00104,ENT_000104,515000,28.9,2019-06-19,No,77250,2020-05-09,36,24,Non-creditworthy,0.17,0.77,Informal Lender,4,15.0,0,Yes,Market Loss,0.15,Poor,Processing Equipment,703
+LOAN_0000027,FARMER_00107,ENT_000107,3660000,12.0,2015-11-07,No,439200,2016-06-22,12,8,Non-creditworthy,3.32,0.67,Commercial Bank,5,33.1,5,Yes,Other,0.12,Poor,Land Expansion,580
+LOAN_0000028,FARMER_00114,ENT_000114,4450000,20.5,2021-12-25,No,2759000,2022-03-28,6,1,Non-creditworthy,2.47,0.54,Family/Friends,5,82.3,0,No,N/A,0.62,Fair,Land Expansion,482
+LOAN_0000029,FARMER_00125,ENT_000125,1760000,24.7,2024-04-12,No,0,,36,15,Creditworthy,0.43,0.65,Commercial Bank,1,65.9,6,No,N/A,0.0,None,Processing Equipment,381
+LOAN_0000030,FARMER_00127,ENT_000127,4845000,7.8,2019-02-19,No,3730650,2019-08-09,24,12,Creditworthy,1.64,0.58,Microfinance Bank,2,81.3,0,No,N/A,0.77,Fair,Bundled Services Loan,709
+LOAN_0000031,FARMER_00142,ENT_000142,3760000,13.6,2021-09-25,No,864800,2022-06-22,36,10,Non-creditworthy,3.24,0.61,Cooperative,0,2.5,4,Yes,Other,0.23,Poor,Working Capital,826
+LOAN_0000032,FARMER_00155,ENT_000155,4290000,18.7,2015-04-08,Yes,3174600,2015-07-01,12,8,Creditworthy,3.33,0.7,Commercial Bank,1,43.2,6,No,N/A,0.74,Fair,Mechanization Loan,711
+LOAN_0000033,FARMER_00157,ENT_000157,5385000,23.5,2024-03-15,Yes,1453950,2024-06-06,24,6,Non-creditworthy,5.19,0.66,Bank of Agriculture,4,12.5,1,Yes,Policy Change,0.27,Poor,Land Expansion,633
+LOAN_0000034,FARMER_00158,ENT_000158,460000,22.3,2023-03-25,No,188600,2025-05-07,36,14,Non-creditworthy,0.38,0.48,Government Program,3,28.6,5,Yes,Input Price Hike,0.41,Poor,Bundled Services Loan,552
+LOAN_0000035,FARMER_00159,ENT_000159,960000,10.5,2016-05-14,Yes,422400,2017-05-03,18,3,Non-creditworthy,0.42,0.49,Family/Friends,2,53.6,2,Yes,Input Price Hike,0.44,Poor,Processing Equipment,576
+LOAN_0000036,FARMER_00166,ENT_000166,510000,13.2,2021-11-07,No,122400,2022-01-25,24,10,Non-creditworthy,2.42,0.63,Informal Lender,1,76.9,1,Yes,Low/Poor Yield,0.24,Poor,Input Loan,471
+LOAN_0000037,FARMER_00168,ENT_000168,220000,30.4,2019-11-12,No,0,,18,6,Creditworthy,0.15,0.76,Informal Lender,4,7.8,6,No,N/A,0.0,None,Bundled Services Loan,314
+LOAN_0000038,FARMER_00174,ENT_000174,1980000,24.9,2020-10-08,No,1960200,2021-05-31,18,17,Non-creditworthy,2.79,0.49,Family/Friends,4,18.9,0,No,N/A,0.99,Excellent,Processing Equipment,828
+LOAN_0000039,FARMER_00175,ENT_000175,10390000,17.7,2021-02-16,Yes,9039300,2021-05-26,6,1,Non-creditworthy,7.23,0.48,Government Program,2,66.2,1,No,N/A,0.87,Good,Processing Equipment,343
+LOAN_0000040,FARMER_00180,ENT_000180,1640000,26.8,2018-02-06,Yes,1574400,2018-10-03,12,1,Non-creditworthy,2.5,0.73,Cooperative,1,62.2,1,No,N/A,0.96,Excellent,Asset Acquisition,678
+LOAN_0000041,FARMER_00182,ENT_000182,4770000,8.4,2022-11-11,Yes,4626900,2023-01-27,12,5,Creditworthy,3.8,0.78,Government Program,1,75.2,6,No,N/A,0.97,Excellent,Storage Construction,579
+LOAN_0000042,FARMER_00183,ENT_000183,8125000,27.3,2019-10-26,No,4793750,2020-06-01,36,17,Creditworthy,2.8,0.59,Microfinance Bank,3,9.8,6,No,N/A,0.59,Fair,Input Loan,513
+LOAN_0000043,FARMER_00186,ENT_000186,2360000,7.6,2023-09-08,Yes,637200,2024-12-13,24,4,Non-creditworthy,3.32,0.67,Microfinance Bank,5,70.6,3,Yes,Policy Change,0.27,Poor,Working Capital,320
+LOAN_0000044,FARMER_00188,ENT_000188,2365000,31.4,2022-02-08,Yes,0,,18,3,Non-creditworthy,0.91,0.68,Bank of Agriculture,0,62.1,0,No,N/A,0.0,None,Land Expansion,529
+LOAN_0000045,FARMER_00192,ENT_000192,2030000,15.5,2014-05-31,No,832300,2014-09-09,18,17,Non-creditworthy,1.38,0.42,Commercial Bank,2,52.1,1,Yes,Diversion of Funds,0.41,Poor,Working Capital,765
+LOAN_0000046,FARMER_00197,ENT_000197,3905000,33.8,2021-04-17,No,1562000,2021-05-19,36,19,Non-creditworthy,2.46,0.67,Commercial Bank,0,93.4,3,Yes,Drought/Flood,0.4,Poor,Processing Equipment,556
+LOAN_0000047,FARMER_00198,ENT_000198,3980000,25.2,2020-10-19,Yes,3860600,2022-05-23,24,21,Creditworthy,3.64,0.5,Informal Lender,0,89.4,6,No,N/A,0.97,Excellent,Input Loan,755
+LOAN_0000048,FARMER_00199,ENT_000199,1350000,22.6,2023-12-27,Yes,1323000,2024-06-19,6,5,Non-creditworthy,3.7,0.68,Microfinance Bank,5,3.3,5,No,N/A,0.98,Excellent,Mechanization Loan,845
+LOAN_0000049,FARMER_00200,ENT_000200,480000,5.8,2023-07-09,No,0,,24,9,Creditworthy,0.48,0.48,Commercial Bank,3,24.6,2,No,N/A,0.0,None,Mechanization Loan,355
