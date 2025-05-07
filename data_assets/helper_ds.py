@@ -7,7 +7,6 @@ including farmer demographics, farm characteristics, and financial data.
 import pandas as pd
 import random
 from faker import Faker
-from uuid import uuid4
 import os
 
 os.makedirs('data', exist_ok=True)
@@ -108,7 +107,9 @@ def generate_farmers(num_farmers=4000):
 
 		# Alternative data points
 		utility_payment_score = random.randint(300, 850)  # Simulated credit score
-		mobile_airtime_spend = random.randint(500, 10000)  # Monthly side note doesn't having smartphone affect mobile airtime what about those that doesn't have smartphone
+		mobile_airtime_spend = random.randint(
+			500, 10000
+		)  # Monthly side note doesn't having smartphone affect mobile airtime what about those that doesn't have smartphone
 		has_smartphone = random.choice([True, False])
 
 		# Loan history
@@ -226,4 +227,3 @@ farmers_df['farm_size_category'] = pd.cut(
 output_file = os.path.join('data', 'data_science_dataset.csv')
 farmers_df.to_csv(output_file, index=False)
 print(f"Generated dataset saved to '{output_file}'")
-

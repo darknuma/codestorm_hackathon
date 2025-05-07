@@ -88,7 +88,7 @@ crops_by_region = {
 }
 
 
-["Yam", "Beans", "Guinea Corn"]
+['Yam', 'Beans', 'Guinea Corn']
 
 # Define farm sizes based on regions (in hectares)
 farm_size_ranges = {
