@@ -10,14 +10,9 @@ from faker import Faker
 import random
 import os
 
-# Create data directory if it doesn't exist
 os.makedirs('data', exist_ok=True)
 
-# Initialize Faker for Nigerian context if available, otherwise default
-try:
-	fake = Faker('en_NG')
-except: 
-	fake = Faker()
+fake = Faker()
 
 # Configuration
 NUM_FARMERS = 4000
@@ -74,6 +69,7 @@ EDUCATION_LEVELS_YEARS = {
 }
 
 MARITAL_STATUSES = ['Single', 'Married', 'Divorced', 'Widowed']
+
 PRIMARY_ENTERPRISES = [
 	'Cassava',
 	'Yam',
@@ -261,7 +257,7 @@ for i in range(NUM_FARMERS):
 	distance_to_lender_km = round(random.uniform(5, 150), 1) if requests_loan else 0
 
 	# Simulate Loan Repayment Status (Simplified)
-	# This is a very basic simulation. Real models would be more complex.
+	# This is a very basic simulation. Real models would be more complex. i think we shoud remove creditworthiness score
 	creditworthiness_score = 0
 	if education_level_years >= EDUCATION_LEVELS_YEARS['Secondary Complete']:
 		creditworthiness_score += 1

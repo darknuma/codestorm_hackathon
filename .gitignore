@@ -2,3 +2,6 @@
 .ruff_cache
 uv.lock
 __pycache__
+deep_seek.md
+claude.md
+gemini.md

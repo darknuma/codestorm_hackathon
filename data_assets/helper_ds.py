@@ -7,12 +7,11 @@ including farmer demographics, farm characteristics, and financial data.
 import pandas as pd
 import random
 from faker import Faker
+from uuid import uuid4
 import os
 
-# Create data directory if it doesn't exist
 os.makedirs('data', exist_ok=True)
 
-# Initialize Faker for realistic fake data
 fake = Faker()
 
 # Nigerian states
@@ -109,7 +108,7 @@ def generate_farmers(num_farmers=4000):
 
 		# Alternative data points
 		utility_payment_score = random.randint(300, 850)  # Simulated credit score
-		mobile_airtime_spend = random.randint(500, 10000)  # Monthly
+		mobile_airtime_spend = random.randint(500, 10000)  # Monthly side note doesn't having smartphone affect mobile airtime what about those that doesn't have smartphone
 		has_smartphone = random.choice([True, False])
 
 		# Loan history

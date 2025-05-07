@@ -15,10 +15,8 @@ os.makedirs('data', exist_ok=True)
 np.random.seed(42)
 random.seed(42)
 
-try:
-	fake = Faker('en_NG')  #
-except:
-	fake = Faker()
+
+fake = Faker()
 
 # Number of farmers to generate
 num_farmers = 4000
@@ -88,6 +86,9 @@ crops_by_region = {
 	'South South': ['Cassava', 'Yam', 'Plantain', 'Oil Palm', 'Cocoa', 'Rubber'],
 	'South West': ['Cocoa', 'Cassava', 'Maize', 'Yam', 'Oil Palm', 'Vegetables'],
 }
+
+
+["Yam", "Beans", "Guinea Corn"]
 
 # Define farm sizes based on regions (in hectares)
 farm_size_ranges = {

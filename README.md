@@ -19,13 +19,20 @@ Our solution combines data analysis, predictive modeling, and visualization to:
 2. Predict repayment behavior and business success
 3. Create tools for financial institutions to assess risk and make informed lending decisions
 
+## Thoughts Process
+
+For a more granular thinking towards the approach there are three markdowns (`CL.md`, `DS.md` and `GC.md`) that shows the thought to generating the data we needed in the master data, which incorporated different researches and macro/micro economic data from Nigeria Bureau Statistics their ***LSMS Integrated Surveys on Agriculture Nigeria General Household SurveyPanel*** report to generate a synthetic simulated data from existing data, the documentation shown in `MasterTD.md`
+
 ## Project Structure
 
 ```.
 ├── data_assets/           # Raw and processed data files, data generated
-├── data/                  # Data
+├── data/                  # Data (contains master data, and other data)
+├── notebook/              # Data Science and ML folder
+├── app/                   # Streamlit frontend dev app for Credit worthiness
 ├── main.py                # Main script
 ├── requirements.txt       # Project dependencies
+├── MasterTD.md            # Technical Documentation for generating data (yet to be released)
 └── README.md             # Project documentation
 ```
 
@@ -36,7 +43,7 @@ Our solution combines data analysis, predictive modeling, and visualization to:
 - Python 3.8+
 - UV package manager
 
-### Installation
+### Installation and Running the Project
 
 1; Install UV:
 
@@ -60,9 +67,7 @@ Our solution combines data analysis, predictive modeling, and visualization to:
 4; Run the Generator Script
 
 ```bash
-    uv run main.py cl  # Saves to data/credit_lending_data.csv
-    uv run main.py ds  # Saves to data/data_science_dataset.csv
-    uv run main.py gm  # Saves to data/general_model_data.csv
+    uv run main.py  
 ```
 
 ## Data Strategy

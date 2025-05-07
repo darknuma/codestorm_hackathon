@@ -30,6 +30,21 @@ def import_helper_module(module_name):
 	return module
 
 
+def run_generator():
+	"""Run the main data generator script."""
+	generator_path = os.path.join('data_assets', 'generator.py')
+	if not os.path.exists(generator_path):
+		raise FileNotFoundError(f'Generator script not found at {generator_path}')
+	
+	spec = importlib.util.spec_from_file_location('generator', generator_path)
+	generator = importlib.util.module_from_spec(spec)
+	sys.modules['generator'] = generator
+	spec.loader.exec_module(generator)
+	
+	# The generator module will automatically generate data when imported
+	print('Running main data generator...')
+
+
 def main():
 	"""Execute the main application logic.
 
@@ -39,8 +54,9 @@ def main():
 	parser = argparse.ArgumentParser(description='AgriFinance Data Generation Tools')
 	parser.add_argument(
 		'helper',
+		nargs='?',  # Make the argument optional
 		choices=['cl', 'ds', 'gm'],
-		help='Helper module to run (cl=Credit Lending, ds=Data Science, gm=General Model)',
+		help='Helper module to run (cl=Credit Lending, ds=Data Science, gm=General Model). If not provided, runs the main generator.',
 	)
 	parser.add_argument(
 		'--num-farmers',
@@ -52,30 +68,34 @@ def main():
 	args = parser.parse_args()
 
 	try:
-		# Import and run the selected helper module
-		helper_module = import_helper_module(args.helper)
+		if args.helper is None:
+			# No helper specified, run the main generator
+			run_generator()
+		else:
+			# Import and run the selected helper module
+			helper_module = import_helper_module(args.helper)
 
-		# Each helper module has its own main function or data generation logic
-		if args.helper == 'cl':
-			# Credit Lending module
-			print('Generating credit lending data...')
-			# The module will automatically generate data when imported
+			# Each helper module has its own main function or data generation logic
+			if args.helper == 'cl':
+				# Credit Lending module
+				print('Generating credit lending data...')
+				# The module will automatically generate data when imported
 
-		elif args.helper == 'ds':
-			# Data Science module
-			print('Generating data science dataset...')
-			farmers_df = helper_module.generate_farmers(args.num_farmers)
-			print(f'\nGenerated dataset with {len(farmers_df)} farmers')
-			print('\nSample of generated data:')
-			print(farmers_df.head())
+			elif args.helper == 'ds':
+				# Data Science module
+				print('Generating data science dataset...')
+				farmers_df = helper_module.generate_farmers(args.num_farmers)
+				print(f'\nGenerated dataset with {len(farmers_df)} farmers')
+				print('\nSample of generated data:')
+				print(farmers_df.head())
 
-		elif args.helper == 'gm':
-			# General Model module
-			print('Generating general model data...')
-			# The module will automatically generate data when imported
+			elif args.helper == 'gm':
+				# General Model module
+				print('Generating general model data...')
+				# The module will automatically generate data when imported
 
 	except Exception as e:
-		print(f'Error running helper module: {str(e)}')
+		print(f'Error running module: {str(e)}')
 		sys.exit(1)
 
 
