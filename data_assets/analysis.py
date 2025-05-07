@@ -6,7 +6,7 @@ from faker import Faker
 import datetime
 
 # --- Configuration & Constants ---
-NUM_FARMERS = 200  # Number of unique farmers to generate. Adjust as needed.
+NUM_FARMERS = 10000  # Number of unique farmers to generate. Adjust as needed.
 # MAX_ENTERPRISES_PER_FARMER = 1 # Now generating 1 primary enterprise based on master data concept
 # MAX_LOANS_PER_ENTERPRISE = 1   # Now generating 1 loan based on prior_loan concept
 OUTPUT_DIR = 'simplified_farmer_data_output_v2'
