@@ -734,36 +734,154 @@ def calculate_predicted_default_probability(row):  # For current loan request
 all_farmer_data = []
 for i in range(NUM_FARMERS):
 	farmer_id = f'NGF{i + 1:06d}'
-	age = random.randint(16, 65)  # Wider age range
-	gender = random.choices(['Male', 'Female'], weights=[0.75, 0.25])[
-		0
-	]  # Reflecting HOH stats more
+	age = random.randint(16, 65) #
 
-	education_category = weighted_choice(
-		[
+	possible_education_levels = []
+	if age < 18: # Too young for anything beyond some secondary
+		possible_education_levels = [
+			('No Formal Education', 0.4),
+			('Primary Incomplete', 0.3),
+			('Primary Complete', 0.2),
+			('Secondary Incomplete', 0.1)
+		]
+	elif age < 22: # Potentially up to Secondary Complete, maybe some early tertiary
+		possible_education_levels = [
+			('No Formal Education', 0.20),
+			('Primary Incomplete', 0.10),
+			('Primary Complete', 0.20),
+			('Secondary Incomplete', 0.20),
+			('Secondary Complete', 0.25),
+			('OND/NCE', 0.05) # Less likely but possible
+		]
+	elif age < 25: # Potentially up to OND/NCE or early BSc
+		possible_education_levels = [
+			('No Formal Education', 0.15),
+			('Primary Incomplete', 0.10),
+			('Primary Complete', 0.15),
+			('Secondary Incomplete', 0.15),
+			('Secondary Complete', 0.25),
+			('OND/NCE', 0.15),
+			('HND/BSc', 0.05) # Less likely but possible
+		]
+	else: # Can access all levels
+		possible_education_levels = [
 			('No Formal Education', 0.25),
 			('Primary Incomplete', 0.15),
-			('Primary Complete', 0.25),  # Higher no/primary
+			('Primary Complete', 0.25),
 			('Secondary Incomplete', 0.10),
 			('Secondary Complete', 0.18),
 			('OND/NCE', 0.04),
 			('HND/BSc', 0.02),
-			('Masters/PhD', 0.01),  # Lower tertiary
+			('Masters/PhD', 0.01),
 		]
-	)
-	education_level_years = EDUCATION_LEVELS_MAPPING[education_category]
 
-	marital_status = weighted_choice(
-		[
-			('Single', 0.15 if age < 30 else 0.05),
-			('Married', 0.75),  # Higher married rate
-			('Divorced', 0.03),
-			('Widowed', 0.07),
+	# Ensure education years don't exceed (age - typical_starting_school_age)
+	# e.g. typical_starting_school_age = 6
+	max_possible_edu_years = age - 6
+	filtered_education_choices = []
+	for edu_cat, weight in possible_education_levels:
+		if EDUCATION_LEVELS_MAPPING[edu_cat] <= max_possible_edu_years:
+			filtered_education_choices.append((edu_cat, weight))
+		# If highest education for age bracket is still too high, it will be excluded.
+		# If all are excluded (e.g. for age 6, no formal edu is 0, <= 6-6=0),
+		# you might need a fallback like 'No Formal Education'.
+
+	if not filtered_education_choices: # Fallback if all get filtered out
+		# This might happen if age is very low and all defined education levels exceed max_possible_edu_years
+		# Or if weights are such that no valid option remains after filtering.
+		# A robust fallback would be 'No Formal Education' or the lowest possible valid one.
+		education_category = 'No Formal Education'
+	else:
+		education_category = weighted_choice(filtered_education_choices)
+
+	education_level_years = EDUCATION_LEVELS_MAPPING[education_category]
+	gender = random.choices(['Male', 'Female'], weights=[0.75, 0.25])[
+		0
+	]  # Reflecting HOH stats more
+
+	# education_category = weighted_choice(
+	# 	[
+	# 		('No Formal Education', 0.25),
+	# 		('Primary Incomplete', 0.15),
+	# 		('Primary Complete', 0.25),  # Higher no/primary
+	# 		('Secondary Incomplete', 0.10),
+	# 		('Secondary Complete', 0.18),
+	# 		('OND/NCE', 0.04),
+	# 		('HND/BSc', 0.02),
+	# 		('Masters/PhD', 0.01),  # Lower tertiary
+	# 	]
+	# )
+	# education_level_years = EDUCATION_LEVELS_MAPPING[education_category]
+
+# --- Inside the main loop ---
+# age is already generated
+
+	if age < 18: # Very young
+		marital_status_weights = [
+			('Single', 0.95),
+			('Married', 0.05), # Very low chance
+			('Divorced', 0.00),
+			('Widowed', 0.00)
 		]
-	)
-	household_size = (
-		random.randint(1, 5) if marital_status == 'Single' and age < 30 else random.randint(3, 14)
-	)  # Typical range 4-6 mentioned
+	elif age < 22:
+		marital_status_weights = [
+			('Single', 0.60),
+			('Married', 0.38),
+			('Divorced', 0.01),
+			('Widowed', 0.01)
+		]
+	elif age < 30:
+		marital_status_weights = [
+			('Single', 0.25),
+			('Married', 0.70),
+			('Divorced', 0.02),
+			('Widowed', 0.03)
+		]
+	else: # 30+
+		marital_status_weights = [
+			('Single', 0.05),
+			('Married', 0.75), #
+			('Divorced', 0.05), # Slightly higher chance than current
+			('Widowed', 0.15)  # Higher chance for older individuals
+		]
+	marital_status = weighted_choice(marital_status_weights)
+
+
+	if marital_status == 'Single':
+		if age < 22:
+			household_size = random.randint(1, 3) # Likely living with parents or alone/few roommates
+		elif age < 30:
+			household_size = random.randint(1, 5) # (original logic for this bracket)
+		else: # Older single individual
+			household_size = random.randint(1, 4)
+	elif marital_status == 'Married':
+		# For younger married individuals, household size might start smaller
+		min_hh_size = 2 # Self and spouse
+		if age < 22:
+			# Less likely to have many children immediately
+			household_size = random.randint(min_hh_size, min_hh_size + 2) # e.g., 2-4
+		elif age < 30:
+			household_size = random.randint(min_hh_size, min_hh_size + 4) # e.g., 2-6
+		else: # 30+
+			household_size = random.randint(min_hh_size, 14) # Can be larger (similar to original upper range)
+	elif marital_status == 'Widowed':
+		# Could be 1 (if no children/dependents) or more
+		# Consider age for likelihood of having dependent children
+		if age < 30:
+			household_size = random.randint(1, 3) # Less likely to have many older children
+		else:
+			household_size = random.randint(1, 10) # Can have dependents
+	elif marital_status == 'Divorced':
+		if age < 30:
+			household_size = random.randint(1, 4)
+		else:
+			household_size = random.randint(1, 8)
+
+	# Ensure household_size is at least 1
+	household_size = max(1, household_size)
+	# household_size = (
+	# 	random.randint(1, 5) if marital_status == 'Single' and age < 30 else random.randint(3, 14)
+	# )  # Typical range 4-6 mentioned
 
 	state = random.choice(NIGERIAN_STATES)
 	region = STATE_TO_REGION[state]
