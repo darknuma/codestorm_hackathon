@@ -11,9 +11,9 @@ import random
 import pandas as pd
 import numpy as np
 from faker import Faker
-from uuid import (
-	uuid4,
-)  # Retained if needed for other unique ID generation, though farmer_id is custom
+# from uuid import (
+# 	uuid4,
+# )  # Retained if needed for other unique ID generation, though farmer_id is custom
 
 # --- Configuration & Constants ---
 NUM_FARMERS = 10000
