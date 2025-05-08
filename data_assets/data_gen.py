@@ -12,11 +12,11 @@ import random
 import pandas as pd
 import numpy as np
 from faker import Faker
-from datetime import datetime, timedelta # Added for date calculations
+from datetime import datetime # Added for date calculations
 from dateutil.relativedelta import relativedelta # Added for precise month calculations
 
 # --- Configuration & Constants ---
-NUM_FARMERS = 1000 # Reduced for faster testing, user can set back to 10000
+NUM_FARMERS = 10000 # Reduced for faster testing, user can set back to 10000
 OUTPUT_DIR = 'data'
 OUTPUT_FILENAME = os.path.join(OUTPUT_DIR, 'master_nigerian_farmer_data.csv')
 FARMER_PROFILE_FILENAME = os.path.join(OUTPUT_DIR, 'farmer_profile.csv')
@@ -29,7 +29,7 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 fake = Faker() 
 Faker.seed(42) 
 
-# Set seeds for reproducibility
+
 np.random.seed(42)
 random.seed(42)
 
