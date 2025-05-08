@@ -1,0 +1,1414 @@
+Enterprise_ID,Farmer_ID,Enterprise_Type,Primary_Crop,Secondary_Crop,Farm_Size_Ha,Farm_Size_Category,Farming_Experience_Years,Farming_Equipment_Type,Uses_Irrigation,Depends_on_Rain,Uses_Fertilizer,Uses_Improved_Seeds,Yield_per_Hectare_Tons,Profit_NGN,Monthly_Income_NGN,Monthly_Expense_NGN,Value_of_Farm_Assets_NGN,Total_Operating_Expenditure_NGN,Farm_Income_NGN
+E0000001,NGF000001,Crop,Cassava,Maize,0.31,Subsistence (<1ha),35,Traditional,False,True,False,False,20.93,758000.0,64917.0,1750.0,93000.0,21000.0,779000.0
+E0000002,NGF000001,Poultry,,,0.0,,35,N/A,False,True,False,False,0.0,0.0,0.0,0.0,93000.0,0.0,0.0
+E0000003,NGF000002,Crop,Yam,Cowpea,1.75,Small (1-5ha),38,Traditional,False,True,False,False,14.24,6715000.0,581500.0,21917.0,525000.0,263000.0,6978000.0
+E0000004,NGF000003,Crop,Sorghum,Rice,2.02,Small (1-5ha),33,Traditional,True,False,False,False,2.27,592000.0,72667.0,23333.0,606000.0,280000.0,872000.0
+E0000005,NGF000004,Crop,Rice,Yam,2.47,Small (1-5ha),31,Traditional,False,True,False,False,4.12,3034000.0,296917.0,44083.0,741000.0,529000.0,3563000.0
+E0000006,NGF000005,Crop,Sorghum,Groundnut,0.41,Subsistence (<1ha),12,Traditional,False,True,False,False,2.61,168000.0,16917.0,2917.0,123000.0,35000.0,203000.0
+E0000007,NGF000006,Crop,Rice,Sesame,3.82,Small (1-5ha),3,Traditional,False,True,False,True,2.29,2332000.0,255167.0,60833.0,1146000.0,730000.0,3062000.0
+E0000008,NGF000007,Crop,Millet,Cotton,0.75,Subsistence (<1ha),17,Traditional,False,True,True,False,2.89,326000.0,32583.0,5417.0,225000.0,65000.0,391000.0
+E0000009,NGF000008,Crop,Yam,Sorghum,1.67,Small (1-5ha),16,Unknown,False,True,False,False,11.28,5016000.0,439583.0,21583.0,501000.0,259000.0,5275000.0
+E0000010,NGF000008,Poultry,,,0.0,,16,N/A,False,True,False,False,0.0,0.0,0.0,0.0,501000.0,0.0,0.0
+E0000011,NGF000009,Crop,Cassava,Plantain,0.69,Subsistence (<1ha),9,Traditional,False,True,False,True,20.77,1678000.0,143333.0,3500.0,207000.0,42000.0,1720000.0
+E0000012,NGF000010,Crop,Millet,Maize,2.3,Small (1-5ha),5,Traditional,False,True,True,True,2.48,769000.0,85500.0,21417.0,690000.0,257000.0,1026000.0
+E0000013,NGF000011,Crop,Rice,,3.36,Small (1-5ha),29,Traditional,False,True,True,False,3.83,3711000.0,375333.0,66083.0,1008000.0,793000.0,4504000.0
+E0000014,NGF000011,Cattle,,,0.0,,29,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1008000.0,0.0,0.0
+E0000015,NGF000012,Crop,Oil Palm,,0.33,Subsistence (<1ha),20,Traditional,False,True,False,False,4.39,642000.0,60417.0,6917.0,99000.0,83000.0,725000.0
+E0000016,NGF000013,Crop,Cocoa,Vegetables,0.7,Subsistence (<1ha),5,Traditional,False,True,False,False,0.53,-7000.0,46250.0,46833.0,210000.0,562000.0,555000.0
+E0000017,NGF000014,Crop,Yam,Plantain,3.25,Small (1-5ha),32,Traditional,False,True,False,False,14.82,12970000.0,1123750.0,42917.0,975000.0,515000.0,13485000.0
+E0000018,NGF000014,Sheep,,,0.0,,32,N/A,False,True,False,False,0.0,0.0,0.0,0.0,975000.0,0.0,0.0
+E0000019,NGF000015,Crop,Groundnut,Maize,4.97,Small (1-5ha),13,Traditional,False,True,True,False,1.1,1196000.0,205167.0,105500.0,1491000.0,1266000.0,2462000.0
+E0000020,NGF000016,Crop,Maize,Rice,0.52,Subsistence (<1ha),5,Traditional,False,True,False,False,2.58,217000.0,22333.0,4250.0,156000.0,51000.0,268000.0
+E0000021,NGF000017,Crop,Millet,Sorghum,0.85,Subsistence (<1ha),24,Integrated,False,True,False,False,1.84,215000.0,23417.0,5500.0,305000.0,66000.0,281000.0
+E0000022,NGF000018,Crop,Yam,Beans,0.2,Subsistence (<1ha),14,Integrated,False,True,False,False,17.93,978000.0,83750.0,2250.0,110000.0,27000.0,1005000.0
+E0000023,NGF000018,Pigs,,,0.0,,14,N/A,False,True,False,False,0.0,0.0,0.0,0.0,110000.0,0.0,0.0
+E0000024,NGF000019,Crop,Oil Palm,Maize,2.43,Small (1-5ha),16,Traditional,False,True,True,False,4.74,4890000.0,480000.0,72500.0,729000.0,870000.0,5760000.0
+E0000025,NGF000019,Pigs,,,0.0,,16,N/A,False,True,False,False,0.0,0.0,0.0,0.0,729000.0,0.0,0.0
+E0000026,NGF000020,Crop,Beans,Cowpea,1.08,Small (1-5ha),14,Traditional,False,True,True,False,1.58,439000.0,57000.0,20417.0,324000.0,245000.0,684000.0
+E0000027,NGF000020,Goats,,,0.0,,14,N/A,False,True,False,False,0.0,0.0,0.0,0.0,324000.0,0.0,0.0
+E0000028,NGF000021,Crop,Beans,Rice,2.73,Small (1-5ha),39,Traditional,False,True,False,False,0.94,453000.0,85667.0,47917.0,819000.0,575000.0,1028000.0
+E0000029,NGF000022,Crop,Cassava,Rice,0.77,Subsistence (<1ha),3,Traditional,False,True,False,False,16.71,1498000.0,128667.0,3833.0,231000.0,46000.0,1544000.0
+E0000030,NGF000023,Crop,Groundnut,Millet,0.63,Subsistence (<1ha),39,Traditional,False,True,True,False,1.6,265000.0,37833.0,15750.0,189000.0,189000.0,454000.0
+E0000031,NGF000023,Poultry,,,0.0,,39,N/A,False,True,False,False,0.0,0.0,0.0,0.0,189000.0,0.0,0.0
+E0000032,NGF000024,Crop,Cassava,Guinea Corn,1.81,Small (1-5ha),38,Traditional,False,True,True,False,21.66,4578000.0,392000.0,10500.0,543000.0,126000.0,4704000.0
+E0000033,NGF000025,Crop,Yam,Vegetables,3.37,Small (1-5ha),34,Integrated,False,True,False,False,11.29,10147000.0,887833.0,42250.0,1061000.0,507000.0,10654000.0
+E0000034,NGF000026,Crop,Sorghum,Maize,0.53,Subsistence (<1ha),1,Traditional,False,True,True,False,1.91,127000.0,16000.0,5417.0,159000.0,65000.0,192000.0
+E0000035,NGF000026,Cattle,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,159000.0,0.0,0.0
+E0000036,NGF000027,Crop,Maize,Cassava,2.5,Small (1-5ha),4,Traditional,False,True,False,False,3.3,1343000.0,137500.0,25583.0,750000.0,307000.0,1650000.0
+E0000037,NGF000028,Crop,Yam,Cassava,0.43,Subsistence (<1ha),1,Traditional,False,True,False,False,8.79,991000.0,88167.0,5583.0,129000.0,67000.0,1058000.0
+E0000038,NGF000029,Crop,Maize,Cassava,0.22,Subsistence (<1ha),5,Traditional,False,True,False,False,3.35,123000.0,12333.0,2083.0,66000.0,25000.0,148000.0
+E0000039,NGF000029,Sheep,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,66000.0,0.0,0.0
+E0000040,NGF000030,Crop,Rice,Millet,0.99,Subsistence (<1ha),44,Integrated,False,True,True,False,3.68,1088000.0,106167.0,15500.0,347000.0,186000.0,1274000.0
+E0000041,NGF000030,Goats,,,0.0,,44,N/A,False,True,False,False,0.0,0.0,0.0,0.0,347000.0,0.0,0.0
+E0000042,NGF000031,Crop,Yam,Vegetables,1.63,Small (1-5ha),24,Traditional,False,True,True,False,17.39,7655000.0,661500.0,23583.0,489000.0,283000.0,7938000.0
+E0000043,NGF000031,Goats,,,0.0,,24,N/A,False,True,False,False,0.0,0.0,0.0,0.0,489000.0,0.0,0.0
+E0000044,NGF000032,Crop,Cassava,Cocoa,0.11,Subsistence (<1ha),33,Traditional,False,True,False,False,18.34,235000.0,20167.0,583.0,33000.0,7000.0,242000.0
+E0000045,NGF000032,Goats,,,0.0,,33,N/A,False,True,False,False,0.0,0.0,0.0,0.0,33000.0,0.0,0.0
+E0000046,NGF000033,Crop,Yam,Rubber,0.4,Subsistence (<1ha),6,Integrated,False,True,True,False,13.36,1422000.0,124583.0,6083.0,170000.0,73000.0,1495000.0
+E0000047,NGF000034,Crop,Sorghum,Yam,1.11,Small (1-5ha),18,Traditional,False,True,False,False,2.03,316000.0,35667.0,9333.0,333000.0,112000.0,428000.0
+E0000048,NGF000035,Crop,Rubber,Beans,0.44,Subsistence (<1ha),18,Traditional,False,True,False,False,1.16,213000.0,29750.0,12000.0,132000.0,144000.0,357000.0
+E0000049,NGF000036,Crop,Cowpea,,0.62,Subsistence (<1ha),25,Traditional,False,True,True,False,1.24,186000.0,25667.0,10167.0,186000.0,122000.0,308000.0
+E0000050,NGF000037,Crop,Maize,Groundnut,0.58,Subsistence (<1ha),20,Traditional,False,True,False,False,3.86,388000.0,37333.0,5000.0,174000.0,60000.0,448000.0
+E0000051,NGF000038,Crop,Yam,Sesame,0.52,Subsistence (<1ha),36,Integrated,False,True,False,False,9.1,1265000.0,110333.0,4917.0,206000.0,59000.0,1324000.0
+E0000052,NGF000039,Crop,Oil Palm,Beans,1.4,Small (1-5ha),40,Traditional,False,True,True,False,7.24,4626000.0,422500.0,37000.0,420000.0,444000.0,5070000.0
+E0000053,NGF000040,Crop,Sorghum,Cowpea,2.37,Small (1-5ha),37,Traditional,False,True,False,False,1.97,628000.0,73917.0,21583.0,711000.0,259000.0,887000.0
+E0000054,NGF000040,Goats,,,0.0,,37,N/A,False,True,False,False,0.0,0.0,0.0,0.0,711000.0,0.0,0.0
+E0000055,NGF000041,Crop,Sorghum,Beans,0.75,Subsistence (<1ha),6,Traditional,False,True,True,False,1.89,174000.0,22500.0,8000.0,225000.0,96000.0,270000.0
+E0000056,NGF000041,Poultry,,,0.0,,6,N/A,False,True,False,False,0.0,0.0,0.0,0.0,225000.0,0.0,0.0
+E0000057,NGF000042,Crop,Yam,Vegetables,0.37,Subsistence (<1ha),16,Traditional,False,True,True,False,14.82,1474000.0,127833.0,5000.0,111000.0,60000.0,1534000.0
+E0000058,NGF000043,Crop,Maize,Sorghum,1.31,Small (1-5ha),2,Traditional,False,True,True,False,2.47,478000.0,54000.0,14167.0,393000.0,170000.0,648000.0
+E0000059,NGF000044,Crop,Soybean,Sorghum,1.41,Small (1-5ha),30,Traditional,False,True,False,False,1.32,411000.0,58917.0,24667.0,423000.0,296000.0,707000.0
+E0000060,NGF000045,Crop,Beans,Yam,0.82,Subsistence (<1ha),7,Traditional,False,True,False,False,1.27,276000.0,34667.0,11667.0,246000.0,140000.0,416000.0
+E0000061,NGF000046,Crop,Cowpea,Cassava,1.25,Small (1-5ha),5,Traditional,False,True,False,False,0.82,143000.0,34000.0,22083.0,375000.0,265000.0,408000.0
+E0000062,NGF000046,Pigs,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,375000.0,0.0,0.0
+E0000063,NGF000047,Crop,Yam,,0.12,Subsistence (<1ha),5,Traditional,False,True,False,False,15.8,516000.0,44333.0,1333.0,36000.0,16000.0,532000.0
+E0000064,NGF000047,Pigs,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,36000.0,0.0,0.0
+E0000065,NGF000048,Crop,Yam,Cassava,0.14,Subsistence (<1ha),33,Traditional,False,True,False,False,11.45,430000.0,37333.0,1500.0,42000.0,18000.0,448000.0
+E0000066,NGF000049,Crop,Maize,Yam,1.15,Small (1-5ha),27,Unknown,False,True,True,False,2.5,410000.0,48000.0,13833.0,345000.0,166000.0,576000.0
+E0000067,NGF000049,Cattle,,,0.0,,27,N/A,False,True,False,False,0.0,0.0,0.0,0.0,345000.0,0.0,0.0
+E0000068,NGF000050,Crop,Sorghum,Millet,1.78,Small (1-5ha),5,Traditional,False,True,False,True,1.93,495000.0,54500.0,13250.0,534000.0,159000.0,654000.0
+E0000069,NGF000050,Cattle,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,534000.0,0.0,0.0
+E0000070,NGF000051,Crop,Yam,Cocoa,2.08,Small (1-5ha),4,Traditional,False,True,True,False,14.81,8298000.0,718667.0,27167.0,624000.0,326000.0,8624000.0
+E0000071,NGF000051,Poultry,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,624000.0,0.0,0.0
+E0000072,NGF000052,Crop,Beans,Cassava,0.21,Subsistence (<1ha),4,Traditional,False,True,False,True,0.73,10000.0,5000.0,4167.0,63000.0,50000.0,60000.0
+E0000073,NGF000052,Goats,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,63000.0,0.0,0.0
+E0000074,NGF000053,Crop,Sesame,Groundnut,0.74,Subsistence (<1ha),17,Traditional,False,True,False,False,0.79,158000.0,29000.0,15833.0,222000.0,190000.0,348000.0
+E0000075,NGF000053,Sheep,,,0.0,,17,N/A,False,True,False,False,0.0,0.0,0.0,0.0,222000.0,0.0,0.0
+E0000076,NGF000054,Crop,Cassava,Millet,2.51,Small (1-5ha),11,Traditional,False,True,False,False,18.38,5376000.0,461333.0,13333.0,753000.0,160000.0,5536000.0
+E0000077,NGF000054,Cattle,,,0.0,,11,N/A,False,True,False,False,0.0,0.0,0.0,0.0,753000.0,0.0,0.0
+E0000078,NGF000055,Crop,Maize,Yam,0.34,Subsistence (<1ha),2,Traditional,False,True,False,False,2.38,130000.0,13500.0,2667.0,102000.0,32000.0,162000.0
+E0000079,NGF000056,Crop,Cassava,Plantain,0.28,Subsistence (<1ha),38,Traditional,False,True,False,False,13.23,426000.0,37000.0,1500.0,84000.0,18000.0,444000.0
+E0000080,NGF000057,Crop,Rice,Maize,1.79,Small (1-5ha),6,Traditional,False,True,False,True,4.1,2187000.0,214083.0,31833.0,537000.0,382000.0,2569000.0
+E0000081,NGF000057,Poultry,,,0.0,,6,N/A,False,True,False,False,0.0,0.0,0.0,0.0,537000.0,0.0,0.0
+E0000082,NGF000058,Crop,Sorghum,Guinea Corn,1.65,Small (1-5ha),17,Traditional,False,True,True,False,2.59,653000.0,67583.0,13167.0,495000.0,158000.0,811000.0
+E0000083,NGF000059,Crop,Guinea Corn,Groundnut,2.35,Small (1-5ha),17,Traditional,False,True,True,False,3.61,1269000.0,134250.0,28500.0,705000.0,342000.0,1611000.0
+E0000084,NGF000059,Sheep,,,0.0,,17,N/A,False,True,False,False,0.0,0.0,0.0,0.0,705000.0,0.0,0.0
+E0000085,NGF000060,Crop,Cowpea,Groundnut,1.34,Small (1-5ha),25,Traditional,False,True,False,False,1.31,476000.0,58667.0,19000.0,402000.0,228000.0,704000.0
+E0000086,NGF000060,Goats,,,0.0,,25,N/A,False,True,False,False,0.0,0.0,0.0,0.0,402000.0,0.0,0.0
+E0000087,NGF000061,Crop,Maize,Rice,1.97,Small (1-5ha),15,Integrated,False,True,True,False,5.29,1803000.0,173667.0,23417.0,641000.0,281000.0,2084000.0
+E0000088,NGF000062,Crop,Cowpea,Rice,3.55,Small (1-5ha),10,Integrated,False,True,True,False,0.94,537000.0,111333.0,66583.0,1115000.0,799000.0,1336000.0
+E0000089,NGF000063,Crop,Cassava,Rice,3.05,Small (1-5ha),8,Traditional,False,True,False,False,20.39,7266000.0,621917.0,16417.0,915000.0,197000.0,7463000.0
+E0000090,NGF000063,Goats,,,0.0,,8,N/A,False,True,False,False,0.0,0.0,0.0,0.0,915000.0,0.0,0.0
+E0000091,NGF000064,Crop,Cowpea,Beans,2.24,Small (1-5ha),24,Traditional,False,True,False,False,0.91,323000.0,68000.0,41083.0,672000.0,493000.0,816000.0
+E0000092,NGF000065,Crop,Vegetables,,0.98,Subsistence (<1ha),32,Unknown,False,True,False,False,24.67,7612000.0,644833.0,10500.0,294000.0,126000.0,7738000.0
+E0000093,NGF000066,Crop,Cowpea,Beans,1.4,Small (1-5ha),3,Integrated,False,True,False,False,0.72,149000.0,33667.0,21250.0,620000.0,255000.0,404000.0
+E0000094,NGF000067,Crop,Rice,Rubber,0.41,Subsistence (<1ha),3,Traditional,False,True,False,False,3.67,457000.0,43750.0,5667.0,123000.0,68000.0,525000.0
+E0000095,NGF000068,Crop,Cassava,Beans,1.63,Small (1-5ha),28,Traditional,False,True,False,False,15.67,2955000.0,255417.0,9167.0,489000.0,110000.0,3065000.0
+E0000096,NGF000069,Crop,Cassava,Beans,0.12,Subsistence (<1ha),36,Unknown,False,True,False,False,19.7,276000.0,23583.0,583.0,36000.0,7000.0,283000.0
+E0000097,NGF000070,Crop,Cassava,Maize,0.75,Subsistence (<1ha),20,Integrated,False,True,False,False,18.9,1647000.0,141667.0,4417.0,425000.0,53000.0,1700000.0
+E0000098,NGF000071,Crop,Cotton,Tomato,1.83,Small (1-5ha),2,Integrated,False,True,False,False,1.63,1232000.0,136583.0,33917.0,599000.0,407000.0,1639000.0
+E0000099,NGF000072,Crop,Vegetables,Plantain,2.95,Small (1-5ha),36,Traditional,False,True,False,False,26.85,24765000.0,2112250.0,48500.0,885000.0,582000.0,25347000.0
+E0000100,NGF000072,Goats,,,0.0,,36,N/A,False,True,False,False,0.0,0.0,0.0,0.0,885000.0,0.0,0.0
+E0000101,NGF000073,Crop,Sesame,Cowpea,0.46,Subsistence (<1ha),6,Traditional,False,True,True,False,0.77,52000.0,17500.0,13167.0,138000.0,158000.0,210000.0
+E0000102,NGF000073,Poultry,,,0.0,,6,N/A,False,True,False,False,0.0,0.0,0.0,0.0,138000.0,0.0,0.0
+E0000103,NGF000074,Crop,Cowpea,Maize,0.4,Subsistence (<1ha),39,Traditional,False,True,False,False,1.12,105000.0,15000.0,6250.0,120000.0,75000.0,180000.0
+E0000104,NGF000075,Crop,Cocoa,Cassava,1.02,Small (1-5ha),16,Unknown,False,True,True,False,0.9,309000.0,115000.0,89250.0,306000.0,1071000.0,1380000.0
+E0000105,NGF000076,Crop,Groundnut,Tomato,0.43,Subsistence (<1ha),36,Traditional,False,True,False,False,1.23,130000.0,19833.0,9000.0,129000.0,108000.0,238000.0
+E0000106,NGF000077,Crop,Cowpea,Groundnut,0.42,Subsistence (<1ha),36,Unknown,False,True,True,True,1.66,151000.0,23333.0,10750.0,126000.0,129000.0,280000.0
+E0000107,NGF000077,Sheep,,,0.0,,36,N/A,False,True,False,False,0.0,0.0,0.0,0.0,126000.0,0.0,0.0
+E0000108,NGF000078,Crop,Maize,Soybean,1.12,Small (1-5ha),31,Traditional,False,True,False,False,3.34,622000.0,62333.0,10500.0,336000.0,126000.0,748000.0
+E0000109,NGF000079,Crop,Cocoa,Cowpea,0.28,Subsistence (<1ha),39,Traditional,False,True,False,False,0.97,236000.0,33750.0,14083.0,84000.0,169000.0,405000.0
+E0000110,NGF000080,Crop,Sorghum,Cotton,1.62,Small (1-5ha),2,Traditional,False,True,False,False,2.39,575000.0,61250.0,13333.0,486000.0,160000.0,735000.0
+E0000111,NGF000081,Crop,Sorghum,,0.51,Subsistence (<1ha),15,Traditional,False,True,False,False,1.83,128000.0,14750.0,4083.0,153000.0,49000.0,177000.0
+E0000112,NGF000082,Crop,Cassava,Vegetables,0.25,Subsistence (<1ha),32,Traditional,False,True,False,False,18.43,537000.0,46083.0,1333.0,75000.0,16000.0,553000.0
+E0000113,NGF000083,Crop,Maize,Tomato,4.07,Small (1-5ha),10,Integrated,False,True,True,False,2.73,1670000.0,185167.0,46000.0,1471000.0,552000.0,2222000.0
+E0000114,NGF000084,Crop,Cassava,Soybean,3.32,Small (1-5ha),4,Traditional,False,True,True,False,23.59,9162000.0,783167.0,19667.0,996000.0,236000.0,9398000.0
+E0000115,NGF000084,Ducks,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,996000.0,0.0,0.0
+E0000116,NGF000085,Crop,Cowpea,Yam,0.2,Subsistence (<1ha),29,Integrated,False,True,True,False,1.56,73000.0,10333.0,4250.0,260000.0,51000.0,124000.0
+E0000117,NGF000086,Crop,Cowpea,Groundnut,0.64,Subsistence (<1ha),5,Traditional,False,True,True,False,1.45,189000.0,31000.0,15250.0,192000.0,183000.0,372000.0
+E0000118,NGF000086,Cattle,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,192000.0,0.0,0.0
+E0000119,NGF000087,Crop,Maize,Cotton,5.47,Medium (5-10ha),7,Traditional,False,True,True,False,2.49,1998000.0,227000.0,60500.0,1641000.0,726000.0,2724000.0
+E0000120,NGF000087,Goats,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1641000.0,0.0,0.0
+E0000121,NGF000088,Crop,Beans,Oil Palm,1.63,Small (1-5ha),2,Traditional,False,True,False,False,1.21,506000.0,65667.0,23500.0,489000.0,282000.0,788000.0
+E0000122,NGF000088,Goats,,,0.0,,2,N/A,False,True,False,False,0.0,0.0,0.0,0.0,489000.0,0.0,0.0
+E0000123,NGF000089,Crop,Rice,,0.1,Subsistence (<1ha),17,Integrated,False,True,True,False,3.56,106000.0,10500.0,1667.0,80000.0,20000.0,126000.0
+E0000124,NGF000090,Crop,Maize,Rice,2.45,Small (1-5ha),31,Integrated,False,True,False,False,2.21,831000.0,90167.0,20917.0,935000.0,251000.0,1082000.0
+E0000125,NGF000090,Ducks,,,0.0,,31,N/A,False,True,False,False,0.0,0.0,0.0,0.0,935000.0,0.0,0.0
+E0000126,NGF000091,Crop,Cocoa,,2.94,Small (1-5ha),27,Traditional,False,True,False,False,0.63,366000.0,231250.0,200750.0,882000.0,2409000.0,2775000.0
+E0000127,NGF000091,Cattle,,,0.0,,27,N/A,False,True,False,False,0.0,0.0,0.0,0.0,882000.0,0.0,0.0
+E0000128,NGF000092,Crop,Yam,Maize,0.32,Subsistence (<1ha),33,Traditional,False,True,False,True,10.22,856000.0,76333.0,5000.0,96000.0,60000.0,916000.0
+E0000129,NGF000093,Crop,Cassava,,0.86,Subsistence (<1ha),12,Integrated,False,True,False,False,19.98,2009000.0,171833.0,4417.0,458000.0,53000.0,2062000.0
+E0000130,NGF000094,Crop,Cowpea,,1.95,Small (1-5ha),5,Traditional,False,True,False,False,1.0,315000.0,65000.0,38750.0,585000.0,465000.0,780000.0
+E0000131,NGF000095,Crop,Sorghum,Rice,4.02,Small (1-5ha),24,Traditional,False,True,False,False,2.88,1840000.0,183333.0,30000.0,1206000.0,360000.0,2200000.0
+E0000132,NGF000095,Poultry,,,0.0,,24,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1206000.0,0.0,0.0
+E0000133,NGF000096,Crop,Rice,,1.38,Small (1-5ha),35,Traditional,False,True,True,False,4.09,1702000.0,164500.0,22667.0,414000.0,272000.0,1974000.0
+E0000134,NGF000097,Crop,Rice,Beans,0.4,Subsistence (<1ha),8,Integrated,False,True,False,False,1.9,207000.0,22167.0,4917.0,320000.0,59000.0,266000.0
+E0000135,NGF000097,Cattle,,,0.0,,8,N/A,False,True,False,False,0.0,0.0,0.0,0.0,320000.0,0.0,0.0
+E0000136,NGF000098,Crop,Rubber,Plantain,0.44,Subsistence (<1ha),9,Integrated,False,True,False,False,1.57,355000.0,40250.0,10667.0,182000.0,128000.0,483000.0
+E0000137,NGF000099,Crop,Cowpea,Sesame,0.3,Subsistence (<1ha),37,Traditional,False,True,False,False,0.84,43000.0,8333.0,4750.0,90000.0,57000.0,100000.0
+E0000138,NGF000100,Crop,Cassava,,1.65,Small (1-5ha),1,Integrated,False,True,False,False,10.98,2090000.0,181167.0,7000.0,695000.0,84000.0,2174000.0
+E0000139,NGF000101,Crop,Maize,Oil Palm,1.11,Small (1-5ha),6,Traditional,False,True,False,False,1.96,317000.0,36333.0,9917.0,333000.0,119000.0,436000.0
+E0000140,NGF000102,Crop,Groundnut,Maize,1.64,Small (1-5ha),29,Traditional,False,True,False,False,1.28,609000.0,78750.0,28000.0,492000.0,336000.0,945000.0
+E0000141,NGF000103,Crop,Cotton,Maize,4.61,Small (1-5ha),15,Integrated,False,True,False,False,1.32,2216000.0,279167.0,94500.0,1583000.0,1134000.0,3350000.0
+E0000142,NGF000104,Crop,Yam,Cocoa,0.5,Subsistence (<1ha),5,Traditional,False,True,True,False,15.5,2101000.0,180833.0,5750.0,150000.0,69000.0,2170000.0
+E0000143,NGF000104,Poultry,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,150000.0,0.0,0.0
+E0000144,NGF000105,Crop,Maize,Sorghum,2.03,Small (1-5ha),29,Traditional,False,True,False,False,1.97,581000.0,66667.0,18250.0,609000.0,219000.0,800000.0
+E0000145,NGF000105,Ducks,,,0.0,,29,N/A,False,True,False,False,0.0,0.0,0.0,0.0,609000.0,0.0,0.0
+E0000146,NGF000106,Crop,Cowpea,Sesame,1.64,Small (1-5ha),37,Traditional,False,True,True,False,1.53,619000.0,83667.0,32083.0,492000.0,385000.0,1004000.0
+E0000147,NGF000106,Poultry,,,0.0,,37,N/A,False,True,False,False,0.0,0.0,0.0,0.0,492000.0,0.0,0.0
+E0000148,NGF000107,Crop,Plantain,Rice,2.92,Small (1-5ha),27,Integrated,False,True,False,True,17.74,10913000.0,949667.0,40250.0,1076000.0,483000.0,11396000.0
+E0000149,NGF000108,Crop,Yam,Rice,0.31,Subsistence (<1ha),4,Traditional,False,True,True,False,12.29,1010000.0,88917.0,4750.0,93000.0,57000.0,1067000.0
+E0000150,NGF000108,Poultry,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,93000.0,0.0,0.0
+E0000151,NGF000109,Crop,Cassava,Oil Palm,1.54,Small (1-5ha),2,Integrated,False,True,True,False,17.59,3135000.0,270917.0,9667.0,512000.0,116000.0,3251000.0
+E0000152,NGF000110,Crop,Cotton,Beans,0.86,Subsistence (<1ha),31,Traditional,False,True,True,False,1.86,652000.0,73333.0,19000.0,258000.0,228000.0,880000.0
+E0000153,NGF000111,Crop,Maize,Beans,0.26,Subsistence (<1ha),7,Integrated,False,True,False,False,2.03,80000.0,8833.0,2167.0,128000.0,26000.0,106000.0
+E0000154,NGF000112,Crop,Sorghum,Tomato,1.35,Small (1-5ha),11,Traditional,False,True,True,False,2.12,401000.0,45250.0,11833.0,405000.0,142000.0,543000.0
+E0000155,NGF000113,Crop,Groundnut,Sorghum,1.53,Small (1-5ha),25,Unknown,False,True,True,False,1.21,365000.0,69333.0,38917.0,459000.0,467000.0,832000.0
+E0000156,NGF000114,Crop,Cowpea,Sesame,3.66,Small (1-5ha),35,Traditional,False,True,False,False,1.29,1154000.0,157333.0,61167.0,1098000.0,734000.0,1888000.0
+E0000157,NGF000114,Cattle,,,0.0,,35,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1098000.0,0.0,0.0
+E0000158,NGF000115,Crop,Oil Palm,,0.28,Subsistence (<1ha),9,Traditional,False,True,False,False,5.13,640000.0,60000.0,6667.0,84000.0,80000.0,720000.0
+E0000159,NGF000116,Crop,Cocoa,Vegetables,2.09,Small (1-5ha),26,Traditional,False,True,False,False,0.58,1000.0,151250.0,151167.0,627000.0,1814000.0,1815000.0
+E0000160,NGF000117,Crop,Maize,Tomato,0.41,Subsistence (<1ha),13,Traditional,False,True,False,False,2.99,197000.0,20500.0,4083.0,123000.0,49000.0,246000.0
+E0000161,NGF000118,Crop,Cassava,Vegetables,0.48,Subsistence (<1ha),23,Integrated,False,True,False,False,14.66,818000.0,70417.0,2250.0,344000.0,27000.0,845000.0
+E0000162,NGF000119,Crop,Yam,Cocoa,1.11,Small (1-5ha),33,Traditional,False,True,False,False,14.7,4433000.0,380833.0,11417.0,333000.0,137000.0,4570000.0
+E0000163,NGF000119,Poultry,,,0.0,,33,N/A,False,True,False,False,0.0,0.0,0.0,0.0,333000.0,0.0,0.0
+E0000164,NGF000120,Crop,Cowpea,Oil Palm,0.22,Subsistence (<1ha),37,Traditional,False,True,False,False,1.32,69000.0,9667.0,3917.0,66000.0,47000.0,116000.0
+E0000165,NGF000120,Poultry,,,0.0,,37,N/A,False,True,False,False,0.0,0.0,0.0,0.0,66000.0,0.0,0.0
+E0000166,NGF000121,Crop,Groundnut,Tomato,1.46,Small (1-5ha),3,Traditional,False,True,True,False,1.85,852000.0,101250.0,30250.0,438000.0,363000.0,1215000.0
+E0000167,NGF000121,Sheep,,,0.0,,3,N/A,False,True,False,False,0.0,0.0,0.0,0.0,438000.0,0.0,0.0
+E0000168,NGF000122,Crop,Cassava,Oil Palm,0.73,Subsistence (<1ha),5,Traditional,False,True,True,False,12.38,1024000.0,90417.0,5083.0,219000.0,61000.0,1085000.0
+E0000169,NGF000122,Goats,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,219000.0,0.0,0.0
+E0000170,NGF000123,Crop,Beans,Millet,0.38,Subsistence (<1ha),33,Integrated,False,True,False,False,1.06,89000.0,13333.0,5917.0,164000.0,71000.0,160000.0
+E0000171,NGF000124,Crop,Rice,Yam,0.98,Subsistence (<1ha),3,Integrated,False,True,False,False,4.28,1299000.0,122250.0,14000.0,344000.0,168000.0,1467000.0
+E0000172,NGF000125,Crop,Maize,,0.87,Subsistence (<1ha),2,Traditional,False,True,False,False,2.88,412000.0,41833.0,7500.0,261000.0,90000.0,502000.0
+E0000173,NGF000126,Crop,Maize,Cassava,0.42,Subsistence (<1ha),3,Traditional,False,True,False,False,2.75,190000.0,19333.0,3500.0,126000.0,42000.0,232000.0
+E0000174,NGF000127,Crop,Millet,Cowpea,1.04,Small (1-5ha),9,Traditional,False,True,False,False,2.34,343000.0,36417.0,7833.0,312000.0,94000.0,437000.0
+E0000175,NGF000128,Crop,Rice,Cocoa,0.89,Subsistence (<1ha),2,Traditional,False,True,True,False,3.35,882000.0,86917.0,13417.0,267000.0,161000.0,1043000.0
+E0000176,NGF000129,Crop,Cassava,Yam,0.46,Subsistence (<1ha),7,Traditional,False,True,True,False,16.85,892000.0,77500.0,3167.0,138000.0,38000.0,930000.0
+E0000177,NGF000129,Goats,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,138000.0,0.0,0.0
+E0000178,NGF000130,Crop,Guinea Corn,Cowpea,1.96,Small (1-5ha),2,Integrated,False,True,False,False,1.4,344000.0,43417.0,14750.0,788000.0,177000.0,521000.0
+E0000179,NGF000130,Goats,,,0.0,,2,N/A,False,True,False,False,0.0,0.0,0.0,0.0,788000.0,0.0,0.0
+E0000180,NGF000131,Crop,Millet,Guinea Corn,4.63,Small (1-5ha),32,Integrated,False,True,False,False,2.02,1134000.0,140250.0,45750.0,1439000.0,549000.0,1683000.0
+E0000181,NGF000132,Crop,Maize,Cassava,0.1,Subsistence (<1ha),14,Traditional,False,True,False,False,1.78,25000.0,3000.0,917.0,30000.0,11000.0,36000.0
+E0000182,NGF000133,Crop,Cassava,Cowpea,2.31,Small (1-5ha),39,Integrated,False,True,True,True,17.06,4492000.0,394083.0,19750.0,743000.0,237000.0,4729000.0
+E0000183,NGF000134,Crop,Sorghum,Soybean,3.67,Small (1-5ha),4,Traditional,False,True,False,False,2.22,1183000.0,129000.0,30417.0,1101000.0,365000.0,1548000.0
+E0000184,NGF000134,Poultry,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1101000.0,0.0,0.0
+E0000185,NGF000135,Crop,Maize,Plantain,1.53,Small (1-5ha),25,Traditional,False,True,True,True,3.77,951000.0,96167.0,16917.0,459000.0,203000.0,1154000.0
+E0000186,NGF000136,Crop,Cowpea,Sesame,0.4,Subsistence (<1ha),16,Integrated,False,True,False,False,1.35,152000.0,18000.0,5333.0,170000.0,64000.0,216000.0
+E0000187,NGF000136,Goats,,,0.0,,16,N/A,False,True,False,False,0.0,0.0,0.0,0.0,170000.0,0.0,0.0
+E0000188,NGF000137,Crop,Yam,,0.57,Subsistence (<1ha),29,Integrated,False,True,True,False,10.87,1638000.0,144667.0,8167.0,221000.0,98000.0,1736000.0
+E0000189,NGF000137,Poultry,,,0.0,,29,N/A,False,True,False,False,0.0,0.0,0.0,0.0,221000.0,0.0,0.0
+E0000190,NGF000138,Crop,Yam,Cocoa,1.53,Small (1-5ha),10,Traditional,False,True,False,False,9.15,3655000.0,326667.0,22083.0,459000.0,265000.0,3920000.0
+E0000191,NGF000138,Poultry,,,0.0,,10,N/A,False,True,False,False,0.0,0.0,0.0,0.0,459000.0,0.0,0.0
+E0000192,NGF000139,Crop,Maize,Cassava,0.22,Subsistence (<1ha),4,Integrated,False,True,False,False,3.17,121000.0,11667.0,1583.0,266000.0,19000.0,140000.0
+E0000193,NGF000140,Crop,Cowpea,Rice,0.4,Subsistence (<1ha),33,Integrated,False,True,False,False,0.92,77000.0,12333.0,5917.0,170000.0,71000.0,148000.0
+E0000194,NGF000141,Crop,Maize,,1.3,Small (1-5ha),43,Traditional,False,True,False,False,3.65,834000.0,79167.0,9667.0,390000.0,116000.0,950000.0
+E0000195,NGF000142,Crop,Cassava,Plantain,0.24,Subsistence (<1ha),20,Traditional,False,True,False,False,14.49,402000.0,34833.0,1333.0,72000.0,16000.0,418000.0
+E0000196,NGF000142,Poultry,,,0.0,,20,N/A,False,True,False,False,0.0,0.0,0.0,0.0,72000.0,0.0,0.0
+E0000197,NGF000143,Crop,Cassava,Millet,0.36,Subsistence (<1ha),11,Traditional,False,True,False,False,11.37,470000.0,40917.0,1750.0,108000.0,21000.0,491000.0
+E0000198,NGF000144,Crop,Yam,Oil Palm,1.69,Small (1-5ha),24,Traditional,False,True,False,True,12.3,5551000.0,485083.0,22500.0,507000.0,270000.0,5821000.0
+E0000199,NGF000144,Poultry,,,0.0,,24,N/A,False,True,False,False,0.0,0.0,0.0,0.0,507000.0,0.0,0.0
+E0000200,NGF000145,Crop,Cowpea,Sesame,4.26,Small (1-5ha),2,Traditional,False,True,True,False,0.7,130000.0,99333.0,88500.0,1278000.0,1062000.0,1192000.0
+E0000201,NGF000146,Crop,Cowpea,Beans,1.36,Small (1-5ha),19,Traditional,False,True,False,False,1.42,518000.0,64333.0,21167.0,408000.0,254000.0,772000.0
+E0000202,NGF000147,Crop,Rice,Sorghum,4.31,Small (1-5ha),27,Traditional,False,True,True,False,3.75,4659000.0,471333.0,83083.0,1293000.0,997000.0,5656000.0
+E0000203,NGF000148,Crop,Beans,Oil Palm,2.05,Small (1-5ha),14,Traditional,False,True,True,False,1.77,977000.0,121000.0,39583.0,615000.0,475000.0,1452000.0
+E0000204,NGF000149,Crop,Maize,Rice,0.92,Subsistence (<1ha),10,Traditional,False,True,False,True,4.06,656000.0,62333.0,7667.0,276000.0,92000.0,748000.0
+E0000205,NGF000150,Crop,Maize,Rice,0.13,Subsistence (<1ha),8,Unknown,False,True,True,False,2.79,57000.0,6000.0,1250.0,39000.0,15000.0,72000.0
+E0000206,NGF000150,Goats,,,0.0,,8,N/A,False,True,False,False,0.0,0.0,0.0,0.0,39000.0,0.0,0.0
+E0000207,NGF000151,Crop,Cowpea,Maize,1.36,Small (1-5ha),34,Integrated,False,True,False,True,1.61,604000.0,73000.0,22667.0,458000.0,272000.0,876000.0
+E0000208,NGF000151,Poultry,,,0.0,,34,N/A,False,True,False,False,0.0,0.0,0.0,0.0,458000.0,0.0,0.0
+E0000209,NGF000152,Crop,Cassava,Oil Palm,0.73,Subsistence (<1ha),34,Traditional,False,True,False,False,18.75,1596000.0,136917.0,3917.0,219000.0,47000.0,1643000.0
+E0000210,NGF000152,Goats,,,0.0,,34,N/A,False,True,False,False,0.0,0.0,0.0,0.0,219000.0,0.0,0.0
+E0000211,NGF000153,Crop,Vegetables,,1.25,Small (1-5ha),11,Traditional,False,True,True,False,23.0,8923000.0,766667.0,23083.0,375000.0,277000.0,9200000.0
+E0000212,NGF000154,Crop,Maize,Guinea Corn,4.88,Small (1-5ha),7,Traditional,False,True,False,False,1.82,1243000.0,148000.0,44417.0,1464000.0,533000.0,1776000.0
+E0000213,NGF000154,Goats,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1464000.0,0.0,0.0
+E0000214,NGF000155,Crop,Yam,Maize,1.56,Small (1-5ha),7,Traditional,False,True,False,False,11.22,4683000.0,408333.0,18083.0,468000.0,217000.0,4900000.0
+E0000215,NGF000156,Crop,Maize,Cassava,0.27,Subsistence (<1ha),18,Integrated,False,True,False,False,3.57,162000.0,16000.0,2500.0,131000.0,30000.0,192000.0
+E0000216,NGF000156,Pigs,,,0.0,,18,N/A,False,True,False,False,0.0,0.0,0.0,0.0,131000.0,0.0,0.0
+E0000217,NGF000157,Crop,Rice,Sorghum,0.35,Subsistence (<1ha),10,Traditional,False,True,True,False,4.31,445000.0,44000.0,6917.0,105000.0,83000.0,528000.0
+E0000218,NGF000158,Crop,Oil Palm,Plantain,0.26,Subsistence (<1ha),18,Traditional,False,True,False,False,3.75,417000.0,40833.0,6083.0,78000.0,73000.0,490000.0
+E0000219,NGF000158,Poultry,,,0.0,,18,N/A,False,True,False,False,0.0,0.0,0.0,0.0,78000.0,0.0,0.0
+E0000220,NGF000159,Crop,Groundnut,,0.42,Subsistence (<1ha),3,Integrated,False,True,False,True,1.1,85000.0,17250.0,10167.0,176000.0,122000.0,207000.0
+E0000221,NGF000160,Crop,Rice,Beans,0.57,Subsistence (<1ha),25,Integrated,False,True,True,False,3.09,504000.0,51333.0,9333.0,221000.0,112000.0,616000.0
+E0000222,NGF000161,Crop,Maize,Sorghum,0.79,Subsistence (<1ha),28,Traditional,False,True,False,False,3.29,441000.0,43333.0,6583.0,237000.0,79000.0,520000.0
+E0000223,NGF000162,Crop,Maize,Beans,1.12,Small (1-5ha),3,Traditional,False,True,True,False,3.36,639000.0,62667.0,9417.0,336000.0,113000.0,752000.0
+E0000224,NGF000163,Crop,Plantain,,2.95,Small (1-5ha),5,Integrated,False,True,True,False,21.04,13151000.0,1137917.0,42000.0,935000.0,504000.0,13655000.0
+E0000225,NGF000164,Crop,Rice,,0.2,Subsistence (<1ha),20,Traditional,False,True,True,False,4.71,279000.0,27417.0,4167.0,60000.0,50000.0,329000.0
+E0000226,NGF000165,Crop,Cassava,Cocoa,2.69,Small (1-5ha),4,Traditional,False,True,True,False,22.72,7083000.0,611167.0,20917.0,807000.0,251000.0,7334000.0
+E0000227,NGF000166,Crop,Guinea Corn,Beans,3.58,Small (1-5ha),14,Traditional,False,True,False,False,3.52,1956000.0,199500.0,36500.0,1074000.0,438000.0,2394000.0
+E0000228,NGF000167,Crop,Cowpea,Cocoa,1.57,Small (1-5ha),7,Traditional,False,True,False,False,0.94,261000.0,49333.0,27583.0,471000.0,331000.0,592000.0
+E0000229,NGF000168,Crop,Millet,Cowpea,1.54,Small (1-5ha),1,Integrated,False,True,False,False,1.48,250000.0,34167.0,13333.0,512000.0,160000.0,410000.0
+E0000230,NGF000169,Crop,Sorghum,Sesame,1.26,Small (1-5ha),1,Traditional,False,True,True,False,2.27,393000.0,45250.0,12500.0,378000.0,150000.0,543000.0
+E0000231,NGF000169,Goats,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,378000.0,0.0,0.0
+E0000232,NGF000170,Crop,Groundnut,Tomato,5.33,Medium (5-10ha),10,Traditional,False,True,False,False,1.88,3173000.0,375750.0,111333.0,1599000.0,1336000.0,4509000.0
+E0000233,NGF000170,Goats,,,0.0,,10,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1599000.0,0.0,0.0
+E0000234,NGF000171,Crop,Cocoa,Yam,0.2,Subsistence (<1ha),1,Traditional,False,True,False,False,0.52,-11000.0,12500.0,13417.0,60000.0,161000.0,150000.0
+E0000235,NGF000172,Crop,Yam,Beans,0.22,Subsistence (<1ha),37,Traditional,False,True,False,False,14.06,836000.0,72083.0,2417.0,66000.0,29000.0,865000.0
+E0000236,NGF000173,Crop,Maize,Beans,0.57,Subsistence (<1ha),7,Traditional,False,True,False,False,3.03,292000.0,28833.0,4500.0,171000.0,54000.0,346000.0
+E0000237,NGF000173,Goats,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,171000.0,0.0,0.0
+E0000238,NGF000174,Crop,Yam,Cocoa,1.39,Small (1-5ha),1,Traditional,False,True,False,False,7.68,2817000.0,249167.0,14417.0,417000.0,173000.0,2990000.0
+E0000239,NGF000174,Poultry,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,417000.0,0.0,0.0
+E0000240,NGF000175,Crop,Beans,Guinea Corn,1.63,Small (1-5ha),13,Integrated,False,True,True,False,1.16,388000.0,63000.0,30667.0,539000.0,368000.0,756000.0
+E0000241,NGF000175,Guinea Fowl,,,0.0,,13,N/A,False,True,False,False,0.0,0.0,0.0,0.0,539000.0,0.0,0.0
+E0000242,NGF000176,Crop,Yam,Vegetables,0.63,Subsistence (<1ha),3,Traditional,False,True,True,False,11.05,1854000.0,162417.0,7917.0,189000.0,95000.0,1949000.0
+E0000243,NGF000177,Crop,Cotton,Groundnut,0.42,Subsistence (<1ha),42,Traditional,False,True,False,False,2.26,404000.0,43500.0,9833.0,126000.0,118000.0,522000.0
+E0000244,NGF000178,Crop,Rice,Oil Palm,0.63,Subsistence (<1ha),40,Unknown,False,True,False,False,3.77,733000.0,69417.0,8333.0,189000.0,100000.0,833000.0
+E0000245,NGF000178,Poultry,,,0.0,,40,N/A,False,True,False,False,0.0,0.0,0.0,0.0,189000.0,0.0,0.0
+E0000246,NGF000179,Crop,Cowpea,,0.59,Subsistence (<1ha),24,Integrated,False,True,True,False,1.4,194000.0,27667.0,11500.0,227000.0,138000.0,332000.0
+E0000247,NGF000180,Crop,Rice,Sorghum,1.05,Small (1-5ha),1,Traditional,False,True,False,False,1.67,414000.0,51000.0,16500.0,315000.0,198000.0,612000.0
+E0000248,NGF000181,Crop,Maize,Cassava,1.97,Small (1-5ha),8,Traditional,False,True,False,False,1.96,570000.0,64333.0,16833.0,591000.0,202000.0,772000.0
+E0000249,NGF000181,Poultry,,,0.0,,8,N/A,False,True,False,False,0.0,0.0,0.0,0.0,591000.0,0.0,0.0
+E0000250,NGF000182,Crop,Cassava,Maize,1.53,Small (1-5ha),14,Traditional,False,True,False,False,13.42,2352000.0,205333.0,9333.0,459000.0,112000.0,2464000.0
+E0000251,NGF000182,Poultry,,,0.0,,14,N/A,False,True,False,False,0.0,0.0,0.0,0.0,459000.0,0.0,0.0
+E0000252,NGF000183,Crop,Cocoa,Vegetables,0.78,Subsistence (<1ha),2,Traditional,False,True,True,False,0.97,311000.0,95000.0,69083.0,234000.0,829000.0,1140000.0
+E0000253,NGF000184,Crop,Cocoa,Vegetables,0.22,Subsistence (<1ha),16,Traditional,False,True,True,False,1.02,157000.0,27500.0,14417.0,66000.0,173000.0,330000.0
+E0000254,NGF000184,Poultry,,,0.0,,16,N/A,False,True,False,False,0.0,0.0,0.0,0.0,66000.0,0.0,0.0
+E0000255,NGF000185,Crop,Sorghum,,0.52,Subsistence (<1ha),39,Traditional,False,True,True,False,5.26,459000.0,43417.0,5167.0,156000.0,62000.0,521000.0
+E0000256,NGF000185,Sheep,,,0.0,,39,N/A,False,True,False,False,0.0,0.0,0.0,0.0,156000.0,0.0,0.0
+E0000257,NGF000186,Crop,Yam,Rice,0.39,Subsistence (<1ha),20,Traditional,False,True,False,False,13.63,1428000.0,124167.0,5167.0,117000.0,62000.0,1490000.0
+E0000258,NGF000187,Crop,Cotton,Millet,1.91,Small (1-5ha),22,Integrated,False,True,False,False,2.22,1726000.0,194333.0,50500.0,623000.0,606000.0,2332000.0
+E0000259,NGF000188,Crop,Maize,Beans,0.45,Subsistence (<1ha),14,Traditional,False,True,False,True,3.91,304000.0,29333.0,4000.0,135000.0,48000.0,352000.0
+E0000260,NGF000189,Crop,Yam,Vegetables,1.8,Small (1-5ha),25,Traditional,False,True,False,False,9.57,4511000.0,402000.0,26083.0,540000.0,313000.0,4824000.0
+E0000261,NGF000189,Poultry,,,0.0,,25,N/A,False,True,False,False,0.0,0.0,0.0,0.0,540000.0,0.0,0.0
+E0000262,NGF000190,Crop,Yam,Beans,0.18,Subsistence (<1ha),1,Traditional,False,True,False,False,9.18,439000.0,38500.0,1917.0,54000.0,23000.0,462000.0
+E0000263,NGF000191,Crop,Maize,Millet,0.4,Subsistence (<1ha),1,Traditional,False,True,True,False,1.84,91000.0,12333.0,4750.0,120000.0,57000.0,148000.0
+E0000264,NGF000191,Cattle,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,120000.0,0.0,0.0
+E0000265,NGF000192,Crop,Sorghum,,0.61,Subsistence (<1ha),29,Traditional,False,True,True,False,2.02,164000.0,19500.0,5833.0,183000.0,70000.0,234000.0
+E0000266,NGF000192,Poultry,,,0.0,,29,N/A,False,True,False,False,0.0,0.0,0.0,0.0,183000.0,0.0,0.0
+E0000267,NGF000193,Crop,Beans,Maize,2.42,Small (1-5ha),8,Integrated,False,True,False,False,1.21,558000.0,97667.0,51167.0,776000.0,614000.0,1172000.0
+E0000268,NGF000194,Crop,Cotton,Sorghum,0.5,Subsistence (<1ha),43,Traditional,False,True,True,False,2.32,459000.0,53167.0,14917.0,150000.0,179000.0,638000.0
+E0000269,NGF000195,Crop,Cowpea,Maize,4.7,Small (1-5ha),36,Traditional,False,True,False,False,1.12,1204000.0,175333.0,75000.0,1410000.0,900000.0,2104000.0
+E0000270,NGF000195,Goats,,,0.0,,36,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1410000.0,0.0,0.0
+E0000271,NGF000196,Crop,Yam,Cassava,1.16,Small (1-5ha),12,Traditional,False,True,False,False,12.43,3847000.0,336500.0,15917.0,348000.0,191000.0,4038000.0
+E0000272,NGF000197,Crop,Maize,,0.45,Subsistence (<1ha),12,Traditional,False,True,True,False,2.3,155000.0,17167.0,4250.0,135000.0,51000.0,206000.0
+E0000273,NGF000197,Goats,,,0.0,,12,N/A,False,True,False,False,0.0,0.0,0.0,0.0,135000.0,0.0,0.0
+E0000274,NGF000198,Crop,Vegetables,Plantain,1.1,Small (1-5ha),22,Integrated,False,True,True,False,19.87,6826000.0,582917.0,14083.0,380000.0,169000.0,6995000.0
+E0000275,NGF000199,Crop,Cowpea,Sesame,1.75,Small (1-5ha),36,Traditional,False,True,False,False,0.98,333000.0,57000.0,29250.0,525000.0,351000.0,684000.0
+E0000276,NGF000200,Crop,Maize,Cassava,0.54,Subsistence (<1ha),37,Unknown,False,True,False,False,2.26,194000.0,20333.0,4167.0,162000.0,50000.0,244000.0
+E0000277,NGF000201,Crop,Yam,Beans,2.31,Small (1-5ha),28,Unknown,False,True,True,False,14.64,8996000.0,789167.0,39500.0,693000.0,474000.0,9470000.0
+E0000278,NGF000202,Crop,Beans,Rubber,0.98,Subsistence (<1ha),17,Traditional,False,True,True,False,1.4,307000.0,45667.0,20083.0,294000.0,241000.0,548000.0
+E0000279,NGF000202,Poultry,,,0.0,,17,N/A,False,True,False,False,0.0,0.0,0.0,0.0,294000.0,0.0,0.0
+E0000280,NGF000203,Crop,Sorghum,Yam,3.93,Small (1-5ha),14,Traditional,False,True,False,False,1.84,950000.0,114500.0,35333.0,1179000.0,424000.0,1374000.0
+E0000281,NGF000204,Crop,Vegetables,Rice,1.53,Small (1-5ha),1,Unknown,False,True,False,False,15.07,7145000.0,614917.0,19500.0,459000.0,234000.0,7379000.0
+E0000282,NGF000205,Crop,Vegetables,Cassava,1.6,Small (1-5ha),26,Traditional,False,True,False,False,21.02,10484000.0,896833.0,23167.0,480000.0,278000.0,10762000.0
+E0000283,NGF000205,Pigs,,,0.0,,26,N/A,False,True,False,False,0.0,0.0,0.0,0.0,480000.0,0.0,0.0
+E0000284,NGF000206,Crop,Yam,Millet,0.3,Subsistence (<1ha),9,Traditional,False,True,False,False,9.77,770000.0,68333.0,4167.0,90000.0,50000.0,820000.0
+E0000285,NGF000206,Poultry,,,0.0,,9,N/A,False,True,False,False,0.0,0.0,0.0,0.0,90000.0,0.0,0.0
+E0000286,NGF000207,Crop,Cassava,Cocoa,0.83,Subsistence (<1ha),18,Integrated,False,True,False,False,16.82,1626000.0,139583.0,4083.0,299000.0,49000.0,1675000.0
+E0000287,NGF000208,Crop,Plantain,Beans,2.31,Small (1-5ha),21,Traditional,False,True,True,False,14.89,7280000.0,630667.0,24000.0,693000.0,288000.0,7568000.0
+E0000288,NGF000208,Poultry,,,0.0,,21,N/A,False,True,False,False,0.0,0.0,0.0,0.0,693000.0,0.0,0.0
+E0000289,NGF000209,Crop,Cowpea,Groundnut,0.51,Subsistence (<1ha),3,Traditional,False,True,True,False,1.44,178000.0,24333.0,9500.0,153000.0,114000.0,292000.0
+E0000290,NGF000210,Crop,Rice,Groundnut,4.76,Small (1-5ha),1,Unknown,False,True,True,False,2.83,3667000.0,392833.0,87250.0,1428000.0,1047000.0,4714000.0
+E0000291,NGF000210,Sheep,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1428000.0,0.0,0.0
+E0000292,NGF000211,Crop,Cocoa,Plantain,1.03,Small (1-5ha),26,Traditional,False,True,True,False,1.26,858000.0,162500.0,91000.0,309000.0,1092000.0,1950000.0
+E0000293,NGF000211,Poultry,,,0.0,,26,N/A,False,True,False,False,0.0,0.0,0.0,0.0,309000.0,0.0,0.0
+E0000294,NGF000212,Crop,Yam,Cocoa,1.23,Small (1-5ha),11,Traditional,False,True,False,False,10.65,3502000.0,305667.0,13833.0,369000.0,166000.0,3668000.0
+E0000295,NGF000212,Poultry,,,0.0,,11,N/A,False,True,False,False,0.0,0.0,0.0,0.0,369000.0,0.0,0.0
+E0000296,NGF000213,Crop,Vegetables,Cocoa,1.07,Small (1-5ha),11,Unknown,False,True,True,True,27.65,9186000.0,789083.0,23583.0,321000.0,283000.0,9469000.0
+E0000297,NGF000214,Crop,Beans,Oil Palm,0.83,Subsistence (<1ha),14,Traditional,False,True,True,False,1.43,264000.0,39667.0,17667.0,249000.0,212000.0,476000.0
+E0000298,NGF000215,Crop,Beans,Sesame,1.14,Small (1-5ha),28,Traditional,False,True,False,False,1.29,377000.0,49000.0,17583.0,342000.0,211000.0,588000.0
+E0000299,NGF000215,Pigs,,,0.0,,28,N/A,False,True,False,False,0.0,0.0,0.0,0.0,342000.0,0.0,0.0
+E0000300,NGF000216,Crop,Beans,Oil Palm,0.2,Subsistence (<1ha),15,Traditional,False,True,False,False,0.79,16000.0,5333.0,4000.0,60000.0,48000.0,64000.0
+E0000301,NGF000216,Goats,,,0.0,,15,N/A,False,True,False,False,0.0,0.0,0.0,0.0,60000.0,0.0,0.0
+E0000302,NGF000217,Crop,Maize,Cotton,1.43,Small (1-5ha),27,Traditional,False,True,True,False,2.64,591000.0,63000.0,13750.0,429000.0,165000.0,756000.0
+E0000303,NGF000218,Crop,Maize,Sesame,0.75,Subsistence (<1ha),11,Traditional,False,True,True,False,2.77,332000.0,34667.0,7000.0,225000.0,84000.0,416000.0
+E0000304,NGF000219,Crop,Maize,Guinea Corn,0.37,Subsistence (<1ha),5,Traditional,False,True,False,False,2.5,142000.0,15500.0,3667.0,111000.0,44000.0,186000.0
+E0000305,NGF000220,Crop,Sorghum,Groundnut,5.43,Medium (5-10ha),5,Traditional,False,True,False,True,2.67,2049000.0,229583.0,58833.0,1629000.0,706000.0,2755000.0
+E0000306,NGF000221,Crop,Sorghum,Yam,1.39,Small (1-5ha),5,Traditional,False,True,True,False,1.54,218000.0,33917.0,15750.0,417000.0,189000.0,407000.0
+E0000307,NGF000222,Crop,Cassava,Oil Palm,2.83,Small (1-5ha),14,Traditional,False,True,False,False,21.61,7168000.0,611583.0,14250.0,849000.0,171000.0,7339000.0
+E0000308,NGF000223,Crop,Groundnut,Tomato,1.8,Small (1-5ha),37,Traditional,False,True,False,False,1.6,943000.0,108000.0,29417.0,540000.0,353000.0,1296000.0
+E0000309,NGF000224,Crop,Maize,Sesame,3.98,Small (1-5ha),1,Unknown,False,True,False,False,2.09,1175000.0,138667.0,40750.0,1194000.0,489000.0,1664000.0
+E0000310,NGF000225,Crop,Sorghum,Millet,1.13,Small (1-5ha),12,Integrated,False,True,True,False,3.0,496000.0,53667.0,12333.0,389000.0,148000.0,644000.0
+E0000311,NGF000226,Crop,Groundnut,Millet,2.45,Small (1-5ha),11,Traditional,False,True,False,False,1.39,918000.0,127833.0,51333.0,735000.0,616000.0,1534000.0
+E0000312,NGF000226,Poultry,,,0.0,,11,N/A,False,True,False,False,0.0,0.0,0.0,0.0,735000.0,0.0,0.0
+E0000313,NGF000227,Crop,Maize,Sesame,2.37,Small (1-5ha),14,Integrated,False,True,False,False,2.42,914000.0,95667.0,19500.0,911000.0,234000.0,1148000.0
+E0000314,NGF000228,Crop,Sorghum,Sesame,0.69,Subsistence (<1ha),4,Traditional,False,True,False,False,3.01,333000.0,32917.0,5167.0,207000.0,62000.0,395000.0
+E0000315,NGF000228,Poultry,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,207000.0,0.0,0.0
+E0000316,NGF000229,Crop,Cocoa,Rubber,0.25,Subsistence (<1ha),23,Integrated,False,True,False,True,0.97,127000.0,30000.0,19417.0,275000.0,233000.0,360000.0
+E0000317,NGF000230,Crop,Sorghum,Maize,0.4,Subsistence (<1ha),8,Traditional,False,True,False,False,2.46,148000.0,15500.0,3167.0,120000.0,38000.0,186000.0
+E0000318,NGF000230,Goats,,,0.0,,8,N/A,False,True,False,False,0.0,0.0,0.0,0.0,120000.0,0.0,0.0
+E0000319,NGF000231,Crop,Sorghum,Beans,2.69,Small (1-5ha),21,Integrated,False,True,False,False,2.94,1236000.0,125250.0,22250.0,857000.0,267000.0,1503000.0
+E0000320,NGF000232,Crop,Cowpea,Soybean,2.94,Small (1-5ha),2,Traditional,True,False,False,False,1.27,615000.0,124333.0,73083.0,882000.0,877000.0,1492000.0
+E0000321,NGF000233,Crop,Yam,Plantain,0.2,Subsistence (<1ha),18,Traditional,False,True,False,False,14.13,769000.0,66000.0,1917.0,60000.0,23000.0,792000.0
+E0000322,NGF000234,Crop,Beans,Sorghum,0.47,Subsistence (<1ha),9,Traditional,False,True,False,False,1.36,166000.0,21333.0,7500.0,141000.0,90000.0,256000.0
+E0000323,NGF000234,Poultry,,,0.0,,9,N/A,False,True,False,False,0.0,0.0,0.0,0.0,141000.0,0.0,0.0
+E0000324,NGF000235,Crop,Guinea Corn,Cowpea,1.31,Small (1-5ha),7,Traditional,False,True,True,False,2.29,430000.0,47500.0,11667.0,393000.0,140000.0,570000.0
+E0000325,NGF000235,Goats,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,393000.0,0.0,0.0
+E0000326,NGF000236,Crop,Maize,Cotton,4.68,Small (1-5ha),21,Traditional,False,True,False,False,3.4,2577000.0,265167.0,50417.0,1404000.0,605000.0,3182000.0
+E0000327,NGF000236,Goats,,,0.0,,21,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1404000.0,0.0,0.0
+E0000328,NGF000237,Crop,Yam,Oil Palm,1.24,Small (1-5ha),24,Traditional,False,True,False,False,10.24,3391000.0,296333.0,13750.0,372000.0,165000.0,3556000.0
+E0000329,NGF000237,Poultry,,,0.0,,24,N/A,False,True,False,False,0.0,0.0,0.0,0.0,372000.0,0.0,0.0
+E0000330,NGF000238,Crop,Rice,,0.76,Subsistence (<1ha),6,Traditional,False,True,False,False,2.61,553000.0,57750.0,11667.0,228000.0,140000.0,693000.0
+E0000331,NGF000239,Crop,Sorghum,,1.56,Small (1-5ha),7,Traditional,False,True,True,False,2.49,527000.0,61417.0,17500.0,468000.0,210000.0,737000.0
+E0000332,NGF000240,Crop,Sorghum,Maize,0.3,Subsistence (<1ha),38,Integrated,False,True,True,False,2.01,77000.0,9500.0,3083.0,290000.0,37000.0,114000.0
+E0000333,NGF000241,Crop,Cassava,Maize,0.25,Subsistence (<1ha),7,Traditional,False,True,True,False,25.24,740000.0,63083.0,1417.0,75000.0,17000.0,757000.0
+E0000334,NGF000242,Crop,Cassava,Yam,0.29,Subsistence (<1ha),3,Traditional,False,True,False,False,11.78,394000.0,34167.0,1333.0,87000.0,16000.0,410000.0
+E0000335,NGF000243,Crop,Cowpea,Rice,4.37,Small (1-5ha),14,Unknown,False,True,True,False,1.61,1462000.0,234667.0,112833.0,1311000.0,1354000.0,2816000.0
+E0000336,NGF000244,Crop,Cowpea,Maize,2.38,Small (1-5ha),19,Traditional,False,True,False,False,0.87,290000.0,69000.0,44833.0,714000.0,538000.0,828000.0
+E0000337,NGF000245,Crop,Cassava,Maize,0.2,Subsistence (<1ha),4,Traditional,False,True,True,False,22.37,523000.0,44667.0,1083.0,60000.0,13000.0,536000.0
+E0000338,NGF000246,Crop,Cowpea,Cocoa,2.4,Small (1-5ha),25,Traditional,False,True,True,False,1.16,498000.0,92667.0,51167.0,720000.0,614000.0,1112000.0
+E0000339,NGF000247,Crop,Rubber,Cassava,0.21,Subsistence (<1ha),11,Traditional,False,True,True,False,1.69,156000.0,20417.0,7417.0,63000.0,89000.0,245000.0
+E0000340,NGF000247,Goats,,,0.0,,11,N/A,False,True,False,False,0.0,0.0,0.0,0.0,63000.0,0.0,0.0
+E0000341,NGF000248,Crop,Yam,Cassava,0.68,Subsistence (<1ha),8,Traditional,False,True,True,False,10.62,1917000.0,168500.0,8750.0,204000.0,105000.0,2022000.0
+E0000342,NGF000249,Crop,Yam,Oil Palm,0.69,Subsistence (<1ha),26,Integrated,False,True,False,False,12.66,2339000.0,203917.0,9000.0,407000.0,108000.0,2447000.0
+E0000343,NGF000249,Goats,,,0.0,,26,N/A,False,True,False,False,0.0,0.0,0.0,0.0,407000.0,0.0,0.0
+E0000344,NGF000250,Crop,Millet,Yam,1.99,Small (1-5ha),29,Traditional,False,True,True,False,2.94,827000.0,87750.0,18833.0,597000.0,226000.0,1053000.0
+E0000345,NGF000251,Crop,Guinea Corn,Cowpea,0.48,Subsistence (<1ha),33,Traditional,False,True,True,False,3.68,281000.0,28000.0,4583.0,144000.0,55000.0,336000.0
+E0000346,NGF000251,Sheep,,,0.0,,33,N/A,False,True,False,False,0.0,0.0,0.0,0.0,144000.0,0.0,0.0
+E0000347,NGF000252,Crop,Cassava,Maize,0.51,Subsistence (<1ha),24,Integrated,False,True,True,False,25.05,1504000.0,127833.0,2500.0,203000.0,30000.0,1534000.0
+E0000348,NGF000253,Crop,Cassava,Rice,0.1,Subsistence (<1ha),10,Traditional,False,True,True,False,24.74,288000.0,24667.0,667.0,30000.0,8000.0,296000.0
+E0000349,NGF000254,Crop,Oil Palm,Rubber,0.28,Subsistence (<1ha),9,Traditional,False,True,False,False,6.15,779000.0,71667.0,6750.0,84000.0,81000.0,860000.0
+E0000350,NGF000255,Crop,Cassava,Oil Palm,0.1,Subsistence (<1ha),25,Traditional,True,False,False,False,19.48,225000.0,19500.0,750.0,30000.0,9000.0,234000.0
+E0000351,NGF000256,Crop,Sorghum,Groundnut,0.59,Subsistence (<1ha),7,Integrated,False,True,False,False,2.41,225000.0,22500.0,3750.0,227000.0,45000.0,270000.0
+E0000352,NGF000256,Goats,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,227000.0,0.0,0.0
+E0000353,NGF000257,Crop,Rubber,Rice,2.97,Small (1-5ha),20,Traditional,False,True,False,False,2.54,4257000.0,439833.0,85083.0,891000.0,1021000.0,5278000.0
+E0000354,NGF000258,Crop,Cowpea,Millet,4.65,Small (1-5ha),7,Traditional,False,True,True,False,1.01,687000.0,156667.0,99417.0,1395000.0,1193000.0,1880000.0
+E0000355,NGF000258,Cattle,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1395000.0,0.0,0.0
+E0000356,NGF000259,Crop,Maize,Groundnut,2.62,Small (1-5ha),7,Traditional,False,True,False,False,2.36,929000.0,103000.0,25583.0,786000.0,307000.0,1236000.0
+E0000357,NGF000260,Crop,Cowpea,Beans,0.47,Subsistence (<1ha),3,Unknown,False,True,False,False,1.44,162000.0,22667.0,9167.0,141000.0,110000.0,272000.0
+E0000358,NGF000261,Crop,Oil Palm,Cowpea,2.35,Small (1-5ha),6,Integrated,False,True,True,True,8.28,8699000.0,810833.0,85917.0,755000.0,1031000.0,9730000.0
+E0000359,NGF000261,Goats,,,0.0,,6,N/A,False,True,False,False,0.0,0.0,0.0,0.0,755000.0,0.0,0.0
+E0000360,NGF000262,Crop,Cassava,Yam,0.2,Subsistence (<1ha),16,Integrated,False,True,False,False,15.77,364000.0,31500.0,1167.0,110000.0,14000.0,378000.0
+E0000361,NGF000263,Crop,Plantain,Cassava,1.48,Small (1-5ha),4,Traditional,False,True,False,False,9.31,2890000.0,252667.0,11833.0,444000.0,142000.0,3032000.0
+E0000362,NGF000263,Poultry,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,444000.0,0.0,0.0
+E0000363,NGF000264,Crop,Cassava,Maize,1.08,Small (1-5ha),15,Integrated,False,True,True,False,17.34,2173000.0,187333.0,6250.0,524000.0,75000.0,2248000.0
+E0000364,NGF000265,Crop,Rice,Guinea Corn,0.71,Subsistence (<1ha),3,Traditional,False,True,True,False,4.11,902000.0,85167.0,10000.0,213000.0,120000.0,1022000.0
+E0000365,NGF000265,Poultry,,,0.0,,3,N/A,False,True,False,False,0.0,0.0,0.0,0.0,213000.0,0.0,0.0
+E0000366,NGF000266,Crop,Beans,Millet,4.59,Small (1-5ha),4,Traditional,False,True,False,False,0.74,101000.0,113333.0,104917.0,1377000.0,1259000.0,1360000.0
+E0000367,NGF000266,Cattle,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1377000.0,0.0,0.0
+E0000368,NGF000267,Crop,Guinea Corn,Maize,0.47,Subsistence (<1ha),2,Traditional,False,True,False,False,1.34,71000.0,10000.0,4083.0,141000.0,49000.0,120000.0
+E0000369,NGF000268,Crop,Maize,Oil Palm,0.54,Subsistence (<1ha),9,Integrated,False,True,True,True,3.65,323000.0,32833.0,5917.0,212000.0,71000.0,394000.0
+E0000370,NGF000268,Goats,,,0.0,,9,N/A,False,True,False,False,0.0,0.0,0.0,0.0,212000.0,0.0,0.0
+E0000371,NGF000269,Crop,Guinea Corn,Cassava,0.33,Subsistence (<1ha),6,Traditional,False,True,False,False,1.48,66000.0,7750.0,2250.0,99000.0,27000.0,93000.0
+E0000372,NGF000269,Cattle,,,0.0,,6,N/A,False,True,False,False,0.0,0.0,0.0,0.0,99000.0,0.0,0.0
+E0000373,NGF000270,Crop,Cassava,Cocoa,1.13,Small (1-5ha),27,Traditional,False,True,False,False,14.4,1876000.0,162667.0,6333.0,339000.0,76000.0,1952000.0
+E0000374,NGF000271,Crop,Yam,Cowpea,0.36,Subsistence (<1ha),34,Traditional,False,True,False,False,10.4,993000.0,87250.0,4500.0,108000.0,54000.0,1047000.0
+E0000375,NGF000272,Crop,Cowpea,Yam,0.3,Subsistence (<1ha),22,Traditional,False,True,True,False,1.86,142000.0,18667.0,6833.0,90000.0,82000.0,224000.0
+E0000376,NGF000272,Cattle,,,0.0,,22,N/A,False,True,False,False,0.0,0.0,0.0,0.0,90000.0,0.0,0.0
+E0000377,NGF000273,Crop,Tomato,Cotton,2.44,Small (1-5ha),4,Traditional,False,True,False,True,22.8,13596000.0,1159000.0,26000.0,732000.0,312000.0,13908000.0
+E0000378,NGF000274,Crop,Cowpea,Sorghum,0.48,Subsistence (<1ha),4,Integrated,False,True,False,False,1.12,111000.0,18000.0,8750.0,194000.0,105000.0,216000.0
+E0000379,NGF000275,Crop,Rice,Guinea Corn,3.98,Small (1-5ha),10,Traditional,True,False,True,False,4.0,4173000.0,464333.0,116583.0,1194000.0,1399000.0,5572000.0
+E0000380,NGF000276,Crop,Cassava,,0.31,Subsistence (<1ha),11,Integrated,False,True,False,False,15.49,556000.0,48000.0,1667.0,293000.0,20000.0,576000.0
+E0000381,NGF000276,Cattle,,,0.0,,11,N/A,False,True,False,False,0.0,0.0,0.0,0.0,293000.0,0.0,0.0
+E0000382,NGF000277,Crop,Plantain,Beans,0.25,Subsistence (<1ha),11,Traditional,False,True,False,True,16.12,857000.0,73917.0,2500.0,75000.0,30000.0,887000.0
+E0000383,NGF000278,Crop,Cassava,Guinea Corn,0.36,Subsistence (<1ha),26,Integrated,False,True,True,False,15.77,652000.0,56833.0,2500.0,158000.0,30000.0,682000.0
+E0000384,NGF000278,Cattle,,,0.0,,26,N/A,False,True,False,False,0.0,0.0,0.0,0.0,158000.0,0.0,0.0
+E0000385,NGF000279,Crop,Maize,,0.4,Subsistence (<1ha),15,Traditional,False,True,False,False,2.19,129000.0,14667.0,3917.0,120000.0,47000.0,176000.0
+E0000386,NGF000279,Sheep,,,0.0,,15,N/A,False,True,False,False,0.0,0.0,0.0,0.0,120000.0,0.0,0.0
+E0000387,NGF000280,Crop,Groundnut,Cowpea,4.07,Small (1-5ha),3,Traditional,False,True,False,False,1.33,1176000.0,202833.0,104833.0,1221000.0,1258000.0,2434000.0
+E0000388,NGF000280,Ducks,,,0.0,,3,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1221000.0,0.0,0.0
+E0000389,NGF000281,Crop,Maize,Beans,0.51,Subsistence (<1ha),4,Traditional,False,True,False,False,3.58,312000.0,30500.0,4500.0,153000.0,54000.0,366000.0
+E0000390,NGF000281,Goats,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,153000.0,0.0,0.0
+E0000391,NGF000282,Crop,Yam,Cowpea,2.73,Small (1-5ha),12,Traditional,False,True,False,False,7.82,5572000.0,498167.0,33833.0,819000.0,406000.0,5978000.0
+E0000392,NGF000283,Crop,Cowpea,Guinea Corn,5.51,Medium (5-10ha),19,Traditional,False,True,False,False,0.86,913000.0,158000.0,81917.0,1653000.0,983000.0,1896000.0
+E0000393,NGF000283,Sheep,,,0.0,,19,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1653000.0,0.0,0.0
+E0000394,NGF000284,Crop,Yam,Oil Palm,2.49,Small (1-5ha),2,Integrated,False,True,False,False,9.99,6630000.0,580500.0,28000.0,947000.0,336000.0,6966000.0
+E0000395,NGF000285,Crop,Cocoa,Beans,0.21,Subsistence (<1ha),11,Traditional,False,True,True,False,0.91,108000.0,23750.0,14750.0,63000.0,177000.0,285000.0
+E0000396,NGF000285,Ducks,,,0.0,,11,N/A,False,True,False,False,0.0,0.0,0.0,0.0,63000.0,0.0,0.0
+E0000397,NGF000286,Crop,Maize,Cocoa,1.14,Small (1-5ha),14,Integrated,False,True,True,True,3.71,675000.0,70500.0,14250.0,392000.0,171000.0,846000.0
+E0000398,NGF000286,Pigs,,,0.0,,14,N/A,False,True,False,False,0.0,0.0,0.0,0.0,392000.0,0.0,0.0
+E0000399,NGF000287,Crop,Millet,Sorghum,0.4,Subsistence (<1ha),6,Traditional,False,True,False,False,1.96,103000.0,11667.0,3083.0,120000.0,37000.0,140000.0
+E0000400,NGF000288,Crop,Yam,Maize,1.89,Small (1-5ha),3,Traditional,False,True,True,False,9.28,4612000.0,409250.0,24917.0,567000.0,299000.0,4911000.0
+E0000401,NGF000289,Crop,Cassava,Oil Palm,0.97,Subsistence (<1ha),21,Traditional,False,True,True,False,21.5,2426000.0,208583.0,6417.0,291000.0,77000.0,2503000.0
+E0000402,NGF000289,Pigs,,,0.0,,21,N/A,False,True,False,False,0.0,0.0,0.0,0.0,291000.0,0.0,0.0
+E0000403,NGF000290,Crop,Rice,Millet,5.94,Medium (5-10ha),8,Integrated,False,True,False,False,3.05,5086000.0,528500.0,104667.0,1832000.0,1256000.0,6342000.0
+E0000404,NGF000290,Cattle,,,0.0,,8,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1832000.0,0.0,0.0
+E0000405,NGF000291,Crop,Cocoa,Maize,2.19,Small (1-5ha),29,Traditional,False,True,False,False,1.1,1743000.0,301250.0,156000.0,657000.0,1872000.0,3615000.0
+E0000406,NGF000292,Crop,Sorghum,Tomato,1.67,Small (1-5ha),2,Integrated,False,True,False,False,1.99,470000.0,52583.0,13417.0,551000.0,161000.0,631000.0
+E0000407,NGF000292,Cattle,,,0.0,,2,N/A,False,True,False,False,0.0,0.0,0.0,0.0,551000.0,0.0,0.0
+E0000408,NGF000293,Crop,Cassava,Cocoa,2.99,Small (1-5ha),14,Integrated,False,True,False,False,13.89,4785000.0,415333.0,16583.0,947000.0,199000.0,4984000.0
+E0000409,NGF000293,Ducks,,,0.0,,14,N/A,False,True,False,False,0.0,0.0,0.0,0.0,947000.0,0.0,0.0
+E0000410,NGF000294,Crop,Cowpea,Beans,0.47,Subsistence (<1ha),6,Unknown,False,True,False,False,1.09,100000.0,17000.0,8667.0,141000.0,104000.0,204000.0
+E0000411,NGF000295,Crop,Guinea Corn,Sorghum,0.48,Subsistence (<1ha),9,Traditional,False,True,False,False,2.21,150000.0,16750.0,4250.0,144000.0,51000.0,201000.0
+E0000412,NGF000295,Goats,,,0.0,,9,N/A,False,True,False,False,0.0,0.0,0.0,0.0,144000.0,0.0,0.0
+E0000413,NGF000296,Crop,Rice,Guinea Corn,0.46,Subsistence (<1ha),3,Traditional,False,True,False,False,3.04,396000.0,40833.0,7833.0,138000.0,94000.0,490000.0
+E0000414,NGF000297,Crop,Cocoa,Oil Palm,1.21,Small (1-5ha),15,Traditional,False,True,False,False,0.81,582000.0,122500.0,74000.0,363000.0,888000.0,1470000.0
+E0000415,NGF000297,Poultry,,,0.0,,15,N/A,False,True,False,False,0.0,0.0,0.0,0.0,363000.0,0.0,0.0
+E0000416,NGF000298,Crop,Millet,,1.63,Small (1-5ha),16,Traditional,False,True,False,True,3.35,780000.0,81917.0,16917.0,489000.0,203000.0,983000.0
+E0000417,NGF000299,Crop,Beans,Millet,0.42,Subsistence (<1ha),18,Traditional,False,True,True,False,1.62,187000.0,22667.0,7083.0,126000.0,85000.0,272000.0
+E0000418,NGF000299,Goats,,,0.0,,18,N/A,False,True,False,False,0.0,0.0,0.0,0.0,126000.0,0.0,0.0
+E0000419,NGF000300,Crop,Sorghum,Groundnut,2.97,Small (1-5ha),13,Traditional,False,True,False,False,2.59,1097000.0,121750.0,30333.0,891000.0,364000.0,1461000.0
+E0000420,NGF000301,Crop,Guinea Corn,Soybean,2.0,Small (1-5ha),13,Traditional,False,True,False,False,2.21,657000.0,70000.0,15250.0,600000.0,183000.0,840000.0
+E0000421,NGF000302,Crop,Cowpea,Sesame,3.06,Small (1-5ha),24,Integrated,False,True,False,False,0.97,570000.0,99000.0,51500.0,968000.0,618000.0,1188000.0
+E0000422,NGF000302,Poultry,,,0.0,,24,N/A,False,True,False,False,0.0,0.0,0.0,0.0,968000.0,0.0,0.0
+E0000423,NGF000303,Crop,Beans,Vegetables,0.22,Subsistence (<1ha),11,Traditional,False,True,True,True,1.27,58000.0,9333.0,4500.0,66000.0,54000.0,112000.0
+E0000424,NGF000304,Crop,Yam,Oil Palm,1.42,Small (1-5ha),17,Traditional,False,True,True,False,15.93,6119000.0,527833.0,17917.0,426000.0,215000.0,6334000.0
+E0000425,NGF000305,Crop,Sorghum,Soybean,1.3,Small (1-5ha),20,Integrated,False,True,False,False,2.3,440000.0,47333.0,10667.0,440000.0,128000.0,568000.0
+E0000426,NGF000305,Sheep,,,0.0,,20,N/A,False,True,False,False,0.0,0.0,0.0,0.0,440000.0,0.0,0.0
+E0000427,NGF000306,Crop,Cassava,Sesame,0.3,Subsistence (<1ha),14,Traditional,False,True,False,False,17.3,607000.0,51917.0,1333.0,90000.0,16000.0,623000.0
+E0000428,NGF000307,Crop,Sesame,Maize,0.3,Subsistence (<1ha),1,Unknown,False,True,False,False,0.92,64000.0,14000.0,8667.0,90000.0,104000.0,168000.0
+E0000429,NGF000307,Poultry,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,90000.0,0.0,0.0
+E0000430,NGF000308,Crop,Cassava,Cocoa,0.68,Subsistence (<1ha),39,Traditional,True,False,False,False,21.13,1676000.0,143667.0,4000.0,204000.0,48000.0,1724000.0
+E0000431,NGF000308,Poultry,,,0.0,,39,N/A,False,True,False,False,0.0,0.0,0.0,0.0,204000.0,0.0,0.0
+E0000432,NGF000309,Crop,Cowpea,Guinea Corn,0.3,Subsistence (<1ha),5,Integrated,False,True,False,False,0.74,17000.0,7333.0,5917.0,140000.0,71000.0,88000.0
+E0000433,NGF000310,Crop,Cassava,Beans,1.53,Small (1-5ha),2,Traditional,False,True,False,False,18.01,3221000.0,275583.0,7167.0,459000.0,86000.0,3307000.0
+E0000434,NGF000311,Crop,Guinea Corn,Sorghum,0.45,Subsistence (<1ha),33,Traditional,False,True,False,False,3.61,261000.0,25667.0,3917.0,135000.0,47000.0,308000.0
+E0000435,NGF000312,Crop,Vegetables,Rice,0.1,Subsistence (<1ha),13,Integrated,False,True,False,False,26.55,838000.0,70917.0,1083.0,80000.0,13000.0,851000.0
+E0000436,NGF000313,Crop,Vegetables,Maize,0.5,Subsistence (<1ha),3,Traditional,False,True,False,False,23.94,3749000.0,319167.0,6750.0,150000.0,81000.0,3830000.0
+E0000437,NGF000313,Goats,,,0.0,,3,N/A,False,True,False,False,0.0,0.0,0.0,0.0,150000.0,0.0,0.0
+E0000438,NGF000314,Crop,Yam,Cocoa,1.28,Small (1-5ha),26,Integrated,False,True,False,False,11.78,4059000.0,351833.0,13583.0,434000.0,163000.0,4222000.0
+E0000439,NGF000315,Crop,Cassava,Rice,2.27,Small (1-5ha),15,Traditional,False,True,True,False,19.13,5046000.0,434333.0,13833.0,681000.0,166000.0,5212000.0
+E0000440,NGF000316,Crop,Cassava,Cowpea,0.34,Subsistence (<1ha),10,Traditional,False,True,False,False,15.46,608000.0,52583.0,1917.0,102000.0,23000.0,631000.0
+E0000441,NGF000317,Crop,Cocoa,Vegetables,0.22,Subsistence (<1ha),13,Traditional,False,True,False,False,0.6,29000.0,16250.0,13833.0,66000.0,166000.0,195000.0
+E0000442,NGF000317,Goats,,,0.0,,13,N/A,False,True,False,False,0.0,0.0,0.0,0.0,66000.0,0.0,0.0
+E0000443,NGF000318,Crop,Cassava,Oil Palm,2.84,Small (1-5ha),27,Unknown,False,True,False,False,21.27,7025000.0,604083.0,18667.0,852000.0,224000.0,7249000.0
+E0000444,NGF000318,Goats,,,0.0,,27,N/A,False,True,False,False,0.0,0.0,0.0,0.0,852000.0,0.0,0.0
+E0000445,NGF000319,Crop,Yam,Rice,0.49,Subsistence (<1ha),23,Unknown,False,True,True,False,13.29,1745000.0,151917.0,6500.0,147000.0,78000.0,1823000.0
+E0000446,NGF000319,Pigs,,,0.0,,23,N/A,False,True,False,False,0.0,0.0,0.0,0.0,147000.0,0.0,0.0
+E0000447,NGF000320,Crop,Cassava,Maize,0.55,Subsistence (<1ha),23,Traditional,False,True,False,False,11.78,744000.0,64833.0,2833.0,165000.0,34000.0,778000.0
+E0000448,NGF000321,Crop,Guinea Corn,Maize,3.38,Small (1-5ha),16,Traditional,False,True,False,False,2.8,1445000.0,149750.0,29333.0,1014000.0,352000.0,1797000.0
+E0000449,NGF000321,Sheep,,,0.0,,16,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1014000.0,0.0,0.0
+E0000450,NGF000322,Crop,Vegetables,Rubber,0.2,Subsistence (<1ha),2,Traditional,False,True,True,False,17.6,1084000.0,93833.0,3500.0,60000.0,42000.0,1126000.0
+E0000451,NGF000322,Pigs,,,0.0,,2,N/A,False,True,False,False,0.0,0.0,0.0,0.0,60000.0,0.0,0.0
+E0000452,NGF000323,Crop,Cowpea,,1.86,Small (1-5ha),16,Traditional,False,True,False,False,1.2,561000.0,74333.0,27583.0,558000.0,331000.0,892000.0
+E0000453,NGF000323,Poultry,,,0.0,,16,N/A,False,True,False,False,0.0,0.0,0.0,0.0,558000.0,0.0,0.0
+E0000454,NGF000324,Crop,Guinea Corn,Rice,3.47,Small (1-5ha),33,Traditional,False,True,False,False,2.95,1518000.0,162167.0,35667.0,1041000.0,428000.0,1946000.0
+E0000455,NGF000325,Crop,Maize,Cocoa,0.12,Subsistence (<1ha),4,Traditional,False,True,True,False,3.42,66000.0,6833.0,1333.0,36000.0,16000.0,82000.0
+E0000456,NGF000326,Crop,Sesame,Groundnut,2.79,Small (1-5ha),11,Traditional,False,True,False,False,0.89,554000.0,124000.0,77833.0,837000.0,934000.0,1488000.0
+E0000457,NGF000326,Goats,,,0.0,,11,N/A,False,True,False,False,0.0,0.0,0.0,0.0,837000.0,0.0,0.0
+E0000458,NGF000327,Crop,Yam,Beans,0.46,Subsistence (<1ha),4,Traditional,False,True,True,False,9.28,1116000.0,99667.0,6667.0,138000.0,80000.0,1196000.0
+E0000459,NGF000328,Crop,Cassava,Yam,0.38,Subsistence (<1ha),7,Traditional,False,True,True,False,23.47,1044000.0,89167.0,2167.0,114000.0,26000.0,1070000.0
+E0000460,NGF000328,Ducks,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,114000.0,0.0,0.0
+E0000461,NGF000329,Crop,Cassava,Rice,0.68,Subsistence (<1ha),14,Traditional,False,True,True,True,22.94,1819000.0,156000.0,4417.0,204000.0,53000.0,1872000.0
+E0000462,NGF000330,Crop,Sorghum,Cowpea,0.46,Subsistence (<1ha),6,Traditional,False,True,False,False,1.51,88000.0,10917.0,3583.0,138000.0,43000.0,131000.0
+E0000463,NGF000331,Crop,Beans,Vegetables,0.15,Subsistence (<1ha),12,Traditional,False,True,False,False,0.97,34000.0,5000.0,2167.0,45000.0,26000.0,60000.0
+E0000464,NGF000332,Crop,Cassava,,1.08,Small (1-5ha),35,Unknown,False,True,False,False,18.14,2277000.0,195917.0,6167.0,324000.0,74000.0,2351000.0
+E0000465,NGF000333,Crop,Sorghum,Millet,1.19,Small (1-5ha),31,Traditional,False,True,False,True,3.37,651000.0,63500.0,9250.0,357000.0,111000.0,762000.0
+E0000466,NGF000333,Sheep,,,0.0,,31,N/A,False,True,False,False,0.0,0.0,0.0,0.0,357000.0,0.0,0.0
+E0000467,NGF000334,Crop,Oil Palm,Beans,1.04,Small (1-5ha),9,Traditional,False,True,False,False,5.52,2602000.0,239167.0,22333.0,312000.0,268000.0,2870000.0
+E0000468,NGF000334,Goats,,,0.0,,9,N/A,False,True,False,False,0.0,0.0,0.0,0.0,312000.0,0.0,0.0
+E0000469,NGF000335,Crop,Sorghum,Millet,0.74,Subsistence (<1ha),1,Traditional,False,True,False,False,1.82,176000.0,21417.0,6750.0,222000.0,81000.0,257000.0
+E0000470,NGF000335,Poultry,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,222000.0,0.0,0.0
+E0000471,NGF000336,Crop,Cowpea,Millet,1.1,Small (1-5ha),18,Traditional,False,True,False,False,1.04,210000.0,38000.0,20500.0,330000.0,246000.0,456000.0
+E0000472,NGF000336,Sheep,,,0.0,,18,N/A,False,True,False,False,0.0,0.0,0.0,0.0,330000.0,0.0,0.0
+E0000473,NGF000337,Crop,Maize,Cowpea,5.58,Medium (5-10ha),6,Traditional,False,True,False,True,1.84,1193000.0,171167.0,71750.0,1674000.0,861000.0,2054000.0
+E0000474,NGF000337,Poultry,,,0.0,,6,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1674000.0,0.0,0.0
+E0000475,NGF000338,Crop,Cotton,,0.43,Subsistence (<1ha),13,Unknown,False,True,False,True,1.71,262000.0,33917.0,12083.0,129000.0,145000.0,407000.0
+E0000476,NGF000338,Goats,,,0.0,,13,N/A,False,True,False,False,0.0,0.0,0.0,0.0,129000.0,0.0,0.0
+E0000477,NGF000339,Crop,Cowpea,Beans,1.37,Small (1-5ha),25,Integrated,False,True,False,False,1.14,302000.0,52000.0,26833.0,461000.0,322000.0,624000.0
+E0000478,NGF000340,Crop,Plantain,,0.4,Subsistence (<1ha),37,Integrated,False,True,False,True,12.11,1014000.0,88750.0,4250.0,170000.0,51000.0,1065000.0
+E0000479,NGF000341,Crop,Yam,Beans,0.3,Subsistence (<1ha),21,Traditional,False,True,False,False,9.84,784000.0,68833.0,3500.0,90000.0,42000.0,826000.0
+E0000480,NGF000342,Crop,Cowpea,Maize,0.57,Subsistence (<1ha),8,Traditional,False,True,False,False,1.26,185000.0,24000.0,8583.0,171000.0,103000.0,288000.0
+E0000481,NGF000343,Crop,Cocoa,,0.2,Subsistence (<1ha),8,Traditional,False,True,True,False,1.08,161000.0,27500.0,14083.0,60000.0,169000.0,330000.0
+E0000482,NGF000343,Goats,,,0.0,,8,N/A,False,True,False,False,0.0,0.0,0.0,0.0,60000.0,0.0,0.0
+E0000483,NGF000344,Crop,Tomato,Groundnut,3.2,Small (1-5ha),7,Traditional,False,True,False,True,30.71,23989000.0,2047333.0,48250.0,960000.0,579000.0,24568000.0
+E0000484,NGF000345,Crop,Maize,Oil Palm,0.1,Subsistence (<1ha),42,Traditional,False,True,False,False,1.95,28000.0,3333.0,1000.0,30000.0,12000.0,40000.0
+E0000485,NGF000345,Goats,,,0.0,,42,N/A,False,True,False,False,0.0,0.0,0.0,0.0,30000.0,0.0,0.0
+E0000486,NGF000346,Crop,Cowpea,Sesame,0.71,Subsistence (<1ha),1,Traditional,False,True,True,False,1.62,314000.0,38333.0,12167.0,213000.0,146000.0,460000.0
+E0000487,NGF000346,Poultry,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,213000.0,0.0,0.0
+E0000488,NGF000347,Crop,Cassava,Yam,0.31,Subsistence (<1ha),23,Integrated,False,True,True,False,23.87,865000.0,74000.0,1917.0,143000.0,23000.0,888000.0
+E0000489,NGF000348,Crop,Cocoa,Cassava,0.49,Subsistence (<1ha),26,Integrated,False,True,True,False,0.81,77000.0,50000.0,43583.0,197000.0,523000.0,600000.0
+E0000490,NGF000349,Crop,Cassava,Beans,0.1,Subsistence (<1ha),1,Traditional,False,True,False,False,15.17,176000.0,15167.0,500.0,30000.0,6000.0,182000.0
+E0000491,NGF000349,Poultry,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,30000.0,0.0,0.0
+E0000492,NGF000350,Crop,Yam,,2.25,Small (1-5ha),7,Traditional,False,True,False,False,13.66,8252000.0,717000.0,29333.0,675000.0,352000.0,8604000.0
+E0000493,NGF000351,Crop,Cassava,Rubber,0.7,Subsistence (<1ha),23,Traditional,False,True,False,False,18.35,1505000.0,128500.0,3083.0,210000.0,37000.0,1542000.0
+E0000494,NGF000352,Crop,Rubber,Cassava,2.64,Small (1-5ha),17,Traditional,False,True,False,False,2.0,2842000.0,308000.0,71167.0,792000.0,854000.0,3696000.0
+E0000495,NGF000353,Crop,Cocoa,Beans,2.7,Small (1-5ha),5,Integrated,False,True,False,False,0.65,464000.0,220000.0,181333.0,860000.0,2176000.0,2640000.0
+E0000496,NGF000354,Crop,Yam,Beans,0.93,Subsistence (<1ha),17,Traditional,False,True,False,False,15.88,4010000.0,344667.0,10500.0,279000.0,126000.0,4136000.0
+E0000497,NGF000354,Poultry,,,0.0,,17,N/A,False,True,False,False,0.0,0.0,0.0,0.0,279000.0,0.0,0.0
+E0000498,NGF000355,Crop,Beans,Tomato,0.51,Subsistence (<1ha),1,Unknown,False,True,True,False,1.49,179000.0,25333.0,10417.0,153000.0,125000.0,304000.0
+E0000499,NGF000356,Crop,Yam,Guinea Corn,0.32,Subsistence (<1ha),10,Integrated,False,True,False,False,10.74,913000.0,80250.0,4167.0,296000.0,50000.0,963000.0
+E0000500,NGF000357,Crop,Guinea Corn,Groundnut,2.27,Small (1-5ha),24,Traditional,False,True,False,False,2.42,785000.0,86917.0,21500.0,681000.0,258000.0,1043000.0
+E0000501,NGF000357,Poultry,,,0.0,,24,N/A,False,True,False,False,0.0,0.0,0.0,0.0,681000.0,0.0,0.0
+E0000502,NGF000358,Crop,Cowpea,Groundnut,4.05,Small (1-5ha),18,Traditional,False,True,False,False,0.95,662000.0,128333.0,73167.0,1215000.0,878000.0,1540000.0
+E0000503,NGF000359,Crop,Sorghum,Millet,0.38,Subsistence (<1ha),4,Traditional,False,True,False,False,2.11,121000.0,12667.0,2583.0,114000.0,31000.0,152000.0
+E0000504,NGF000360,Crop,Cotton,Rice,5.91,Medium (5-10ha),34,Traditional,False,True,False,False,1.71,3930000.0,463333.0,135833.0,1773000.0,1630000.0,5560000.0
+E0000505,NGF000360,Cattle,,,0.0,,34,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1773000.0,0.0,0.0
+E0000506,NGF000361,Crop,Maize,Guinea Corn,0.87,Subsistence (<1ha),35,Integrated,False,True,True,False,2.46,337000.0,35667.0,7583.0,461000.0,91000.0,428000.0
+E0000507,NGF000361,Sheep,,,0.0,,35,N/A,False,True,False,False,0.0,0.0,0.0,0.0,461000.0,0.0,0.0
+E0000508,NGF000362,Crop,Yam,Maize,2.14,Small (1-5ha),26,Traditional,False,True,False,False,16.3,9421000.0,813833.0,28750.0,642000.0,345000.0,9766000.0
+E0000509,NGF000362,Goats,,,0.0,,26,N/A,False,True,False,False,0.0,0.0,0.0,0.0,642000.0,0.0,0.0
+E0000510,NGF000363,Crop,Rice,Yam,1.31,Small (1-5ha),1,Traditional,False,True,False,False,3.13,1197000.0,119583.0,19833.0,393000.0,238000.0,1435000.0
+E0000511,NGF000364,Crop,Beans,Rice,0.22,Subsistence (<1ha),3,Traditional,False,True,False,False,0.9,37000.0,6667.0,3583.0,66000.0,43000.0,80000.0
+E0000512,NGF000364,Goats,,,0.0,,3,N/A,False,True,False,False,0.0,0.0,0.0,0.0,66000.0,0.0,0.0
+E0000513,NGF000365,Crop,Yam,Cassava,0.31,Subsistence (<1ha),12,Traditional,False,True,False,True,14.02,1169000.0,101500.0,4083.0,93000.0,49000.0,1218000.0
+E0000514,NGF000365,Cattle,,,0.0,,12,N/A,False,True,False,False,0.0,0.0,0.0,0.0,93000.0,0.0,0.0
+E0000515,NGF000366,Crop,Rice,Beans,0.46,Subsistence (<1ha),33,Traditional,False,True,False,False,3.67,520000.0,49333.0,6000.0,138000.0,72000.0,592000.0
+E0000516,NGF000367,Crop,Maize,Cowpea,0.53,Subsistence (<1ha),27,Traditional,False,True,True,False,4.63,438000.0,40833.0,4333.0,159000.0,52000.0,490000.0
+E0000517,NGF000368,Crop,Cassava,Oil Palm,1.42,Small (1-5ha),13,Traditional,False,True,True,False,23.0,3829000.0,326583.0,7500.0,426000.0,90000.0,3919000.0
+E0000518,NGF000368,Poultry,,,0.0,,13,N/A,False,True,False,False,0.0,0.0,0.0,0.0,426000.0,0.0,0.0
+E0000519,NGF000369,Crop,Guinea Corn,Yam,1.21,Small (1-5ha),17,Integrated,False,True,False,False,2.43,448000.0,46583.0,9250.0,563000.0,111000.0,559000.0
+E0000520,NGF000369,Goats,,,0.0,,17,N/A,False,True,False,False,0.0,0.0,0.0,0.0,563000.0,0.0,0.0
+E0000521,NGF000370,Crop,Beans,Rice,0.44,Subsistence (<1ha),28,Traditional,False,True,False,False,1.35,138000.0,19667.0,8167.0,132000.0,98000.0,236000.0
+E0000522,NGF000371,Crop,Maize,,1.4,Small (1-5ha),14,Traditional,False,True,True,False,2.71,611000.0,63167.0,12250.0,420000.0,147000.0,758000.0
+E0000523,NGF000372,Crop,Cotton,Guinea Corn,2.48,Small (1-5ha),1,Traditional,False,True,False,False,1.2,955000.0,136583.0,57000.0,744000.0,684000.0,1639000.0
+E0000524,NGF000373,Crop,Rubber,Beans,1.26,Small (1-5ha),45,Integrated,False,True,True,False,2.58,1819000.0,189583.0,38000.0,428000.0,456000.0,2275000.0
+E0000525,NGF000374,Crop,Maize,Vegetables,2.53,Small (1-5ha),4,Integrated,False,True,True,False,3.16,1213000.0,133167.0,32083.0,959000.0,385000.0,1598000.0
+E0000526,NGF000375,Crop,Cassava,Yam,2.22,Small (1-5ha),31,Integrated,False,True,False,False,26.44,6897000.0,587000.0,12250.0,716000.0,147000.0,7044000.0
+E0000527,NGF000376,Crop,Maize,Cassava,3.26,Small (1-5ha),12,Unknown,False,True,False,False,3.35,1831000.0,182000.0,29417.0,978000.0,353000.0,2184000.0
+E0000528,NGF000376,Goats,,,0.0,,12,N/A,False,True,False,False,0.0,0.0,0.0,0.0,978000.0,0.0,0.0
+E0000529,NGF000377,Crop,Vegetables,Yam,0.78,Subsistence (<1ha),7,Integrated,False,True,True,True,17.33,4145000.0,360500.0,15083.0,284000.0,181000.0,4326000.0
+E0000530,NGF000377,Poultry,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,284000.0,0.0,0.0
+E0000531,NGF000378,Crop,Rice,,2.6,Small (1-5ha),6,Traditional,False,True,False,True,3.76,2767000.0,285250.0,54667.0,780000.0,656000.0,3423000.0
+E0000532,NGF000379,Crop,Sorghum,Millet,1.15,Small (1-5ha),34,Integrated,False,True,False,False,2.59,463000.0,47167.0,8583.0,395000.0,103000.0,566000.0
+E0000533,NGF000379,Cattle,,,0.0,,34,N/A,False,True,False,False,0.0,0.0,0.0,0.0,395000.0,0.0,0.0
+E0000534,NGF000380,Crop,Maize,Soybean,1.34,Small (1-5ha),16,Traditional,False,True,True,True,3.18,675000.0,71000.0,14750.0,402000.0,177000.0,852000.0
+E0000535,NGF000380,Goats,,,0.0,,16,N/A,False,True,False,False,0.0,0.0,0.0,0.0,402000.0,0.0,0.0
+E0000536,NGF000381,Crop,Yam,Cassava,2.41,Small (1-5ha),13,Traditional,False,True,False,True,16.75,10921000.0,942000.0,31917.0,723000.0,383000.0,11304000.0
+E0000537,NGF000382,Crop,Millet,Guinea Corn,5.44,Medium (5-10ha),30,Traditional,False,True,False,False,2.29,1726000.0,186917.0,43083.0,1632000.0,517000.0,2243000.0
+E0000538,NGF000383,Crop,Rubber,Cassava,0.2,Subsistence (<1ha),1,Unknown,False,True,True,False,1.6,144000.0,18667.0,6667.0,60000.0,80000.0,224000.0
+E0000539,NGF000383,Poultry,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,60000.0,0.0,0.0
+E0000540,NGF000384,Crop,Cocoa,Plantain,1.18,Small (1-5ha),21,Traditional,False,True,True,False,0.87,507000.0,128750.0,86500.0,354000.0,1038000.0,1545000.0
+E0000541,NGF000384,Poultry,,,0.0,,21,N/A,False,True,False,False,0.0,0.0,0.0,0.0,354000.0,0.0,0.0
+E0000542,NGF000385,Crop,Plantain,Vegetables,1.11,Small (1-5ha),34,Traditional,False,True,False,False,15.0,3532000.0,305250.0,10917.0,333000.0,131000.0,3663000.0
+E0000543,NGF000386,Crop,Maize,Beans,1.34,Small (1-5ha),35,Modern,False,True,True,False,4.16,981000.0,92833.0,11083.0,5402000.0,133000.0,1114000.0
+E0000544,NGF000387,Crop,Yam,,3.02,Small (1-5ha),14,Traditional,False,True,True,False,14.31,11620000.0,1008500.0,40167.0,906000.0,482000.0,12102000.0
+E0000545,NGF000388,Crop,Maize,Beans,1.02,Small (1-5ha),19,Traditional,False,True,True,False,2.63,425000.0,44667.0,9250.0,306000.0,111000.0,536000.0
+E0000546,NGF000389,Crop,Cowpea,Tomato,0.41,Subsistence (<1ha),6,Traditional,False,True,False,False,0.87,54000.0,12000.0,7500.0,123000.0,90000.0,144000.0
+E0000547,NGF000390,Crop,Yam,Rice,0.12,Subsistence (<1ha),29,Traditional,False,True,True,True,14.86,471000.0,41500.0,2250.0,36000.0,27000.0,498000.0
+E0000548,NGF000390,Goats,,,0.0,,29,N/A,False,True,False,False,0.0,0.0,0.0,0.0,36000.0,0.0,0.0
+E0000549,NGF000391,Crop,Millet,Maize,4.98,Small (1-5ha),18,Integrated,False,True,False,False,1.9,1112000.0,141917.0,49250.0,1544000.0,591000.0,1703000.0
+E0000550,NGF000392,Crop,Cassava,Rice,2.82,Small (1-5ha),2,Unknown,False,True,False,False,17.71,5836000.0,499417.0,13083.0,846000.0,157000.0,5993000.0
+E0000551,NGF000393,Crop,Cowpea,Groundnut,4.4,Small (1-5ha),10,Traditional,False,True,False,False,1.15,1032000.0,168667.0,82667.0,1320000.0,992000.0,2024000.0
+E0000552,NGF000393,Goats,,,0.0,,10,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1320000.0,0.0,0.0
+E0000553,NGF000394,Crop,Millet,Cowpea,4.4,Small (1-5ha),15,Traditional,False,True,True,False,2.31,1284000.0,152417.0,45417.0,1320000.0,545000.0,1829000.0
+E0000554,NGF000395,Crop,Sorghum,Beans,0.41,Subsistence (<1ha),26,Traditional,False,True,True,False,2.34,131000.0,15167.0,4250.0,123000.0,51000.0,182000.0
+E0000555,NGF000396,Crop,Cowpea,Yam,2.48,Small (1-5ha),2,Traditional,False,True,True,False,0.84,76000.0,69333.0,63000.0,744000.0,756000.0,832000.0
+E0000556,NGF000397,Crop,Cowpea,,1.81,Small (1-5ha),41,Traditional,False,True,False,False,1.08,458000.0,65000.0,26833.0,543000.0,322000.0,780000.0
+E0000557,NGF000398,Crop,Cassava,Cocoa,0.68,Subsistence (<1ha),9,Traditional,False,True,False,False,15.61,1235000.0,106083.0,3167.0,204000.0,38000.0,1273000.0
+E0000558,NGF000399,Crop,Yam,Beans,1.85,Small (1-5ha),4,Traditional,False,True,True,False,13.55,6741000.0,585000.0,23250.0,555000.0,279000.0,7020000.0
+E0000559,NGF000399,Goats,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,555000.0,0.0,0.0
+E0000560,NGF000400,Crop,Oil Palm,Cocoa,0.75,Subsistence (<1ha),27,Traditional,False,True,False,False,7.49,2640000.0,234167.0,14167.0,225000.0,170000.0,2810000.0
+E0000561,NGF000401,Crop,Sorghum,Guinea Corn,1.3,Small (1-5ha),13,Traditional,False,True,True,False,3.52,712000.0,72500.0,13167.0,390000.0,158000.0,870000.0
+E0000562,NGF000401,Poultry,,,0.0,,13,N/A,False,True,False,False,0.0,0.0,0.0,0.0,390000.0,0.0,0.0
+E0000563,NGF000402,Crop,Yam,Rubber,1.09,Small (1-5ha),1,Integrated,False,True,False,False,8.1,2305000.0,206000.0,13917.0,577000.0,167000.0,2472000.0
+E0000564,NGF000402,Guinea Fowl,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,577000.0,0.0,0.0
+E0000565,NGF000403,Crop,Yam,Cassava,0.2,Subsistence (<1ha),8,Traditional,False,True,True,True,13.1,696000.0,61167.0,3167.0,60000.0,38000.0,734000.0
+E0000566,NGF000403,Pigs,,,0.0,,8,N/A,False,True,False,False,0.0,0.0,0.0,0.0,60000.0,0.0,0.0
+E0000567,NGF000404,Crop,Maize,Groundnut,5.46,Medium (5-10ha),24,Traditional,False,True,False,False,3.79,3586000.0,344833.0,46000.0,1638000.0,552000.0,4138000.0
+E0000568,NGF000405,Crop,Groundnut,Guinea Corn,0.65,Subsistence (<1ha),26,Traditional,False,True,True,False,2.3,463000.0,55833.0,17250.0,195000.0,207000.0,670000.0
+E0000569,NGF000406,Crop,Maize,Rice,2.9,Small (1-5ha),8,Integrated,False,True,False,False,3.11,1520000.0,150333.0,23667.0,920000.0,284000.0,1804000.0
+E0000570,NGF000407,Crop,Yam,Rubber,0.25,Subsistence (<1ha),6,Traditional,False,True,False,False,12.55,838000.0,73250.0,3417.0,75000.0,41000.0,879000.0
+E0000571,NGF000408,Crop,Maize,Yam,0.38,Subsistence (<1ha),5,Traditional,False,True,False,False,3.18,206000.0,20167.0,3000.0,114000.0,36000.0,242000.0
+E0000572,NGF000409,Crop,Rice,Cowpea,0.42,Subsistence (<1ha),11,Traditional,False,True,True,False,5.16,655000.0,63333.0,8750.0,126000.0,105000.0,760000.0
+E0000573,NGF000409,Poultry,,,0.0,,11,N/A,False,True,False,False,0.0,0.0,0.0,0.0,126000.0,0.0,0.0
+E0000574,NGF000410,Crop,Cowpea,Maize,2.64,Small (1-5ha),19,Integrated,False,True,False,False,1.38,968000.0,121333.0,40667.0,842000.0,488000.0,1456000.0
+E0000575,NGF000410,Cattle,,,0.0,,19,N/A,False,True,False,False,0.0,0.0,0.0,0.0,842000.0,0.0,0.0
+E0000576,NGF000411,Crop,Rice,Maize,1.58,Small (1-5ha),1,Traditional,False,True,False,False,2.33,973000.0,107333.0,26250.0,474000.0,315000.0,1288000.0
+E0000577,NGF000412,Crop,Maize,Beans,5.07,Medium (5-10ha),7,Integrated,False,True,False,False,2.97,2434000.0,251000.0,48167.0,1721000.0,578000.0,3012000.0
+E0000578,NGF000413,Crop,Millet,Sesame,0.41,Subsistence (<1ha),25,Traditional,False,True,True,False,1.52,76000.0,9333.0,3000.0,123000.0,36000.0,112000.0
+E0000579,NGF000413,Goats,,,0.0,,25,N/A,False,True,False,False,0.0,0.0,0.0,0.0,123000.0,0.0,0.0
+E0000580,NGF000414,Crop,Cassava,Yam,1.18,Small (1-5ha),20,Traditional,False,True,False,False,12.69,1723000.0,149667.0,6083.0,354000.0,73000.0,1796000.0
+E0000581,NGF000414,Goats,,,0.0,,20,N/A,False,True,False,False,0.0,0.0,0.0,0.0,354000.0,0.0,0.0
+E0000582,NGF000415,Crop,Cowpea,Cassava,2.55,Small (1-5ha),9,Traditional,False,True,True,False,1.58,1012000.0,134333.0,50000.0,765000.0,600000.0,1612000.0
+E0000583,NGF000415,Poultry,,,0.0,,9,N/A,False,True,False,False,0.0,0.0,0.0,0.0,765000.0,0.0,0.0
+E0000584,NGF000416,Crop,Cowpea,,0.4,Subsistence (<1ha),29,Integrated,False,True,False,False,0.98,72000.0,13000.0,7000.0,170000.0,84000.0,156000.0
+E0000585,NGF000416,Cattle,,,0.0,,29,N/A,False,True,False,False,0.0,0.0,0.0,0.0,170000.0,0.0,0.0
+E0000586,NGF000417,Crop,Beans,Sorghum,1.02,Small (1-5ha),4,Traditional,False,True,True,True,1.08,127000.0,36667.0,26083.0,306000.0,313000.0,440000.0
+E0000587,NGF000417,Cattle,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,306000.0,0.0,0.0
+E0000588,NGF000418,Crop,Cassava,Cocoa,2.62,Small (1-5ha),14,Traditional,False,True,False,False,24.14,7401000.0,632500.0,15750.0,786000.0,189000.0,7590000.0
+E0000589,NGF000419,Crop,Plantain,,0.33,Subsistence (<1ha),13,Traditional,False,True,False,False,10.01,684000.0,60500.0,3500.0,99000.0,42000.0,726000.0
+E0000590,NGF000420,Crop,Maize,Oil Palm,0.56,Subsistence (<1ha),4,Traditional,False,True,False,False,2.24,186000.0,20833.0,5333.0,168000.0,64000.0,250000.0
+E0000591,NGF000421,Crop,Sesame,,1.9,Small (1-5ha),1,Traditional,False,True,False,False,0.91,414000.0,86500.0,52000.0,570000.0,624000.0,1038000.0
+E0000592,NGF000421,Guinea Fowl,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,570000.0,0.0,0.0
+E0000593,NGF000422,Crop,Sorghum,Beans,0.77,Subsistence (<1ha),25,Unknown,False,True,False,True,3.4,410000.0,41500.0,7333.0,231000.0,88000.0,498000.0
+E0000594,NGF000422,Poultry,,,0.0,,25,N/A,False,True,False,False,0.0,0.0,0.0,0.0,231000.0,0.0,0.0
+E0000595,NGF000423,Crop,Cowpea,Millet,0.87,Subsistence (<1ha),11,Integrated,False,True,False,False,1.32,271000.0,38333.0,15750.0,461000.0,189000.0,460000.0
+E0000596,NGF000423,Poultry,,,0.0,,11,N/A,False,True,False,False,0.0,0.0,0.0,0.0,461000.0,0.0,0.0
+E0000597,NGF000424,Crop,Cowpea,Soybean,2.65,Small (1-5ha),22,Traditional,False,True,False,False,1.28,887000.0,113000.0,39083.0,795000.0,469000.0,1356000.0
+E0000598,NGF000425,Crop,Cassava,Yam,0.52,Subsistence (<1ha),5,Traditional,False,True,True,False,19.8,1201000.0,103000.0,2917.0,156000.0,35000.0,1236000.0
+E0000599,NGF000425,Goats,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,156000.0,0.0,0.0
+E0000600,NGF000426,Crop,Cocoa,Plantain,2.24,Small (1-5ha),10,Traditional,False,True,True,False,0.98,795000.0,275000.0,208750.0,672000.0,2505000.0,3300000.0
+E0000601,NGF000426,Goats,,,0.0,,10,N/A,False,True,False,False,0.0,0.0,0.0,0.0,672000.0,0.0,0.0
+E0000602,NGF000427,Crop,Yam,Vegetables,0.1,Subsistence (<1ha),15,Traditional,False,True,False,True,9.85,260000.0,22833.0,1167.0,30000.0,14000.0,274000.0
+E0000603,NGF000428,Crop,Sesame,,0.67,Subsistence (<1ha),31,Traditional,False,True,False,False,1.01,210000.0,34000.0,16500.0,201000.0,198000.0,408000.0
+E0000604,NGF000429,Crop,Cassava,,0.83,Subsistence (<1ha),2,Traditional,False,True,True,True,17.28,1650000.0,143417.0,5917.0,249000.0,71000.0,1721000.0
+E0000605,NGF000429,Fish Farming,,,0.0,,2,N/A,False,True,False,False,0.0,0.0,0.0,0.0,249000.0,0.0,0.0
+E0000606,NGF000430,Crop,Cassava,,1.53,Small (1-5ha),5,Integrated,False,True,False,False,16.17,2866000.0,247417.0,8583.0,659000.0,103000.0,2969000.0
+E0000607,NGF000430,Poultry,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,659000.0,0.0,0.0
+E0000608,NGF000431,Crop,Cassava,Millet,2.35,Small (1-5ha),26,Unknown,False,True,False,False,15.58,4253000.0,366083.0,11667.0,705000.0,140000.0,4393000.0
+E0000609,NGF000431,Goats,,,0.0,,26,N/A,False,True,False,False,0.0,0.0,0.0,0.0,705000.0,0.0,0.0
+E0000610,NGF000432,Crop,Cowpea,Sorghum,0.58,Subsistence (<1ha),3,Traditional,False,True,True,False,0.9,58000.0,17333.0,12500.0,174000.0,150000.0,208000.0
+E0000611,NGF000432,Poultry,,,0.0,,3,N/A,False,True,False,False,0.0,0.0,0.0,0.0,174000.0,0.0,0.0
+E0000612,NGF000433,Crop,Rice,Yam,0.24,Subsistence (<1ha),22,Traditional,False,True,True,False,5.42,406000.0,37917.0,4083.0,72000.0,49000.0,455000.0
+E0000613,NGF000433,Poultry,,,0.0,,22,N/A,False,True,False,False,0.0,0.0,0.0,0.0,72000.0,0.0,0.0
+E0000614,NGF000434,Crop,Cassava,Beans,1.86,Small (1-5ha),17,Traditional,False,True,False,False,24.11,5255000.0,448417.0,10500.0,558000.0,126000.0,5381000.0
+E0000615,NGF000434,Poultry,,,0.0,,17,N/A,False,True,False,False,0.0,0.0,0.0,0.0,558000.0,0.0,0.0
+E0000616,NGF000435,Crop,Rice,Oil Palm,0.84,Subsistence (<1ha),9,Traditional,False,True,False,False,2.28,515000.0,56000.0,13083.0,252000.0,157000.0,672000.0
+E0000617,NGF000435,Poultry,,,0.0,,9,N/A,False,True,False,False,0.0,0.0,0.0,0.0,252000.0,0.0,0.0
+E0000618,NGF000436,Crop,Rubber,Beans,1.54,Small (1-5ha),6,Traditional,False,True,False,False,1.19,838000.0,106750.0,36917.0,462000.0,443000.0,1281000.0
+E0000619,NGF000436,Goats,,,0.0,,6,N/A,False,True,False,False,0.0,0.0,0.0,0.0,462000.0,0.0,0.0
+E0000620,NGF000437,Crop,Sorghum,Tomato,2.79,Small (1-5ha),13,Traditional,False,True,True,True,3.07,1147000.0,135667.0,40083.0,837000.0,481000.0,1628000.0
+E0000621,NGF000438,Crop,Maize,Rice,1.81,Small (1-5ha),17,Integrated,False,True,False,False,2.17,587000.0,65500.0,16583.0,593000.0,199000.0,786000.0
+E0000622,NGF000439,Crop,Cowpea,Guinea Corn,0.79,Subsistence (<1ha),2,Traditional,False,True,False,False,0.96,154000.0,25333.0,12500.0,237000.0,150000.0,304000.0
+E0000623,NGF000439,Sheep,,,0.0,,2,N/A,False,True,False,False,0.0,0.0,0.0,0.0,237000.0,0.0,0.0
+E0000624,NGF000440,Crop,Maize,Groundnut,2.76,Small (1-5ha),6,Traditional,False,True,True,False,2.64,1065000.0,121500.0,32750.0,828000.0,393000.0,1458000.0
+E0000625,NGF000441,Crop,Maize,Guinea Corn,1.01,Small (1-5ha),8,Traditional,False,True,True,False,3.07,495000.0,51667.0,10417.0,303000.0,125000.0,620000.0
+E0000626,NGF000442,Crop,Maize,Beans,1.48,Small (1-5ha),15,Traditional,False,True,False,False,2.81,666000.0,69333.0,13833.0,444000.0,166000.0,832000.0
+E0000627,NGF000443,Crop,Beans,Yam,2.2,Small (1-5ha),7,Traditional,False,True,False,False,1.18,460000.0,86667.0,48333.0,660000.0,580000.0,1040000.0
+E0000628,NGF000443,Poultry,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,660000.0,0.0,0.0
+E0000629,NGF000444,Crop,Beans,,0.46,Subsistence (<1ha),40,Traditional,False,True,False,False,1.45,170000.0,22333.0,8167.0,138000.0,98000.0,268000.0
+E0000630,NGF000444,Pigs,,,0.0,,40,N/A,False,True,False,False,0.0,0.0,0.0,0.0,138000.0,0.0,0.0
+E0000631,NGF000445,Crop,Cowpea,Sorghum,0.3,Subsistence (<1ha),5,Traditional,False,True,False,False,0.69,28000.0,7000.0,4667.0,90000.0,56000.0,84000.0
+E0000632,NGF000445,Goats,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,90000.0,0.0,0.0
+E0000633,NGF000446,Crop,Cassava,Cocoa,0.53,Subsistence (<1ha),25,Traditional,False,True,False,False,22.86,1425000.0,121167.0,2417.0,159000.0,29000.0,1454000.0
+E0000634,NGF000446,Poultry,,,0.0,,25,N/A,False,True,False,False,0.0,0.0,0.0,0.0,159000.0,0.0,0.0
+E0000635,NGF000447,Crop,Cassava,Millet,0.98,Subsistence (<1ha),29,Traditional,False,True,False,False,11.55,1303000.0,113167.0,4583.0,294000.0,55000.0,1358000.0
+E0000636,NGF000448,Crop,Guinea Corn,Sorghum,3.01,Small (1-5ha),2,Traditional,False,True,False,False,1.49,518000.0,70917.0,27750.0,903000.0,333000.0,851000.0
+E0000637,NGF000449,Crop,Cassava,,2.07,Small (1-5ha),6,Integrated,False,True,False,True,20.3,4888000.0,420167.0,12833.0,821000.0,154000.0,5042000.0
+E0000638,NGF000450,Crop,Vegetables,Cocoa,2.77,Small (1-5ha),25,Traditional,False,True,False,False,14.58,12455000.0,1077083.0,39167.0,831000.0,470000.0,12925000.0
+E0000639,NGF000451,Crop,Cowpea,Maize,2.83,Small (1-5ha),12,Traditional,False,True,False,True,1.33,713000.0,125333.0,65917.0,849000.0,791000.0,1504000.0
+E0000640,NGF000452,Crop,Beans,Vegetables,0.54,Subsistence (<1ha),24,Traditional,False,True,False,False,1.01,129000.0,18333.0,7583.0,162000.0,91000.0,220000.0
+E0000641,NGF000452,Goats,,,0.0,,24,N/A,False,True,False,False,0.0,0.0,0.0,0.0,162000.0,0.0,0.0
+E0000642,NGF000453,Crop,Sesame,Beans,2.28,Small (1-5ha),32,Unknown,False,True,True,False,1.07,554000.0,122000.0,75833.0,684000.0,910000.0,1464000.0
+E0000643,NGF000453,Guinea Fowl,,,0.0,,32,N/A,False,True,False,False,0.0,0.0,0.0,0.0,684000.0,0.0,0.0
+E0000644,NGF000454,Crop,Guinea Corn,Beans,2.97,Small (1-5ha),3,Traditional,False,True,True,False,2.05,759000.0,96417.0,33167.0,891000.0,398000.0,1157000.0
+E0000645,NGF000454,Goats,,,0.0,,3,N/A,False,True,False,False,0.0,0.0,0.0,0.0,891000.0,0.0,0.0
+E0000646,NGF000455,Crop,Plantain,Cassava,0.4,Subsistence (<1ha),20,Traditional,False,True,False,False,15.13,1290000.0,110917.0,3417.0,120000.0,41000.0,1331000.0
+E0000647,NGF000456,Crop,Cassava,Rice,0.4,Subsistence (<1ha),1,Traditional,False,True,False,False,8.85,400000.0,35417.0,2083.0,120000.0,25000.0,425000.0
+E0000648,NGF000457,Crop,Guinea Corn,,1.88,Small (1-5ha),6,Traditional,False,True,True,True,3.03,884000.0,90250.0,16583.0,564000.0,199000.0,1083000.0
+E0000649,NGF000457,Goats,,,0.0,,6,N/A,False,True,False,False,0.0,0.0,0.0,0.0,564000.0,0.0,0.0
+E0000650,NGF000458,Crop,Guinea Corn,Cowpea,2.5,Small (1-5ha),37,Traditional,False,True,False,True,2.87,1088000.0,113667.0,23000.0,750000.0,276000.0,1364000.0
+E0000651,NGF000458,Poultry,,,0.0,,37,N/A,False,True,False,False,0.0,0.0,0.0,0.0,750000.0,0.0,0.0
+E0000652,NGF000459,Crop,Sorghum,Groundnut,1.27,Small (1-5ha),25,Traditional,False,True,True,False,2.33,401000.0,46833.0,13417.0,381000.0,161000.0,562000.0
+E0000653,NGF000459,Goats,,,0.0,,25,N/A,False,True,False,False,0.0,0.0,0.0,0.0,381000.0,0.0,0.0
+E0000654,NGF000460,Crop,Maize,Sorghum,0.3,Subsistence (<1ha),12,Traditional,False,True,True,False,2.39,104000.0,12000.0,3333.0,90000.0,40000.0,144000.0
+E0000655,NGF000461,Crop,Maize,Cowpea,0.94,Subsistence (<1ha),9,Unknown,False,True,False,False,1.99,292000.0,31167.0,6833.0,282000.0,82000.0,374000.0
+E0000656,NGF000462,Crop,Beans,,1.34,Small (1-5ha),37,Traditional,False,True,True,False,1.62,571000.0,72333.0,24750.0,402000.0,297000.0,868000.0
+E0000657,NGF000462,Goats,,,0.0,,37,N/A,False,True,False,False,0.0,0.0,0.0,0.0,402000.0,0.0,0.0
+E0000658,NGF000463,Crop,Vegetables,Rubber,0.28,Subsistence (<1ha),1,Unknown,False,True,False,False,19.16,1666000.0,142917.0,4083.0,84000.0,49000.0,1715000.0
+E0000659,NGF000463,Goats,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,84000.0,0.0,0.0
+E0000660,NGF000464,Crop,Sorghum,Rice,0.45,Subsistence (<1ha),27,Unknown,False,True,True,False,2.88,192000.0,20583.0,4583.0,135000.0,55000.0,247000.0
+E0000661,NGF000464,Goats,,,0.0,,27,N/A,False,True,False,False,0.0,0.0,0.0,0.0,135000.0,0.0,0.0
+E0000662,NGF000465,Crop,Cassava,Oil Palm,0.35,Subsistence (<1ha),21,Traditional,False,True,False,False,20.49,841000.0,71667.0,1583.0,105000.0,19000.0,860000.0
+E0000663,NGF000466,Crop,Oil Palm,Beans,1.16,Small (1-5ha),44,Traditional,False,True,False,False,6.75,3573000.0,326250.0,28500.0,348000.0,342000.0,3915000.0
+E0000664,NGF000467,Crop,Sorghum,Guinea Corn,0.42,Subsistence (<1ha),5,Traditional,False,True,False,False,2.03,121000.0,13500.0,3417.0,126000.0,41000.0,162000.0
+E0000665,NGF000468,Crop,Cassava,Yam,0.4,Subsistence (<1ha),29,Integrated,False,True,False,False,23.32,1094000.0,93333.0,2167.0,320000.0,26000.0,1120000.0
+E0000666,NGF000469,Crop,Cowpea,,5.97,Medium (5-10ha),36,Traditional,False,True,False,False,0.97,757000.0,193000.0,129917.0,1791000.0,1559000.0,2316000.0
+E0000667,NGF000469,Poultry,,,0.0,,36,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1791000.0,0.0,0.0
+E0000668,NGF000470,Crop,Maize,Vegetables,0.12,Subsistence (<1ha),6,Traditional,False,True,False,False,2.53,48000.0,5000.0,1000.0,36000.0,12000.0,60000.0
+E0000669,NGF000470,Poultry,,,0.0,,6,N/A,False,True,False,False,0.0,0.0,0.0,0.0,36000.0,0.0,0.0
+E0000670,NGF000471,Crop,Rice,Millet,2.74,Small (1-5ha),41,Integrated,False,True,False,False,4.43,3721000.0,354083.0,44000.0,1022000.0,528000.0,4249000.0
+E0000671,NGF000471,Poultry,,,0.0,,41,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1022000.0,0.0,0.0
+E0000672,NGF000472,Crop,Sorghum,Millet,0.4,Subsistence (<1ha),10,Traditional,False,True,True,False,1.96,97000.0,12333.0,4250.0,120000.0,51000.0,148000.0
+E0000673,NGF000473,Crop,Yam,Vegetables,2.53,Small (1-5ha),10,Traditional,False,True,True,False,14.1,9496000.0,832333.0,41000.0,759000.0,492000.0,9988000.0
+E0000674,NGF000473,Goats,,,0.0,,10,N/A,False,True,False,False,0.0,0.0,0.0,0.0,759000.0,0.0,0.0
+E0000675,NGF000474,Crop,Cowpea,Plantain,0.73,Subsistence (<1ha),2,Unknown,False,True,False,False,1.55,308000.0,37667.0,12000.0,219000.0,144000.0,452000.0
+E0000676,NGF000475,Crop,Cassava,Yam,0.22,Subsistence (<1ha),2,Traditional,False,True,False,False,12.77,324000.0,28083.0,1083.0,66000.0,13000.0,337000.0
+E0000677,NGF000476,Crop,Yam,Beans,0.99,Subsistence (<1ha),7,Traditional,False,True,True,False,16.35,4369000.0,377750.0,13667.0,297000.0,164000.0,4533000.0
+E0000678,NGF000477,Crop,Guinea Corn,Beans,1.55,Small (1-5ha),8,Traditional,False,True,True,False,2.11,446000.0,51750.0,14583.0,465000.0,175000.0,621000.0
+E0000679,NGF000478,Crop,Rubber,Plantain,0.49,Subsistence (<1ha),4,Traditional,False,True,True,False,1.67,366000.0,47833.0,17333.0,147000.0,208000.0,574000.0
+E0000680,NGF000478,Poultry,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,147000.0,0.0,0.0
+E0000681,NGF000479,Crop,Cassava,Maize,1.43,Small (1-5ha),2,Traditional,False,True,False,False,10.24,1674000.0,146417.0,6917.0,429000.0,83000.0,1757000.0
+E0000682,NGF000480,Crop,Cowpea,Maize,3.03,Small (1-5ha),14,Traditional,False,True,False,False,1.59,1308000.0,160667.0,51667.0,909000.0,620000.0,1928000.0
+E0000683,NGF000481,Crop,Millet,Cowpea,0.31,Subsistence (<1ha),5,Traditional,False,True,False,False,2.17,92000.0,10083.0,2417.0,93000.0,29000.0,121000.0
+E0000684,NGF000482,Crop,Beans,Rubber,0.6,Subsistence (<1ha),1,Traditional,False,True,False,False,1.04,133000.0,20667.0,9583.0,180000.0,115000.0,248000.0
+E0000685,NGF000482,Poultry,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,180000.0,0.0,0.0
+E0000686,NGF000483,Crop,Oil Palm,Rice,0.2,Subsistence (<1ha),5,Traditional,False,True,False,False,4.99,458000.0,41667.0,3500.0,60000.0,42000.0,500000.0
+E0000687,NGF000484,Crop,Maize,Cassava,3.47,Small (1-5ha),14,Traditional,False,True,False,False,2.53,1350000.0,146333.0,33833.0,1041000.0,406000.0,1756000.0
+E0000688,NGF000485,Crop,Yam,Beans,1.47,Small (1-5ha),2,Traditional,False,True,True,True,10.49,4053000.0,359833.0,22083.0,441000.0,265000.0,4318000.0
+E0000689,NGF000486,Crop,Cowpea,Oil Palm,0.84,Subsistence (<1ha),24,Traditional,False,True,False,False,1.51,358000.0,42333.0,12500.0,252000.0,150000.0,508000.0
+E0000690,NGF000486,Goats,,,0.0,,24,N/A,False,True,False,False,0.0,0.0,0.0,0.0,252000.0,0.0,0.0
+E0000691,NGF000487,Crop,Cassava,Oil Palm,0.1,Subsistence (<1ha),24,Traditional,False,True,True,False,16.88,195000.0,16917.0,667.0,30000.0,8000.0,203000.0
+E0000692,NGF000488,Crop,Yam,Oil Palm,2.19,Small (1-5ha),36,Integrated,False,True,False,False,11.06,6468000.0,565167.0,26167.0,857000.0,314000.0,6782000.0
+E0000693,NGF000488,Poultry,,,0.0,,36,N/A,False,True,False,False,0.0,0.0,0.0,0.0,857000.0,0.0,0.0
+E0000694,NGF000489,Crop,Cocoa,Rubber,0.99,Subsistence (<1ha),22,Traditional,False,True,False,False,0.66,104000.0,81250.0,72583.0,297000.0,871000.0,975000.0
+E0000695,NGF000489,Poultry,,,0.0,,22,N/A,False,True,False,False,0.0,0.0,0.0,0.0,297000.0,0.0,0.0
+E0000696,NGF000490,Crop,Vegetables,,0.29,Subsistence (<1ha),15,Traditional,False,True,False,False,22.81,2063000.0,176250.0,4333.0,87000.0,52000.0,2115000.0
+E0000697,NGF000490,Goats,,,0.0,,15,N/A,False,True,False,False,0.0,0.0,0.0,0.0,87000.0,0.0,0.0
+E0000698,NGF000491,Crop,Beans,Cocoa,2.94,Small (1-5ha),6,Integrated,False,True,False,False,1.45,1127000.0,142000.0,48083.0,932000.0,577000.0,1704000.0
+E0000699,NGF000492,Crop,Millet,Rice,0.4,Subsistence (<1ha),25,Traditional,False,True,True,False,3.07,170000.0,18417.0,4250.0,120000.0,51000.0,221000.0
+E0000700,NGF000492,Poultry,,,0.0,,25,N/A,False,True,False,False,0.0,0.0,0.0,0.0,120000.0,0.0,0.0
+E0000701,NGF000493,Crop,Sorghum,Groundnut,0.4,Subsistence (<1ha),9,Traditional,False,True,False,False,2.17,125000.0,13750.0,3333.0,120000.0,40000.0,165000.0
+E0000702,NGF000494,Crop,Beans,Sorghum,3.67,Small (1-5ha),8,Traditional,False,True,True,False,1.65,1495000.0,202000.0,77417.0,1101000.0,929000.0,2424000.0
+E0000703,NGF000495,Crop,Cowpea,Beans,0.26,Subsistence (<1ha),37,Traditional,False,True,True,False,1.08,56000.0,9333.0,4667.0,78000.0,56000.0,112000.0
+E0000704,NGF000496,Crop,Sorghum,Beans,1.89,Small (1-5ha),10,Traditional,False,True,False,False,2.85,871000.0,85333.0,12750.0,567000.0,153000.0,1024000.0
+E0000705,NGF000497,Crop,Beans,Maize,1.02,Small (1-5ha),14,Integrated,False,True,False,False,1.25,277000.0,42333.0,19250.0,506000.0,231000.0,508000.0
+E0000706,NGF000498,Crop,Yam,Maize,0.12,Subsistence (<1ha),24,Traditional,False,True,False,True,10.41,327000.0,29167.0,1917.0,36000.0,23000.0,350000.0
+E0000707,NGF000499,Crop,Sorghum,Maize,3.26,Small (1-5ha),20,Traditional,False,True,False,False,3.52,1831000.0,181750.0,29167.0,978000.0,350000.0,2181000.0
+E0000708,NGF000499,Cattle,,,0.0,,20,N/A,False,True,False,False,0.0,0.0,0.0,0.0,978000.0,0.0,0.0
+E0000709,NGF000500,Crop,Cassava,,0.36,Subsistence (<1ha),10,Traditional,False,True,True,False,13.04,538000.0,46917.0,2083.0,108000.0,25000.0,563000.0
+E0000710,NGF000501,Crop,Sesame,Maize,1.88,Small (1-5ha),4,Traditional,False,True,False,False,1.12,618000.0,105500.0,54000.0,564000.0,648000.0,1266000.0
+E0000711,NGF000502,Crop,Cowpea,Beans,0.65,Subsistence (<1ha),21,Traditional,False,True,True,False,1.04,132000.0,22667.0,11667.0,195000.0,140000.0,272000.0
+E0000712,NGF000502,Sheep,,,0.0,,21,N/A,False,True,False,False,0.0,0.0,0.0,0.0,195000.0,0.0,0.0
+E0000713,NGF000503,Crop,Cowpea,Cotton,0.55,Subsistence (<1ha),30,Traditional,False,True,True,False,2.26,359000.0,41333.0,11417.0,165000.0,137000.0,496000.0
+E0000714,NGF000504,Crop,Yam,Oil Palm,0.1,Subsistence (<1ha),9,Traditional,False,True,True,False,14.39,388000.0,33583.0,1250.0,30000.0,15000.0,403000.0
+E0000715,NGF000504,Pigs,,,0.0,,9,N/A,False,True,False,False,0.0,0.0,0.0,0.0,30000.0,0.0,0.0
+E0000716,NGF000505,Crop,Maize,Groundnut,4.51,Small (1-5ha),5,Traditional,False,True,True,False,3.14,2343000.0,236000.0,40750.0,1353000.0,489000.0,2832000.0
+E0000717,NGF000505,Goats,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1353000.0,0.0,0.0
+E0000718,NGF000506,Crop,Rubber,Cassava,0.74,Subsistence (<1ha),10,Traditional,False,True,False,False,1.54,542000.0,66500.0,21333.0,222000.0,256000.0,798000.0
+E0000719,NGF000507,Crop,Cowpea,Sorghum,4.63,Small (1-5ha),10,Integrated,False,True,False,False,1.02,976000.0,157333.0,76000.0,1589000.0,912000.0,1888000.0
+E0000720,NGF000508,Crop,Cowpea,Sesame,2.28,Small (1-5ha),16,Traditional,False,True,True,False,1.39,751000.0,105667.0,43083.0,684000.0,517000.0,1268000.0
+E0000721,NGF000509,Crop,Cassava,,2.36,Small (1-5ha),39,Traditional,False,True,False,False,17.55,4808000.0,414167.0,13500.0,708000.0,162000.0,4970000.0
+E0000722,NGF000509,Cattle,,,0.0,,39,N/A,False,True,False,False,0.0,0.0,0.0,0.0,708000.0,0.0,0.0
+E0000723,NGF000510,Crop,Groundnut,,3.61,Small (1-5ha),3,Integrated,False,True,False,True,1.57,1585000.0,212667.0,80583.0,1283000.0,967000.0,2552000.0
+E0000724,NGF000511,Crop,Cowpea,Beans,0.27,Subsistence (<1ha),38,Traditional,False,True,True,False,1.26,74000.0,11333.0,5167.0,81000.0,62000.0,136000.0
+E0000725,NGF000512,Crop,Rice,Cassava,0.56,Subsistence (<1ha),11,Integrated,False,True,False,False,2.26,327000.0,37000.0,9750.0,218000.0,117000.0,444000.0
+E0000726,NGF000512,Ducks,,,0.0,,11,N/A,False,True,False,False,0.0,0.0,0.0,0.0,218000.0,0.0,0.0
+E0000727,NGF000513,Crop,Oil Palm,Cassava,2.3,Small (1-5ha),4,Unknown,False,True,True,False,4.73,4583000.0,453333.0,71417.0,690000.0,857000.0,5440000.0
+E0000728,NGF000514,Crop,Soybean,Rice,0.52,Subsistence (<1ha),19,Unknown,False,True,True,False,1.87,237000.0,30750.0,11000.0,156000.0,132000.0,369000.0
+E0000729,NGF000515,Crop,Maize,Beans,1.38,Small (1-5ha),28,Traditional,True,False,True,False,3.8,865000.0,87333.0,15250.0,414000.0,183000.0,1048000.0
+E0000730,NGF000515,Goats,,,0.0,,28,N/A,False,True,False,False,0.0,0.0,0.0,0.0,414000.0,0.0,0.0
+E0000731,NGF000516,Crop,Cowpea,,1.03,Small (1-5ha),16,Traditional,False,True,False,False,1.04,225000.0,35667.0,16917.0,309000.0,203000.0,428000.0
+E0000732,NGF000516,Sheep,,,0.0,,16,N/A,False,True,False,False,0.0,0.0,0.0,0.0,309000.0,0.0,0.0
+E0000733,NGF000517,Crop,Millet,Cowpea,0.67,Subsistence (<1ha),17,Traditional,False,True,True,False,3.45,345000.0,34667.0,5917.0,201000.0,71000.0,416000.0
+E0000734,NGF000518,Crop,Maize,,2.6,Small (1-5ha),16,Traditional,False,True,True,False,3.96,1767000.0,171667.0,24417.0,780000.0,293000.0,2060000.0
+E0000735,NGF000519,Crop,Yam,Maize,1.83,Small (1-5ha),19,Traditional,False,True,False,False,13.8,6778000.0,589167.0,24333.0,549000.0,292000.0,7070000.0
+E0000736,NGF000520,Crop,Cassava,Yam,0.21,Subsistence (<1ha),9,Traditional,False,True,False,False,12.47,302000.0,26167.0,1000.0,63000.0,12000.0,314000.0
+E0000737,NGF000521,Crop,Millet,Maize,2.89,Small (1-5ha),14,Traditional,False,True,False,False,1.84,683000.0,79833.0,22917.0,867000.0,275000.0,958000.0
+E0000738,NGF000521,Cattle,,,0.0,,14,N/A,False,True,False,False,0.0,0.0,0.0,0.0,867000.0,0.0,0.0
+E0000739,NGF000522,Crop,Rice,Cocoa,0.1,Subsistence (<1ha),25,Traditional,False,True,True,True,3.08,83000.0,9000.0,2083.0,30000.0,25000.0,108000.0
+E0000740,NGF000523,Crop,Cassava,Oil Palm,2.34,Small (1-5ha),31,Traditional,False,True,True,False,22.72,6155000.0,531583.0,18667.0,702000.0,224000.0,6379000.0
+E0000741,NGF000524,Crop,Maize,Beans,0.71,Subsistence (<1ha),22,Integrated,False,True,False,False,3.42,410000.0,40500.0,6333.0,263000.0,76000.0,486000.0
+E0000742,NGF000525,Crop,Guinea Corn,,1.16,Small (1-5ha),13,Traditional,False,True,False,False,1.77,268000.0,32417.0,10083.0,348000.0,121000.0,389000.0
+E0000743,NGF000525,Poultry,,,0.0,,13,N/A,False,True,False,False,0.0,0.0,0.0,0.0,348000.0,0.0,0.0
+E0000744,NGF000526,Crop,Beans,Yam,0.37,Subsistence (<1ha),8,Traditional,False,True,False,False,1.49,152000.0,18333.0,5667.0,111000.0,68000.0,220000.0
+E0000745,NGF000527,Crop,Sorghum,Beans,1.6,Small (1-5ha),26,Traditional,False,True,False,False,2.54,622000.0,64250.0,12417.0,480000.0,149000.0,771000.0
+E0000746,NGF000527,Poultry,,,0.0,,26,N/A,False,True,False,False,0.0,0.0,0.0,0.0,480000.0,0.0,0.0
+E0000747,NGF000528,Crop,Yam,Beans,0.65,Subsistence (<1ha),43,Traditional,False,True,False,False,13.31,2320000.0,201833.0,8500.0,195000.0,102000.0,2422000.0
+E0000748,NGF000528,Poultry,,,0.0,,43,N/A,False,True,False,False,0.0,0.0,0.0,0.0,195000.0,0.0,0.0
+E0000749,NGF000529,Crop,Cocoa,Maize,0.69,Subsistence (<1ha),3,Traditional,False,True,False,False,0.65,134000.0,56250.0,45083.0,207000.0,541000.0,675000.0
+E0000750,NGF000529,Poultry,,,0.0,,3,N/A,False,True,False,False,0.0,0.0,0.0,0.0,207000.0,0.0,0.0
+E0000751,NGF000530,Crop,Rice,Oil Palm,2.49,Small (1-5ha),3,Traditional,False,True,True,False,2.56,1653000.0,185833.0,48083.0,747000.0,577000.0,2230000.0
+E0000752,NGF000531,Crop,Cassava,Vegetables,0.73,Subsistence (<1ha),14,Traditional,False,True,True,False,23.06,1976000.0,168333.0,3667.0,219000.0,44000.0,2020000.0
+E0000753,NGF000532,Crop,Yam,Oil Palm,0.6,Subsistence (<1ha),1,Integrated,False,True,False,False,8.79,1383000.0,123000.0,7750.0,380000.0,93000.0,1476000.0
+E0000754,NGF000533,Crop,Cassava,,0.14,Subsistence (<1ha),15,Traditional,False,True,False,False,11.93,190000.0,16667.0,833.0,42000.0,10000.0,200000.0
+E0000755,NGF000533,Poultry,,,0.0,,15,N/A,False,True,False,False,0.0,0.0,0.0,0.0,42000.0,0.0,0.0
+E0000756,NGF000534,Crop,Vegetables,Cassava,0.39,Subsistence (<1ha),34,Integrated,False,True,True,False,23.9,2905000.0,248500.0,6417.0,167000.0,77000.0,2982000.0
+E0000757,NGF000535,Crop,Maize,Tomato,0.4,Subsistence (<1ha),37,Traditional,False,True,False,False,3.42,239000.0,22833.0,2917.0,120000.0,35000.0,274000.0
+E0000758,NGF000536,Crop,Plantain,Cocoa,0.59,Subsistence (<1ha),4,Traditional,False,True,False,False,10.63,1309000.0,114917.0,5833.0,177000.0,70000.0,1379000.0
+E0000759,NGF000536,Goats,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,177000.0,0.0,0.0
+E0000760,NGF000537,Crop,Sorghum,Soybean,3.23,Small (1-5ha),1,Unknown,False,True,False,True,1.55,495000.0,79333.0,38083.0,969000.0,457000.0,952000.0
+E0000761,NGF000538,Crop,Cassava,Beans,0.4,Subsistence (<1ha),13,Traditional,False,True,True,False,23.75,1115000.0,95000.0,2083.0,120000.0,25000.0,1140000.0
+E0000762,NGF000538,Poultry,,,0.0,,13,N/A,False,True,False,False,0.0,0.0,0.0,0.0,120000.0,0.0,0.0
+E0000763,NGF000539,Crop,Maize,Beans,1.87,Small (1-5ha),25,Traditional,False,True,True,False,3.52,1063000.0,109667.0,21083.0,561000.0,253000.0,1316000.0
+E0000764,NGF000540,Crop,Millet,Rice,1.54,Small (1-5ha),23,Traditional,False,True,True,False,2.31,482000.0,53417.0,13250.0,462000.0,159000.0,641000.0
+E0000765,NGF000541,Crop,Maize,Yam,0.22,Subsistence (<1ha),3,Traditional,False,True,False,False,2.25,72000.0,8167.0,2167.0,66000.0,26000.0,98000.0
+E0000766,NGF000542,Crop,Cassava,Maize,0.1,Subsistence (<1ha),8,Unknown,False,True,False,False,15.22,177000.0,15167.0,417.0,30000.0,5000.0,182000.0
+E0000767,NGF000543,Crop,Yam,Beans,0.41,Subsistence (<1ha),26,Traditional,False,True,False,False,7.72,839000.0,74000.0,4083.0,123000.0,49000.0,888000.0
+E0000768,NGF000544,Crop,Yam,Cocoa,1.14,Small (1-5ha),5,Integrated,False,True,True,False,11.82,3598000.0,314333.0,14500.0,542000.0,174000.0,3772000.0
+E0000769,NGF000545,Crop,Maize,,2.4,Small (1-5ha),14,Traditional,False,True,True,False,2.26,828000.0,90333.0,21333.0,720000.0,256000.0,1084000.0
+E0000770,NGF000546,Crop,Cassava,Maize,1.71,Small (1-5ha),1,Traditional,False,True,False,False,13.55,2657000.0,231667.0,10250.0,513000.0,123000.0,2780000.0
+E0000771,NGF000547,Crop,Maize,Rice,1.16,Small (1-5ha),22,Integrated,False,True,False,False,2.64,504000.0,51000.0,9000.0,398000.0,108000.0,612000.0
+E0000772,NGF000547,Cattle,,,0.0,,22,N/A,False,True,False,False,0.0,0.0,0.0,0.0,398000.0,0.0,0.0
+E0000773,NGF000548,Crop,Cowpea,Groundnut,0.97,Subsistence (<1ha),12,Traditional,False,True,False,False,1.34,314000.0,43333.0,17167.0,291000.0,206000.0,520000.0
+E0000774,NGF000548,Sheep,,,0.0,,12,N/A,False,True,False,False,0.0,0.0,0.0,0.0,291000.0,0.0,0.0
+E0000775,NGF000549,Crop,Cassava,Soybean,2.17,Small (1-5ha),12,Traditional,False,True,False,False,15.17,3832000.0,329167.0,9833.0,651000.0,118000.0,3950000.0
+E0000776,NGF000549,Cattle,,,0.0,,12,N/A,False,True,False,False,0.0,0.0,0.0,0.0,651000.0,0.0,0.0
+E0000777,NGF000550,Crop,Yam,Oil Palm,2.46,Small (1-5ha),13,Traditional,False,True,True,False,14.27,9364000.0,819000.0,38667.0,738000.0,464000.0,9828000.0
+E0000778,NGF000551,Crop,Rice,Millet,3.34,Small (1-5ha),3,Integrated,False,True,False,False,2.45,2276000.0,238583.0,48917.0,1202000.0,587000.0,2863000.0
+E0000779,NGF000551,Sheep,,,0.0,,3,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1202000.0,0.0,0.0
+E0000780,NGF000552,Crop,Yam,Rice,1.05,Small (1-5ha),27,Integrated,False,True,False,False,9.32,2576000.0,228417.0,13750.0,365000.0,165000.0,2741000.0
+E0000781,NGF000553,Crop,Maize,Cowpea,4.36,Small (1-5ha),8,Traditional,False,True,False,True,2.85,1802000.0,207167.0,57000.0,1308000.0,684000.0,2486000.0
+E0000782,NGF000554,Crop,Vegetables,Cocoa,1.37,Small (1-5ha),14,Traditional,False,True,False,False,22.34,9535000.0,816250.0,21667.0,411000.0,260000.0,9795000.0
+E0000783,NGF000555,Crop,Yam,Oil Palm,1.7,Small (1-5ha),23,Unknown,False,True,False,True,12.01,5393000.0,476500.0,27083.0,510000.0,325000.0,5718000.0
+E0000784,NGF000556,Crop,Cassava,Cocoa,2.16,Small (1-5ha),33,Traditional,False,True,True,False,16.39,4069000.0,354000.0,14917.0,648000.0,179000.0,4248000.0
+E0000785,NGF000557,Crop,Cowpea,Groundnut,1.79,Small (1-5ha),32,Traditional,False,True,True,False,1.15,378000.0,68667.0,37167.0,537000.0,446000.0,824000.0
+E0000786,NGF000557,Goats,,,0.0,,32,N/A,False,True,False,False,0.0,0.0,0.0,0.0,537000.0,0.0,0.0
+E0000787,NGF000558,Crop,Sorghum,Soybean,0.36,Subsistence (<1ha),9,Traditional,False,True,False,False,2.12,105000.0,12000.0,3250.0,108000.0,39000.0,144000.0
+E0000788,NGF000559,Crop,Cowpea,Vegetables,0.98,Subsistence (<1ha),4,Integrated,False,True,True,False,1.28,293000.0,41667.0,17250.0,344000.0,207000.0,500000.0
+E0000789,NGF000560,Crop,Cassava,Vegetables,0.14,Subsistence (<1ha),3,Traditional,False,True,False,False,13.98,226000.0,19583.0,750.0,42000.0,9000.0,235000.0
+E0000790,NGF000561,Crop,Cassava,Oil Palm,0.42,Subsistence (<1ha),30,Unknown,False,True,False,False,14.11,690000.0,59333.0,1833.0,126000.0,22000.0,712000.0
+E0000791,NGF000561,Goats,,,0.0,,30,N/A,False,True,False,False,0.0,0.0,0.0,0.0,126000.0,0.0,0.0
+E0000792,NGF000562,Crop,Maize,Cowpea,0.4,Subsistence (<1ha),16,Traditional,False,True,False,False,2.72,184000.0,18167.0,2833.0,120000.0,34000.0,218000.0
+E0000793,NGF000562,Goats,,,0.0,,16,N/A,False,True,False,False,0.0,0.0,0.0,0.0,120000.0,0.0,0.0
+E0000794,NGF000563,Crop,Maize,,0.29,Subsistence (<1ha),7,Traditional,False,True,False,False,2.46,110000.0,11833.0,2667.0,87000.0,32000.0,142000.0
+E0000795,NGF000563,Goats,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,87000.0,0.0,0.0
+E0000796,NGF000564,Crop,Maize,Yam,0.32,Subsistence (<1ha),12,Traditional,False,True,False,False,1.85,92000.0,9833.0,2167.0,96000.0,26000.0,118000.0
+E0000797,NGF000564,Cattle,,,0.0,,12,N/A,False,True,False,False,0.0,0.0,0.0,0.0,96000.0,0.0,0.0
+E0000798,NGF000565,Crop,Maize,Sorghum,1.83,Small (1-5ha),22,Traditional,False,True,False,True,3.08,936000.0,94000.0,16000.0,549000.0,192000.0,1128000.0
+E0000799,NGF000566,Crop,Cowpea,Sorghum,1.41,Small (1-5ha),35,Traditional,False,True,False,False,0.98,276000.0,46000.0,23000.0,423000.0,276000.0,552000.0
+E0000800,NGF000566,Goats,,,0.0,,35,N/A,False,True,False,False,0.0,0.0,0.0,0.0,423000.0,0.0,0.0
+E0000801,NGF000567,Crop,Cassava,Cocoa,0.1,Subsistence (<1ha),31,Traditional,False,True,False,False,18.4,216000.0,18417.0,417.0,30000.0,5000.0,221000.0
+E0000802,NGF000568,Crop,Rice,Beans,3.8,Small (1-5ha),4,Integrated,False,True,False,True,2.62,2489000.0,290500.0,83083.0,1340000.0,997000.0,3486000.0
+E0000803,NGF000569,Crop,Sesame,Guinea Corn,0.87,Subsistence (<1ha),7,Integrated,False,True,False,False,1.19,409000.0,52000.0,17917.0,311000.0,215000.0,624000.0
+E0000804,NGF000570,Crop,Rice,Vegetables,1.33,Small (1-5ha),16,Traditional,False,True,False,False,3.94,1574000.0,152833.0,21667.0,399000.0,260000.0,1834000.0
+E0000805,NGF000570,Goats,,,0.0,,16,N/A,False,True,False,False,0.0,0.0,0.0,0.0,399000.0,0.0,0.0
+E0000806,NGF000571,Crop,Yam,Plantain,0.2,Subsistence (<1ha),37,Traditional,False,True,False,False,13.0,703000.0,60667.0,2083.0,60000.0,25000.0,728000.0
+E0000807,NGF000572,Crop,Soybean,Yam,0.57,Subsistence (<1ha),13,Traditional,False,True,True,False,2.26,350000.0,40833.0,11667.0,171000.0,140000.0,490000.0
+E0000808,NGF000573,Crop,Cassava,Rice,0.69,Subsistence (<1ha),16,Traditional,False,True,True,False,22.09,1776000.0,152417.0,4417.0,207000.0,53000.0,1829000.0
+E0000809,NGF000574,Crop,Yam,Rice,2.16,Small (1-5ha),8,Traditional,False,True,False,False,13.38,7700000.0,674333.0,32667.0,648000.0,392000.0,8092000.0
+E0000810,NGF000574,Sheep,,,0.0,,8,N/A,False,True,False,False,0.0,0.0,0.0,0.0,648000.0,0.0,0.0
+E0000811,NGF000575,Crop,Rice,,1.61,Small (1-5ha),32,Integrated,False,True,False,False,3.26,1603000.0,153167.0,19583.0,533000.0,235000.0,1838000.0
+E0000812,NGF000575,Sheep,,,0.0,,32,N/A,False,True,False,False,0.0,0.0,0.0,0.0,533000.0,0.0,0.0
+E0000813,NGF000576,Crop,Beans,Maize,2.34,Small (1-5ha),1,Integrated,False,True,False,False,1.05,450000.0,82000.0,44500.0,752000.0,534000.0,984000.0
+E0000814,NGF000576,Sheep,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,752000.0,0.0,0.0
+E0000815,NGF000577,Crop,Guinea Corn,Maize,2.29,Small (1-5ha),14,Integrated,False,True,False,False,2.18,701000.0,79000.0,20583.0,737000.0,247000.0,948000.0
+E0000816,NGF000578,Crop,Cowpea,Sorghum,1.14,Small (1-5ha),17,Traditional,False,True,True,False,1.2,228000.0,45667.0,26667.0,342000.0,320000.0,548000.0
+E0000817,NGF000579,Crop,Beans,Cowpea,3.81,Small (1-5ha),5,Integrated,False,True,False,False,0.97,685000.0,123333.0,66250.0,1193000.0,795000.0,1480000.0
+E0000818,NGF000579,Guinea Fowl,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1193000.0,0.0,0.0
+E0000819,NGF000580,Crop,Oil Palm,Beans,0.34,Subsistence (<1ha),5,Traditional,False,True,False,False,4.81,725000.0,68333.0,7917.0,102000.0,95000.0,820000.0
+E0000820,NGF000581,Crop,Cowpea,Yam,2.86,Small (1-5ha),29,Integrated,False,True,False,True,1.69,1315000.0,161000.0,51417.0,908000.0,617000.0,1932000.0
+E0000821,NGF000582,Crop,Oil Palm,Cocoa,1.94,Small (1-5ha),18,Traditional,False,True,False,False,9.34,8492000.0,755000.0,47333.0,582000.0,568000.0,9060000.0
+E0000822,NGF000583,Crop,Maize,,1.34,Small (1-5ha),2,Traditional,False,True,True,False,3.28,750000.0,73333.0,10833.0,402000.0,130000.0,880000.0
+E0000823,NGF000584,Crop,Sorghum,Sesame,1.19,Small (1-5ha),14,Traditional,False,True,True,False,2.48,409000.0,46667.0,12583.0,357000.0,151000.0,560000.0
+E0000824,NGF000585,Crop,Maize,Rice,0.11,Subsistence (<1ha),21,Integrated,False,True,True,True,5.29,102000.0,9667.0,1167.0,233000.0,14000.0,116000.0
+E0000825,NGF000585,Poultry,,,0.0,,21,N/A,False,True,False,False,0.0,0.0,0.0,0.0,233000.0,0.0,0.0
+E0000826,NGF000586,Crop,Cocoa,Cassava,1.43,Small (1-5ha),9,Traditional,False,True,True,False,0.81,280000.0,145000.0,121667.0,429000.0,1460000.0,1740000.0
+E0000827,NGF000587,Crop,Cocoa,Rice,0.68,Subsistence (<1ha),25,Traditional,False,True,False,False,0.63,108000.0,53750.0,44750.0,204000.0,537000.0,645000.0
+E0000828,NGF000587,Goats,,,0.0,,25,N/A,False,True,False,False,0.0,0.0,0.0,0.0,204000.0,0.0,0.0
+E0000829,NGF000588,Crop,Groundnut,,2.85,Small (1-5ha),43,Traditional,False,True,True,False,1.17,743000.0,124833.0,62917.0,855000.0,755000.0,1498000.0
+E0000830,NGF000589,Crop,Groundnut,Beans,4.76,Small (1-5ha),18,Traditional,False,True,False,False,1.37,1647000.0,244500.0,107250.0,1428000.0,1287000.0,2934000.0
+E0000831,NGF000589,Goats,,,0.0,,18,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1428000.0,0.0,0.0
+E0000832,NGF000590,Crop,Vegetables,Yam,0.5,Subsistence (<1ha),1,Integrated,False,True,False,False,12.64,1955000.0,168500.0,5583.0,200000.0,67000.0,2022000.0
+E0000833,NGF000591,Crop,Cassava,Oil Palm,0.2,Subsistence (<1ha),2,Traditional,False,True,True,False,15.05,349000.0,30083.0,1000.0,60000.0,12000.0,361000.0
+E0000834,NGF000591,Goats,,,0.0,,2,N/A,False,True,False,False,0.0,0.0,0.0,0.0,60000.0,0.0,0.0
+E0000835,NGF000592,Crop,Maize,Guinea Corn,0.49,Subsistence (<1ha),7,Integrated,False,True,False,False,2.7,219000.0,22000.0,3750.0,347000.0,45000.0,264000.0
+E0000836,NGF000593,Crop,Beans,,2.72,Small (1-5ha),16,Traditional,False,True,False,True,1.64,1153000.0,148667.0,52583.0,816000.0,631000.0,1784000.0
+E0000837,NGF000593,Poultry,,,0.0,,16,N/A,False,True,False,False,0.0,0.0,0.0,0.0,816000.0,0.0,0.0
+E0000838,NGF000594,Crop,Sorghum,Sesame,1.1,Small (1-5ha),11,Traditional,False,True,False,False,2.21,338000.0,38500.0,10333.0,330000.0,124000.0,462000.0
+E0000839,NGF000595,Crop,Cocoa,Beans,2.19,Small (1-5ha),29,Traditional,False,True,False,True,1.01,961000.0,276250.0,196167.0,657000.0,2354000.0,3315000.0
+E0000840,NGF000596,Crop,Beans,Sorghum,1.24,Small (1-5ha),32,Traditional,False,True,False,False,0.98,207000.0,40667.0,23417.0,372000.0,281000.0,488000.0
+E0000841,NGF000596,Cattle,,,0.0,,32,N/A,False,True,False,False,0.0,0.0,0.0,0.0,372000.0,0.0,0.0
+E0000842,NGF000597,Crop,Cassava,Millet,1.93,Small (1-5ha),23,Traditional,False,True,False,False,17.14,3841000.0,330833.0,10750.0,579000.0,129000.0,3970000.0
+E0000843,NGF000598,Crop,Cocoa,Maize,0.29,Subsistence (<1ha),5,Traditional,False,True,True,True,0.94,140000.0,33750.0,22083.0,87000.0,265000.0,405000.0
+E0000844,NGF000598,Poultry,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,87000.0,0.0,0.0
+E0000845,NGF000599,Crop,Cowpea,,4.75,Small (1-5ha),25,Traditional,False,True,False,False,0.97,609000.0,153667.0,102917.0,1425000.0,1235000.0,1844000.0
+E0000846,NGF000600,Crop,Maize,Plantain,0.2,Subsistence (<1ha),10,Traditional,False,True,True,False,3.7,120000.0,12333.0,2333.0,60000.0,28000.0,148000.0
+E0000847,NGF000600,Goats,,,0.0,,10,N/A,False,True,False,False,0.0,0.0,0.0,0.0,60000.0,0.0,0.0
+E0000848,NGF000601,Crop,Yam,Rice,0.26,Subsistence (<1ha),11,Traditional,False,True,False,False,9.34,638000.0,56667.0,3500.0,78000.0,42000.0,680000.0
+E0000849,NGF000601,Goats,,,0.0,,11,N/A,False,True,False,False,0.0,0.0,0.0,0.0,78000.0,0.0,0.0
+E0000850,NGF000602,Crop,Oil Palm,Rice,0.98,Subsistence (<1ha),2,Integrated,False,True,True,False,4.68,2005000.0,191250.0,24167.0,494000.0,290000.0,2295000.0
+E0000851,NGF000602,Pigs,,,0.0,,2,N/A,False,True,False,False,0.0,0.0,0.0,0.0,494000.0,0.0,0.0
+E0000852,NGF000603,Crop,Cocoa,Cassava,0.27,Subsistence (<1ha),20,Traditional,False,True,False,False,0.9,158000.0,30000.0,16833.0,81000.0,202000.0,360000.0
+E0000853,NGF000604,Crop,Maize,Beans,0.44,Subsistence (<1ha),21,Traditional,False,True,False,False,2.29,164000.0,16833.0,3167.0,132000.0,38000.0,202000.0
+E0000854,NGF000605,Crop,Maize,Cocoa,1.09,Small (1-5ha),36,Traditional,False,True,False,False,2.83,504000.0,51333.0,9333.0,327000.0,112000.0,616000.0
+E0000855,NGF000606,Crop,Yam,Maize,1.18,Small (1-5ha),4,Traditional,False,True,False,False,14.52,4640000.0,399667.0,13000.0,354000.0,156000.0,4796000.0
+E0000856,NGF000606,Sheep,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,354000.0,0.0,0.0
+E0000857,NGF000607,Crop,Vegetables,Oil Palm,0.34,Subsistence (<1ha),8,Integrated,False,True,False,False,13.1,1368000.0,118667.0,4667.0,152000.0,56000.0,1424000.0
+E0000858,NGF000607,Goats,,,0.0,,8,N/A,False,True,False,False,0.0,0.0,0.0,0.0,152000.0,0.0,0.0
+E0000859,NGF000608,Crop,Maize,Yam,1.05,Small (1-5ha),1,Integrated,False,True,False,False,2.58,430000.0,45167.0,9333.0,365000.0,112000.0,542000.0
+E0000860,NGF000609,Crop,Cowpea,Maize,0.4,Subsistence (<1ha),44,Traditional,False,True,True,False,1.49,135000.0,20000.0,8750.0,120000.0,105000.0,240000.0
+E0000861,NGF000609,Cattle,,,0.0,,44,N/A,False,True,False,False,0.0,0.0,0.0,0.0,120000.0,0.0,0.0
+E0000862,NGF000610,Crop,Rice,Cocoa,0.22,Subsistence (<1ha),37,Traditional,False,True,True,False,3.38,216000.0,21583.0,3583.0,66000.0,43000.0,259000.0
+E0000863,NGF000611,Crop,Yam,Vegetables,0.18,Subsistence (<1ha),13,Integrated,False,True,False,True,16.59,803000.0,69750.0,2833.0,104000.0,34000.0,837000.0
+E0000864,NGF000612,Crop,Maize,Millet,0.43,Subsistence (<1ha),22,Traditional,False,True,True,False,3.66,269000.0,26167.0,3750.0,129000.0,45000.0,314000.0
+E0000865,NGF000612,Poultry,,,0.0,,22,N/A,False,True,False,False,0.0,0.0,0.0,0.0,129000.0,0.0,0.0
+E0000866,NGF000613,Crop,Oil Palm,Maize,0.1,Subsistence (<1ha),17,Traditional,False,True,False,False,4.58,209000.0,19167.0,1750.0,30000.0,21000.0,230000.0
+E0000867,NGF000614,Crop,Rice,Yam,0.42,Subsistence (<1ha),18,Traditional,False,True,False,False,3.19,403000.0,39083.0,5500.0,126000.0,66000.0,469000.0
+E0000868,NGF000615,Crop,Beans,Yam,0.18,Subsistence (<1ha),8,Integrated,False,True,True,False,1.39,59000.0,8333.0,3417.0,104000.0,41000.0,100000.0
+E0000869,NGF000616,Crop,Maize,Millet,1.67,Small (1-5ha),28,Traditional,False,True,False,False,3.68,1042000.0,102500.0,15667.0,501000.0,188000.0,1230000.0
+E0000870,NGF000616,Poultry,,,0.0,,28,N/A,False,True,False,False,0.0,0.0,0.0,0.0,501000.0,0.0,0.0
+E0000871,NGF000617,Crop,Cassava,Cocoa,2.03,Small (1-5ha),8,Traditional,False,True,True,False,15.08,3527000.0,306083.0,12167.0,609000.0,146000.0,3673000.0
+E0000872,NGF000618,Crop,Maize,Beans,1.86,Small (1-5ha),15,Traditional,False,True,False,False,2.91,869000.0,90167.0,17750.0,558000.0,213000.0,1082000.0
+E0000873,NGF000618,Poultry,,,0.0,,15,N/A,False,True,False,False,0.0,0.0,0.0,0.0,558000.0,0.0,0.0
+E0000874,NGF000619,Crop,Cowpea,Cotton,2.93,Small (1-5ha),23,Traditional,False,True,False,False,1.07,717000.0,104667.0,44917.0,879000.0,539000.0,1256000.0
+E0000875,NGF000619,Goats,,,0.0,,23,N/A,False,True,False,False,0.0,0.0,0.0,0.0,879000.0,0.0,0.0
+E0000876,NGF000620,Crop,Maize,Rice,0.43,Subsistence (<1ha),20,Traditional,False,True,True,False,4.99,380000.0,35833.0,4167.0,129000.0,50000.0,430000.0
+E0000877,NGF000620,Poultry,,,0.0,,20,N/A,False,True,False,False,0.0,0.0,0.0,0.0,129000.0,0.0,0.0
+E0000878,NGF000621,Crop,Yam,Plantain,1.99,Small (1-5ha),2,Integrated,False,True,False,False,8.07,4260000.0,374750.0,19750.0,647000.0,237000.0,4497000.0
+E0000879,NGF000622,Crop,Maize,Rice,2.99,Small (1-5ha),16,Traditional,False,True,False,True,3.61,1767000.0,179833.0,32583.0,897000.0,391000.0,2158000.0
+E0000880,NGF000622,Cattle,,,0.0,,16,N/A,False,True,False,False,0.0,0.0,0.0,0.0,897000.0,0.0,0.0
+E0000881,NGF000623,Crop,Plantain,Rice,0.44,Subsistence (<1ha),1,Unknown,False,True,False,False,10.43,956000.0,84167.0,4500.0,132000.0,54000.0,1010000.0
+E0000882,NGF000624,Crop,Maize,Cowpea,0.55,Subsistence (<1ha),33,Traditional,False,True,False,False,2.97,278000.0,27167.0,4000.0,165000.0,48000.0,326000.0
+E0000883,NGF000625,Crop,Plantain,,2.37,Small (1-5ha),29,Integrated,False,True,False,False,18.56,9350000.0,806500.0,27333.0,911000.0,328000.0,9678000.0
+E0000884,NGF000626,Crop,Yam,Cocoa,0.24,Subsistence (<1ha),22,Traditional,False,True,True,False,13.37,864000.0,74917.0,2917.0,72000.0,35000.0,899000.0
+E0000885,NGF000627,Crop,Maize,Sesame,0.96,Subsistence (<1ha),8,Unknown,False,True,True,False,4.81,817000.0,77000.0,8917.0,288000.0,107000.0,924000.0
+E0000886,NGF000628,Crop,Maize,,0.41,Subsistence (<1ha),8,Traditional,False,True,True,False,4.64,330000.0,31667.0,4167.0,123000.0,50000.0,380000.0
+E0000887,NGF000629,Crop,Millet,Sorghum,1.82,Small (1-5ha),22,Traditional,False,True,False,True,2.33,541000.0,63583.0,18500.0,546000.0,222000.0,763000.0
+E0000888,NGF000630,Crop,Guinea Corn,Sesame,1.23,Small (1-5ha),14,Traditional,True,False,True,False,2.81,440000.0,54750.0,18083.0,369000.0,217000.0,657000.0
+E0000889,NGF000630,Goats,,,0.0,,14,N/A,False,True,False,False,0.0,0.0,0.0,0.0,369000.0,0.0,0.0
+E0000890,NGF000631,Crop,Rice,Millet,2.02,Small (1-5ha),21,Traditional,False,True,True,False,4.2,2562000.0,247333.0,33833.0,606000.0,406000.0,2968000.0
+E0000891,NGF000631,Poultry,,,0.0,,21,N/A,False,True,False,False,0.0,0.0,0.0,0.0,606000.0,0.0,0.0
+E0000892,NGF000632,Crop,Vegetables,Maize,0.2,Subsistence (<1ha),38,Traditional,False,True,False,False,19.72,1234000.0,105083.0,2250.0,60000.0,27000.0,1261000.0
+E0000893,NGF000632,Goats,,,0.0,,38,N/A,False,True,False,False,0.0,0.0,0.0,0.0,60000.0,0.0,0.0
+E0000894,NGF000633,Crop,Millet,Rice,4.41,Small (1-5ha),3,Traditional,False,True,False,False,1.51,771000.0,99917.0,35667.0,1323000.0,428000.0,1199000.0
+E0000895,NGF000634,Crop,Cocoa,Maize,1.02,Small (1-5ha),33,Traditional,False,True,False,False,0.79,435000.0,101250.0,65000.0,306000.0,780000.0,1215000.0
+E0000896,NGF000635,Crop,Vegetables,,0.12,Subsistence (<1ha),24,Integrated,False,True,False,False,19.43,730000.0,62167.0,1333.0,86000.0,16000.0,746000.0
+E0000897,NGF000635,Poultry,,,0.0,,24,N/A,False,True,False,False,0.0,0.0,0.0,0.0,86000.0,0.0,0.0
+E0000898,NGF000636,Crop,Maize,Rice,0.46,Subsistence (<1ha),10,Traditional,False,True,False,False,3.26,253000.0,25000.0,3917.0,138000.0,47000.0,300000.0
+E0000899,NGF000636,Cattle,,,0.0,,10,N/A,False,True,False,False,0.0,0.0,0.0,0.0,138000.0,0.0,0.0
+E0000900,NGF000637,Crop,Groundnut,Maize,0.65,Subsistence (<1ha),35,Traditional,False,True,False,False,1.07,151000.0,26250.0,13667.0,195000.0,164000.0,315000.0
+E0000901,NGF000637,Goats,,,0.0,,35,N/A,False,True,False,False,0.0,0.0,0.0,0.0,195000.0,0.0,0.0
+E0000902,NGF000638,Crop,Vegetables,Rice,0.13,Subsistence (<1ha),6,Integrated,False,True,False,False,14.85,597000.0,51500.0,1750.0,89000.0,21000.0,618000.0
+E0000903,NGF000639,Crop,Cowpea,Millet,4.03,Small (1-5ha),10,Traditional,False,True,False,False,1.03,922000.0,138333.0,61500.0,1209000.0,738000.0,1660000.0
+E0000904,NGF000640,Crop,Cocoa,,0.71,Subsistence (<1ha),12,Integrated,False,True,True,False,0.93,440000.0,82500.0,45833.0,263000.0,550000.0,990000.0
+E0000905,NGF000641,Crop,Guinea Corn,Sesame,0.36,Subsistence (<1ha),2,Traditional,False,True,False,False,1.74,83000.0,10000.0,3083.0,108000.0,37000.0,120000.0
+E0000906,NGF000641,Poultry,,,0.0,,2,N/A,False,True,False,False,0.0,0.0,0.0,0.0,108000.0,0.0,0.0
+E0000907,NGF000642,Crop,Yam,Vegetables,0.33,Subsistence (<1ha),31,Traditional,False,True,False,False,12.16,1078000.0,93583.0,3750.0,99000.0,45000.0,1123000.0
+E0000908,NGF000643,Crop,Cowpea,Sesame,2.74,Small (1-5ha),17,Traditional,False,True,True,False,1.05,431000.0,96000.0,60083.0,822000.0,721000.0,1152000.0
+E0000909,NGF000643,Cattle,,,0.0,,17,N/A,False,True,False,False,0.0,0.0,0.0,0.0,822000.0,0.0,0.0
+E0000910,NGF000644,Crop,Groundnut,Rice,4.62,Small (1-5ha),6,Traditional,False,True,True,False,2.17,3094000.0,376167.0,118333.0,1386000.0,1420000.0,4514000.0
+E0000911,NGF000645,Crop,Cowpea,Sorghum,0.4,Subsistence (<1ha),26,Traditional,False,True,True,False,1.07,62000.0,14333.0,9167.0,120000.0,110000.0,172000.0
+E0000912,NGF000646,Crop,Yam,Rubber,1.2,Small (1-5ha),33,Traditional,False,True,False,False,13.32,4309000.0,372833.0,13750.0,360000.0,165000.0,4474000.0
+E0000913,NGF000647,Crop,Maize,Yam,0.3,Subsistence (<1ha),4,Traditional,False,True,True,False,2.94,134000.0,14667.0,3500.0,90000.0,42000.0,176000.0
+E0000914,NGF000647,Goats,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,90000.0,0.0,0.0
+E0000915,NGF000648,Crop,Yam,Plantain,1.05,Small (1-5ha),26,Traditional,False,True,True,False,14.8,4193000.0,362583.0,13167.0,315000.0,158000.0,4351000.0
+E0000916,NGF000649,Crop,Yam,Rice,0.21,Subsistence (<1ha),21,Traditional,False,True,False,True,14.92,840000.0,73000.0,3000.0,63000.0,36000.0,876000.0
+E0000917,NGF000650,Crop,Cowpea,Groundnut,4.93,Small (1-5ha),40,Traditional,False,True,False,True,1.71,2267000.0,281000.0,92083.0,1479000.0,1105000.0,3372000.0
+E0000918,NGF000651,Crop,Maize,Rice,0.3,Subsistence (<1ha),1,Integrated,False,True,True,True,2.76,130000.0,13833.0,3000.0,290000.0,36000.0,166000.0
+E0000919,NGF000651,Poultry,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,290000.0,0.0,0.0
+E0000920,NGF000652,Crop,Yam,Plantain,0.22,Subsistence (<1ha),16,Integrated,False,True,True,False,18.68,1113000.0,95917.0,3167.0,266000.0,38000.0,1151000.0
+E0000921,NGF000653,Crop,Cowpea,Cotton,0.43,Subsistence (<1ha),26,Traditional,False,True,True,False,1.52,148000.0,21667.0,9333.0,129000.0,112000.0,260000.0
+E0000922,NGF000654,Crop,Cowpea,Millet,1.38,Small (1-5ha),2,Integrated,False,True,False,False,0.9,248000.0,41333.0,20667.0,464000.0,248000.0,496000.0
+E0000923,NGF000654,Sheep,,,0.0,,2,N/A,False,True,False,False,0.0,0.0,0.0,0.0,464000.0,0.0,0.0
+E0000924,NGF000655,Crop,Millet,Cassava,2.12,Small (1-5ha),11,Traditional,False,True,False,False,1.57,352000.0,49917.0,20583.0,636000.0,247000.0,599000.0
+E0000925,NGF000656,Crop,Yam,Cassava,0.58,Subsistence (<1ha),12,Traditional,False,True,True,False,18.3,2891000.0,247583.0,6667.0,174000.0,80000.0,2971000.0
+E0000926,NGF000657,Crop,Beans,Tomato,5.24,Medium (5-10ha),37,Traditional,False,True,False,False,1.01,1151000.0,176333.0,80417.0,1572000.0,965000.0,2116000.0
+E0000927,NGF000658,Crop,Maize,,0.22,Subsistence (<1ha),41,Traditional,False,True,True,False,2.42,75000.0,8833.0,2583.0,66000.0,31000.0,106000.0
+E0000928,NGF000658,Poultry,,,0.0,,41,N/A,False,True,False,False,0.0,0.0,0.0,0.0,66000.0,0.0,0.0
+E0000929,NGF000659,Crop,Rice,Yam,0.63,Subsistence (<1ha),16,Traditional,False,True,False,False,3.37,637000.0,61833.0,8750.0,189000.0,105000.0,742000.0
+E0000930,NGF000659,Fish Farming,,,0.0,,16,N/A,False,True,False,False,0.0,0.0,0.0,0.0,189000.0,0.0,0.0
+E0000931,NGF000660,Crop,Rice,Vegetables,1.08,Small (1-5ha),5,Traditional,False,True,False,False,2.51,740000.0,79000.0,17333.0,324000.0,208000.0,948000.0
+E0000932,NGF000661,Crop,Tomato,Beans,0.48,Subsistence (<1ha),36,Integrated,False,True,True,False,29.3,3440000.0,292917.0,6250.0,194000.0,75000.0,3515000.0
+E0000933,NGF000661,Sheep,,,0.0,,36,N/A,False,True,False,False,0.0,0.0,0.0,0.0,194000.0,0.0,0.0
+E0000934,NGF000662,Crop,Yam,Oil Palm,1.79,Small (1-5ha),12,Traditional,False,True,False,False,10.86,5168000.0,453583.0,22917.0,537000.0,275000.0,5443000.0
+E0000935,NGF000663,Crop,Yam,Cowpea,2.33,Small (1-5ha),13,Traditional,False,True,False,False,11.37,7076000.0,618083.0,28417.0,699000.0,341000.0,7417000.0
+E0000936,NGF000663,Poultry,,,0.0,,13,N/A,False,True,False,False,0.0,0.0,0.0,0.0,699000.0,0.0,0.0
+E0000937,NGF000664,Crop,Yam,Cowpea,0.63,Subsistence (<1ha),28,Traditional,False,True,False,False,13.62,2313000.0,200167.0,7417.0,189000.0,89000.0,2402000.0
+E0000938,NGF000665,Crop,Cowpea,Beans,0.65,Subsistence (<1ha),11,Traditional,False,True,True,False,0.98,101000.0,21333.0,12917.0,195000.0,155000.0,256000.0
+E0000939,NGF000665,Goats,,,0.0,,11,N/A,False,True,False,False,0.0,0.0,0.0,0.0,195000.0,0.0,0.0
+E0000940,NGF000666,Crop,Yam,,2.97,Small (1-5ha),9,Traditional,False,True,False,False,11.0,8735000.0,762333.0,34417.0,891000.0,413000.0,9148000.0
+E0000941,NGF000667,Crop,Cassava,,0.23,Subsistence (<1ha),13,Traditional,False,True,False,False,17.15,460000.0,39417.0,1083.0,69000.0,13000.0,473000.0
+E0000942,NGF000668,Crop,Maize,,1.48,Small (1-5ha),27,Traditional,False,True,False,False,3.21,830000.0,79167.0,10000.0,444000.0,120000.0,950000.0
+E0000943,NGF000668,Guinea Fowl,,,0.0,,27,N/A,False,True,False,False,0.0,0.0,0.0,0.0,444000.0,0.0,0.0
+E0000944,NGF000669,Crop,Cowpea,Groundnut,3.5,Small (1-5ha),2,Traditional,False,True,True,False,1.39,1018000.0,162000.0,77167.0,1050000.0,926000.0,1944000.0
+E0000945,NGF000670,Crop,Groundnut,Rice,1.32,Small (1-5ha),7,Traditional,False,True,True,False,1.62,606000.0,80250.0,29750.0,396000.0,357000.0,963000.0
+E0000946,NGF000670,Poultry,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,396000.0,0.0,0.0
+E0000947,NGF000671,Crop,Maize,Rice,0.35,Subsistence (<1ha),14,Traditional,False,True,False,False,3.62,222000.0,21167.0,2667.0,105000.0,32000.0,254000.0
+E0000948,NGF000671,Poultry,,,0.0,,14,N/A,False,True,False,False,0.0,0.0,0.0,0.0,105000.0,0.0,0.0
+E0000949,NGF000672,Crop,Maize,Cassava,1.69,Small (1-5ha),19,Traditional,False,True,False,False,2.57,669000.0,72333.0,16583.0,507000.0,199000.0,868000.0
+E0000950,NGF000673,Crop,Cassava,Vegetables,0.79,Subsistence (<1ha),35,Traditional,True,False,False,False,24.27,2247000.0,191667.0,4417.0,237000.0,53000.0,2300000.0
+E0000951,NGF000674,Crop,Maize,,0.16,Subsistence (<1ha),22,Traditional,False,True,True,False,4.64,128000.0,12333.0,1667.0,48000.0,20000.0,148000.0
+E0000952,NGF000675,Crop,Yam,Maize,0.1,Subsistence (<1ha),23,Traditional,False,True,True,False,19.9,540000.0,46417.0,1417.0,30000.0,17000.0,557000.0
+E0000953,NGF000676,Crop,Cassava,Vegetables,3.29,Small (1-5ha),10,Traditional,True,False,False,False,21.81,8361000.0,717500.0,20750.0,987000.0,249000.0,8610000.0
+E0000954,NGF000677,Crop,Yam,Rubber,1.74,Small (1-5ha),18,Integrated,False,True,False,False,10.42,4789000.0,423000.0,23917.0,572000.0,287000.0,5076000.0
+E0000955,NGF000677,Poultry,,,0.0,,18,N/A,False,True,False,False,0.0,0.0,0.0,0.0,572000.0,0.0,0.0
+E0000956,NGF000678,Crop,Cassava,Beans,0.13,Subsistence (<1ha),28,Traditional,False,True,False,False,12.53,188000.0,16333.0,667.0,39000.0,8000.0,196000.0
+E0000957,NGF000678,Goats,,,0.0,,28,N/A,False,True,False,False,0.0,0.0,0.0,0.0,39000.0,0.0,0.0
+E0000958,NGF000679,Crop,Rice,Oil Palm,1.86,Small (1-5ha),24,Traditional,False,True,False,False,4.19,2408000.0,227167.0,26500.0,558000.0,318000.0,2726000.0
+E0000959,NGF000679,Poultry,,,0.0,,24,N/A,False,True,False,False,0.0,0.0,0.0,0.0,558000.0,0.0,0.0
+E0000960,NGF000680,Crop,Cowpea,Beans,1.32,Small (1-5ha),8,Unknown,False,True,False,False,1.51,577000.0,66333.0,18250.0,396000.0,219000.0,796000.0
+E0000961,NGF000681,Crop,Cassava,Rice,0.11,Subsistence (<1ha),9,Traditional,False,True,True,False,21.58,276000.0,23667.0,667.0,33000.0,8000.0,284000.0
+E0000962,NGF000681,Goats,,,0.0,,9,N/A,False,True,False,False,0.0,0.0,0.0,0.0,33000.0,0.0,0.0
+E0000963,NGF000682,Crop,Cowpea,Beans,2.64,Small (1-5ha),31,Traditional,False,True,True,True,1.96,1359000.0,172333.0,59083.0,792000.0,709000.0,2068000.0
+E0000964,NGF000682,Sheep,,,0.0,,31,N/A,False,True,False,False,0.0,0.0,0.0,0.0,792000.0,0.0,0.0
+E0000965,NGF000683,Crop,Sorghum,Beans,0.9,Subsistence (<1ha),22,Traditional,False,True,False,False,1.54,164000.0,22000.0,8333.0,270000.0,100000.0,264000.0
+E0000966,NGF000683,Poultry,,,0.0,,22,N/A,False,True,False,False,0.0,0.0,0.0,0.0,270000.0,0.0,0.0
+E0000967,NGF000684,Crop,Yam,Beans,0.57,Subsistence (<1ha),5,Integrated,False,True,True,False,12.55,1913000.0,166833.0,7417.0,221000.0,89000.0,2002000.0
+E0000968,NGF000684,Poultry,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,221000.0,0.0,0.0
+E0000969,NGF000685,Crop,Cowpea,Guinea Corn,2.9,Small (1-5ha),43,Integrated,False,True,False,False,1.53,1060000.0,148000.0,59667.0,1120000.0,716000.0,1776000.0
+E0000970,NGF000686,Crop,Beans,Rice,0.38,Subsistence (<1ha),8,Traditional,False,True,False,False,0.99,84000.0,12667.0,5667.0,114000.0,68000.0,152000.0
+E0000971,NGF000686,Sheep,,,0.0,,8,N/A,False,True,False,False,0.0,0.0,0.0,0.0,114000.0,0.0,0.0
+E0000972,NGF000687,Crop,Beans,,0.4,Subsistence (<1ha),1,Integrated,False,True,False,False,1.09,104000.0,14667.0,6000.0,320000.0,72000.0,176000.0
+E0000973,NGF000687,Goats,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,320000.0,0.0,0.0
+E0000974,NGF000688,Crop,Maize,Rice,0.33,Subsistence (<1ha),13,Traditional,False,True,False,True,2.6,131000.0,14333.0,3417.0,99000.0,41000.0,172000.0
+E0000975,NGF000689,Crop,Cowpea,Beans,1.65,Small (1-5ha),45,Integrated,False,True,True,False,1.26,425000.0,69333.0,33917.0,545000.0,407000.0,832000.0
+E0000976,NGF000690,Crop,Sorghum,Guinea Corn,1.54,Small (1-5ha),18,Traditional,True,False,True,False,2.62,553000.0,63833.0,17750.0,462000.0,213000.0,766000.0
+E0000977,NGF000691,Crop,Yam,Cassava,3.66,Small (1-5ha),30,Traditional,False,True,True,False,19.52,19353000.0,1666917.0,54167.0,1098000.0,650000.0,20003000.0
+E0000978,NGF000692,Crop,Rice,,0.86,Subsistence (<1ha),19,Integrated,False,True,True,False,4.37,1156000.0,109667.0,13333.0,308000.0,160000.0,1316000.0
+E0000979,NGF000693,Crop,Rice,Beans,0.98,Subsistence (<1ha),22,Traditional,False,True,False,False,2.98,834000.0,85167.0,15667.0,294000.0,188000.0,1022000.0
+E0000980,NGF000694,Crop,Oil Palm,Rice,0.2,Subsistence (<1ha),22,Traditional,False,True,False,False,5.69,516000.0,47500.0,4500.0,60000.0,54000.0,570000.0
+E0000981,NGF000695,Crop,Yam,,0.32,Subsistence (<1ha),33,Integrated,False,True,False,False,14.55,1258000.0,108750.0,3917.0,146000.0,47000.0,1305000.0
+E0000982,NGF000695,Goats,,,0.0,,33,N/A,False,True,False,False,0.0,0.0,0.0,0.0,146000.0,0.0,0.0
+E0000983,NGF000696,Crop,Maize,Sorghum,1.58,Small (1-5ha),6,Traditional,False,True,False,False,2.13,497000.0,56167.0,14750.0,474000.0,177000.0,674000.0
+E0000984,NGF000697,Crop,Guinea Corn,Tomato,0.44,Subsistence (<1ha),30,Traditional,False,True,False,False,1.85,116000.0,12833.0,3167.0,132000.0,38000.0,154000.0
+E0000985,NGF000698,Crop,Rice,Yam,0.38,Subsistence (<1ha),12,Traditional,False,True,True,True,3.97,447000.0,44000.0,6750.0,114000.0,81000.0,528000.0
+E0000986,NGF000698,Goats,,,0.0,,12,N/A,False,True,False,False,0.0,0.0,0.0,0.0,114000.0,0.0,0.0
+E0000987,NGF000699,Crop,Cassava,Yam,1.93,Small (1-5ha),36,Integrated,False,True,True,False,21.91,4920000.0,422917.0,12917.0,629000.0,155000.0,5075000.0
+E0000988,NGF000699,Poultry,,,0.0,,36,N/A,False,True,False,False,0.0,0.0,0.0,0.0,629000.0,0.0,0.0
+E0000989,NGF000700,Crop,Vegetables,Beans,1.77,Small (1-5ha),21,Traditional,False,True,True,False,31.82,17714000.0,1501833.0,25667.0,531000.0,308000.0,18022000.0
+E0000990,NGF000701,Crop,Sesame,Sorghum,2.29,Small (1-5ha),4,Unknown,False,True,False,False,0.87,564000.0,99500.0,52500.0,687000.0,630000.0,1194000.0
+E0000991,NGF000701,Poultry,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,687000.0,0.0,0.0
+E0000992,NGF000702,Crop,Maize,Beans,0.64,Subsistence (<1ha),33,Integrated,False,True,False,False,3.03,314000.0,32333.0,6167.0,392000.0,74000.0,388000.0
+E0000993,NGF000702,Sheep,,,0.0,,33,N/A,False,True,False,False,0.0,0.0,0.0,0.0,392000.0,0.0,0.0
+E0000994,NGF000703,Crop,Maize,Sorghum,1.18,Small (1-5ha),3,Traditional,False,True,False,False,2.27,404000.0,44667.0,11000.0,354000.0,132000.0,536000.0
+E0000995,NGF000704,Crop,Cocoa,Rubber,2.44,Small (1-5ha),29,Traditional,False,True,False,False,1.08,1454000.0,330000.0,208833.0,732000.0,2506000.0,3960000.0
+E0000996,NGF000705,Crop,Cassava,Vegetables,0.19,Subsistence (<1ha),28,Modern,False,True,True,False,22.55,499000.0,42833.0,1250.0,5057000.0,15000.0,514000.0
+E0000997,NGF000706,Crop,Millet,Maize,0.93,Subsistence (<1ha),1,Traditional,False,True,False,False,2.1,277000.0,29250.0,6167.0,279000.0,74000.0,351000.0
+E0000998,NGF000707,Crop,Vegetables,Cowpea,0.26,Subsistence (<1ha),24,Traditional,False,True,False,False,22.22,1812000.0,154167.0,3167.0,78000.0,38000.0,1850000.0
+E0000999,NGF000708,Crop,Groundnut,Cowpea,0.5,Subsistence (<1ha),9,Traditional,False,True,True,True,1.63,239000.0,30333.0,10417.0,150000.0,125000.0,364000.0
+E0001000,NGF000709,Crop,Groundnut,Cotton,0.86,Subsistence (<1ha),11,Integrated,False,True,False,True,1.43,338000.0,46167.0,18000.0,308000.0,216000.0,554000.0
+E0001001,NGF000709,Sheep,,,0.0,,11,N/A,False,True,False,False,0.0,0.0,0.0,0.0,308000.0,0.0,0.0
+E0001002,NGF000710,Crop,Maize,Cocoa,2.06,Small (1-5ha),1,Traditional,False,True,False,False,2.33,738000.0,80000.0,18500.0,618000.0,222000.0,960000.0
+E0001003,NGF000711,Crop,Cassava,Rice,0.69,Subsistence (<1ha),17,Traditional,False,True,False,False,19.59,1579000.0,135167.0,3583.0,207000.0,43000.0,1622000.0
+E0001004,NGF000712,Crop,Maize,Millet,1.2,Small (1-5ha),11,Traditional,False,True,True,False,2.84,542000.0,56833.0,11667.0,360000.0,140000.0,682000.0
+E0001005,NGF000713,Crop,Maize,Cocoa,0.13,Subsistence (<1ha),8,Traditional,False,True,False,False,2.48,51000.0,5333.0,1083.0,39000.0,13000.0,64000.0
+E0001006,NGF000714,Crop,Beans,Cassava,0.2,Subsistence (<1ha),17,Traditional,False,True,True,False,1.35,64000.0,9000.0,3667.0,60000.0,44000.0,108000.0
+E0001007,NGF000714,Goats,,,0.0,,17,N/A,False,True,False,False,0.0,0.0,0.0,0.0,60000.0,0.0,0.0
+E0001008,NGF000715,Crop,Tomato,Beans,0.66,Subsistence (<1ha),4,Integrated,False,True,True,False,15.16,2397000.0,208500.0,8750.0,248000.0,105000.0,2502000.0
+E0001009,NGF000716,Crop,Groundnut,Millet,2.63,Small (1-5ha),9,Traditional,False,True,False,False,1.85,1505000.0,182667.0,57250.0,789000.0,687000.0,2192000.0
+E0001010,NGF000716,Sheep,,,0.0,,9,N/A,False,True,False,False,0.0,0.0,0.0,0.0,789000.0,0.0,0.0
+E0001011,NGF000717,Crop,Rice,Oil Palm,1.05,Small (1-5ha),1,Traditional,False,True,False,False,2.4,682000.0,73500.0,16667.0,315000.0,200000.0,882000.0
+E0001012,NGF000718,Crop,Yam,Oil Palm,3.31,Small (1-5ha),5,Traditional,False,True,False,False,9.52,8283000.0,735250.0,45000.0,993000.0,540000.0,8823000.0
+E0001013,NGF000718,Sheep,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,993000.0,0.0,0.0
+E0001014,NGF000719,Crop,Cassava,,1.68,Small (1-5ha),25,Traditional,False,True,False,False,16.37,3182000.0,275000.0,9833.0,504000.0,118000.0,3300000.0
+E0001015,NGF000720,Crop,Cassava,Rubber,0.41,Subsistence (<1ha),1,Integrated,False,True,False,False,18.7,892000.0,76667.0,2333.0,373000.0,28000.0,920000.0
+E0001016,NGF000721,Crop,Sesame,Millet,0.5,Subsistence (<1ha),1,Integrated,False,True,True,False,0.89,122000.0,22500.0,12333.0,200000.0,148000.0,270000.0
+E0001017,NGF000721,Cattle,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,200000.0,0.0,0.0
+E0001018,NGF000722,Crop,Maize,,1.03,Small (1-5ha),31,Traditional,False,True,True,False,2.39,367000.0,41000.0,10417.0,309000.0,125000.0,492000.0
+E0001019,NGF000723,Crop,Maize,Vegetables,0.89,Subsistence (<1ha),7,Traditional,False,True,False,False,3.55,539000.0,52667.0,7750.0,267000.0,93000.0,632000.0
+E0001020,NGF000724,Crop,Beans,Oil Palm,0.2,Subsistence (<1ha),32,Traditional,False,True,False,False,1.75,107000.0,11667.0,2750.0,60000.0,33000.0,140000.0
+E0001021,NGF000724,Poultry,,,0.0,,32,N/A,False,True,False,False,0.0,0.0,0.0,0.0,60000.0,0.0,0.0
+E0001022,NGF000725,Crop,Cassava,Beans,3.69,Small (1-5ha),38,Traditional,False,True,True,False,14.56,6189000.0,537333.0,21583.0,1107000.0,259000.0,6448000.0
+E0001023,NGF000726,Crop,Sorghum,Cassava,2.15,Small (1-5ha),23,Traditional,False,True,True,False,3.53,1158000.0,120167.0,23667.0,645000.0,284000.0,1442000.0
+E0001024,NGF000726,Goats,,,0.0,,23,N/A,False,True,False,False,0.0,0.0,0.0,0.0,645000.0,0.0,0.0
+E0001025,NGF000727,Crop,Maize,,1.67,Small (1-5ha),30,Traditional,False,True,False,False,2.63,725000.0,73167.0,12750.0,501000.0,153000.0,878000.0
+E0001026,NGF000727,Goats,,,0.0,,30,N/A,False,True,False,False,0.0,0.0,0.0,0.0,501000.0,0.0,0.0
+E0001027,NGF000728,Crop,Cowpea,Cassava,0.81,Subsistence (<1ha),22,Traditional,False,True,False,False,1.45,329000.0,39000.0,11583.0,243000.0,139000.0,468000.0
+E0001028,NGF000729,Crop,Yam,Cocoa,1.56,Small (1-5ha),1,Traditional,False,True,False,False,11.15,4676000.0,405750.0,16083.0,468000.0,193000.0,4869000.0
+E0001029,NGF000730,Crop,Sorghum,Groundnut,0.44,Subsistence (<1ha),21,Unknown,False,True,False,False,3.24,227000.0,22667.0,3750.0,132000.0,45000.0,272000.0
+E0001030,NGF000730,Cattle,,,0.0,,21,N/A,False,True,False,False,0.0,0.0,0.0,0.0,132000.0,0.0,0.0
+E0001031,NGF000731,Crop,Rice,Maize,1.02,Small (1-5ha),1,Traditional,False,True,False,False,1.89,501000.0,56333.0,14583.0,306000.0,175000.0,676000.0
+E0001032,NGF000731,Goats,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,306000.0,0.0,0.0
+E0001033,NGF000732,Crop,Yam,Soybean,2.88,Small (1-5ha),5,Traditional,False,True,False,True,10.74,8226000.0,721667.0,36167.0,864000.0,434000.0,8660000.0
+E0001034,NGF000732,Goats,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,864000.0,0.0,0.0
+E0001035,NGF000733,Crop,Cassava,Millet,3.61,Small (1-5ha),26,Traditional,True,False,False,True,31.86,13515000.0,1150083.0,23833.0,1083000.0,286000.0,13801000.0
+E0001036,NGF000733,Sheep,,,0.0,,26,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1083000.0,0.0,0.0
+E0001037,NGF000734,Crop,Rice,,0.34,Subsistence (<1ha),29,Integrated,False,True,False,False,4.42,476000.0,43750.0,4083.0,152000.0,49000.0,525000.0
+E0001038,NGF000735,Crop,Yam,Vegetables,0.22,Subsistence (<1ha),30,Integrated,False,True,True,False,8.99,519000.0,46167.0,2917.0,116000.0,35000.0,554000.0
+E0001039,NGF000736,Crop,Sorghum,,0.34,Subsistence (<1ha),35,Traditional,False,True,True,False,2.49,131000.0,13500.0,2583.0,102000.0,31000.0,162000.0
+E0001040,NGF000737,Crop,Maize,,3.57,Small (1-5ha),8,Traditional,False,True,True,False,3.0,1582000.0,178500.0,46667.0,1071000.0,560000.0,2142000.0
+E0001041,NGF000737,Goats,,,0.0,,8,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1071000.0,0.0,0.0
+E0001042,NGF000738,Crop,Maize,Cowpea,1.01,Small (1-5ha),24,Integrated,False,True,False,False,3.29,565000.0,55333.0,8250.0,353000.0,99000.0,664000.0
+E0001043,NGF000739,Crop,Yam,Vegetables,0.14,Subsistence (<1ha),18,Integrated,False,True,True,True,15.83,595000.0,51833.0,2250.0,92000.0,27000.0,622000.0
+E0001044,NGF000739,Pigs,,,0.0,,18,N/A,False,True,False,False,0.0,0.0,0.0,0.0,92000.0,0.0,0.0
+E0001045,NGF000740,Crop,Sorghum,Maize,0.3,Subsistence (<1ha),19,Traditional,False,True,False,False,2.03,85000.0,9667.0,2583.0,90000.0,31000.0,116000.0
+E0001046,NGF000741,Crop,Beans,Tomato,4.44,Small (1-5ha),14,Integrated,False,True,False,False,1.08,1041000.0,160000.0,73250.0,1532000.0,879000.0,1920000.0
+E0001047,NGF000742,Crop,Sesame,Yam,2.27,Small (1-5ha),4,Integrated,False,True,False,False,0.99,668000.0,112500.0,56833.0,881000.0,682000.0,1350000.0
+E0001048,NGF000743,Crop,Guinea Corn,Cowpea,1.11,Small (1-5ha),26,Traditional,False,True,False,False,2.14,338000.0,37667.0,9500.0,333000.0,114000.0,452000.0
+E0001049,NGF000744,Crop,Yam,Maize,0.91,Subsistence (<1ha),20,Traditional,False,True,True,False,10.67,2558000.0,226583.0,13417.0,273000.0,161000.0,2719000.0
+E0001050,NGF000744,Goats,,,0.0,,20,N/A,False,True,False,False,0.0,0.0,0.0,0.0,273000.0,0.0,0.0
+E0001051,NGF000745,Crop,Maize,Cocoa,0.1,Subsistence (<1ha),20,Traditional,False,True,True,False,3.06,48000.0,5167.0,1167.0,30000.0,14000.0,62000.0
+E0001052,NGF000746,Crop,Maize,Plantain,2.38,Small (1-5ha),5,Traditional,False,True,False,False,2.55,977000.0,101167.0,19750.0,714000.0,237000.0,1214000.0
+E0001053,NGF000747,Crop,Yam,Vegetables,0.91,Subsistence (<1ha),39,Traditional,False,True,True,False,11.88,2881000.0,252250.0,12167.0,273000.0,146000.0,3027000.0
+E0001054,NGF000748,Crop,Cassava,Cowpea,1.29,Small (1-5ha),6,Traditional,False,True,False,False,16.73,2521000.0,215833.0,5750.0,387000.0,69000.0,2590000.0
+E0001055,NGF000749,Crop,Oil Palm,Rubber,0.2,Subsistence (<1ha),3,Unknown,False,True,True,True,7.19,648000.0,60000.0,6000.0,60000.0,72000.0,720000.0
+E0001056,NGF000749,Sheep,,,0.0,,3,N/A,False,True,False,False,0.0,0.0,0.0,0.0,60000.0,0.0,0.0
+E0001057,NGF000750,Crop,Cassava,Beans,1.38,Small (1-5ha),30,Traditional,False,True,False,False,19.96,3210000.0,275417.0,7917.0,414000.0,95000.0,3305000.0
+E0001058,NGF000750,Goats,,,0.0,,30,N/A,False,True,False,False,0.0,0.0,0.0,0.0,414000.0,0.0,0.0
+E0001059,NGF000751,Crop,Plantain,Maize,0.2,Subsistence (<1ha),24,Traditional,False,True,True,False,12.44,518000.0,45667.0,2500.0,60000.0,30000.0,548000.0
+E0001060,NGF000752,Crop,Maize,,0.1,Subsistence (<1ha),20,Traditional,False,True,False,False,2.4,37000.0,4000.0,917.0,30000.0,11000.0,48000.0
+E0001061,NGF000753,Crop,Tomato,Rice,3.56,Small (1-5ha),30,Traditional,False,True,True,True,24.18,20868000.0,1793333.0,54333.0,1068000.0,652000.0,21520000.0
+E0001062,NGF000754,Crop,Yam,Cassava,0.11,Subsistence (<1ha),14,Traditional,False,True,False,False,10.79,316000.0,27750.0,1417.0,33000.0,17000.0,333000.0
+E0001063,NGF000755,Crop,Groundnut,Maize,1.64,Small (1-5ha),1,Traditional,False,True,False,False,1.14,494000.0,70167.0,29000.0,492000.0,348000.0,842000.0
+E0001064,NGF000756,Crop,Oil Palm,Vegetables,1.05,Small (1-5ha),8,Traditional,False,True,True,False,5.56,2596000.0,243333.0,27000.0,315000.0,324000.0,2920000.0
+E0001065,NGF000757,Crop,Cassava,Oil Palm,0.26,Subsistence (<1ha),34,Traditional,False,True,False,True,27.75,850000.0,72083.0,1250.0,78000.0,15000.0,865000.0
+E0001066,NGF000758,Crop,Cassava,Cowpea,2.91,Small (1-5ha),41,Traditional,False,True,False,False,18.05,6135000.0,525333.0,14083.0,873000.0,169000.0,6304000.0
+E0001067,NGF000759,Crop,Cassava,Yam,3.09,Small (1-5ha),6,Traditional,False,True,True,False,14.82,5260000.0,457917.0,19583.0,927000.0,235000.0,5495000.0
+E0001068,NGF000759,Poultry,,,0.0,,6,N/A,False,True,False,False,0.0,0.0,0.0,0.0,927000.0,0.0,0.0
+E0001069,NGF000760,Crop,Cassava,Cowpea,2.83,Small (1-5ha),6,Traditional,True,False,False,False,20.68,6764000.0,585167.0,21500.0,849000.0,258000.0,7022000.0
+E0001070,NGF000760,Goats,,,0.0,,6,N/A,False,True,False,False,0.0,0.0,0.0,0.0,849000.0,0.0,0.0
+E0001071,NGF000761,Crop,Guinea Corn,Cowpea,1.8,Small (1-5ha),7,Traditional,False,True,False,False,2.0,500000.0,57000.0,15333.0,540000.0,184000.0,684000.0
+E0001072,NGF000761,Poultry,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,540000.0,0.0,0.0
+E0001073,NGF000762,Crop,Rubber,Beans,0.3,Subsistence (<1ha),39,Traditional,False,True,False,False,1.99,310000.0,35000.0,9167.0,90000.0,110000.0,420000.0
+E0001074,NGF000762,Poultry,,,0.0,,39,N/A,False,True,False,False,0.0,0.0,0.0,0.0,90000.0,0.0,0.0
+E0001075,NGF000763,Crop,Cassava,Rice,0.2,Subsistence (<1ha),24,Traditional,False,True,True,False,29.97,706000.0,59917.0,1083.0,60000.0,13000.0,719000.0
+E0001076,NGF000764,Crop,Cotton,Sorghum,4.29,Small (1-5ha),30,Unknown,False,True,False,False,2.05,3781000.0,402833.0,87750.0,1287000.0,1053000.0,4834000.0
+E0001077,NGF000765,Crop,Cowpea,Rice,0.4,Subsistence (<1ha),19,Integrated,False,True,False,False,1.15,115000.0,15333.0,5750.0,320000.0,69000.0,184000.0
+E0001078,NGF000765,Goats,,,0.0,,19,N/A,False,True,False,False,0.0,0.0,0.0,0.0,320000.0,0.0,0.0
+E0001079,NGF000766,Crop,Rice,Maize,1.92,Small (1-5ha),44,Traditional,False,True,True,False,2.55,1322000.0,142917.0,32750.0,576000.0,393000.0,1715000.0
+E0001080,NGF000767,Crop,Millet,,2.45,Small (1-5ha),13,Traditional,False,True,False,False,1.89,604000.0,69417.0,19083.0,735000.0,229000.0,833000.0
+E0001081,NGF000767,Goats,,,0.0,,13,N/A,False,True,False,False,0.0,0.0,0.0,0.0,735000.0,0.0,0.0
+E0001082,NGF000768,Crop,Maize,Cocoa,1.49,Small (1-5ha),39,Integrated,False,True,True,False,2.2,464000.0,54667.0,16000.0,647000.0,192000.0,656000.0
+E0001083,NGF000768,Poultry,,,0.0,,39,N/A,False,True,False,False,0.0,0.0,0.0,0.0,647000.0,0.0,0.0
+E0001084,NGF000769,Crop,Vegetables,Yam,0.23,Subsistence (<1ha),6,Traditional,False,True,False,False,20.63,1482000.0,126417.0,2917.0,69000.0,35000.0,1517000.0
+E0001085,NGF000770,Crop,Yam,Oil Palm,0.83,Subsistence (<1ha),11,Traditional,False,True,False,False,13.44,2999000.0,260417.0,10500.0,249000.0,126000.0,3125000.0
+E0001086,NGF000771,Crop,Yam,Rubber,0.27,Subsistence (<1ha),17,Traditional,False,True,False,False,21.42,1587000.0,134833.0,2583.0,81000.0,31000.0,1618000.0
+E0001087,NGF000772,Crop,Yam,Cassava,1.28,Small (1-5ha),7,Traditional,False,True,False,False,13.18,4558000.0,393667.0,13833.0,384000.0,166000.0,4724000.0
+E0001088,NGF000772,Goats,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,384000.0,0.0,0.0
+E0001089,NGF000773,Crop,Guinea Corn,Cowpea,0.48,Subsistence (<1ha),1,Traditional,False,True,True,False,2.9,213000.0,22000.0,4250.0,144000.0,51000.0,264000.0
+E0001090,NGF000774,Crop,Beans,Groundnut,2.0,Small (1-5ha),2,Traditional,False,True,False,False,1.35,603000.0,90000.0,39750.0,600000.0,477000.0,1080000.0
+E0001091,NGF000775,Crop,Maize,Cowpea,2.53,Small (1-5ha),16,Integrated,False,True,False,False,2.29,908000.0,96500.0,20833.0,809000.0,250000.0,1158000.0
+E0001092,NGF000776,Crop,Vegetables,Cassava,1.05,Small (1-5ha),8,Traditional,False,True,False,False,19.62,6399000.0,549333.0,16083.0,315000.0,193000.0,6592000.0
+E0001093,NGF000776,Poultry,,,0.0,,8,N/A,False,True,False,False,0.0,0.0,0.0,0.0,315000.0,0.0,0.0
+E0001094,NGF000777,Crop,Rubber,Rice,2.41,Small (1-5ha),3,Traditional,False,True,False,True,1.68,1930000.0,236250.0,75417.0,723000.0,905000.0,2835000.0
+E0001095,NGF000778,Crop,Guinea Corn,Groundnut,0.48,Subsistence (<1ha),11,Traditional,False,True,False,False,1.59,96000.0,12000.0,4000.0,144000.0,48000.0,144000.0
+E0001096,NGF000779,Crop,Yam,Cassava,0.2,Subsistence (<1ha),22,Integrated,False,True,False,False,10.48,564000.0,49000.0,2000.0,110000.0,24000.0,588000.0
+E0001097,NGF000780,Crop,Maize,Millet,1.76,Small (1-5ha),21,Unknown,False,True,False,False,3.97,1205000.0,116500.0,16083.0,528000.0,193000.0,1398000.0
+E0001098,NGF000780,Goats,,,0.0,,21,N/A,False,True,False,False,0.0,0.0,0.0,0.0,528000.0,0.0,0.0
+E0001099,NGF000781,Crop,Yam,Plantain,1.51,Small (1-5ha),24,Traditional,False,True,False,False,10.36,4153000.0,364917.0,18833.0,453000.0,226000.0,4379000.0
+E0001100,NGF000782,Crop,Cowpea,Sorghum,1.31,Small (1-5ha),1,Traditional,False,True,True,False,0.86,145000.0,37667.0,25583.0,393000.0,307000.0,452000.0
+E0001101,NGF000782,Poultry,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,393000.0,0.0,0.0
+E0001102,NGF000783,Crop,Cassava,Cocoa,1.25,Small (1-5ha),19,Integrated,True,False,False,True,22.22,3226000.0,277667.0,8833.0,575000.0,106000.0,3332000.0
+E0001103,NGF000784,Crop,Sorghum,Rice,0.4,Subsistence (<1ha),6,Integrated,False,True,False,False,2.35,143000.0,14917.0,3000.0,370000.0,36000.0,179000.0
+E0001104,NGF000785,Crop,Yam,Beans,2.03,Small (1-5ha),20,Integrated,True,False,False,False,13.32,7178000.0,630917.0,32750.0,809000.0,393000.0,7571000.0
+E0001105,NGF000786,Crop,Cowpea,Sorghum,1.87,Small (1-5ha),2,Traditional,False,True,True,False,1.39,599000.0,86667.0,36750.0,561000.0,441000.0,1040000.0
+E0001106,NGF000787,Crop,Rice,Cocoa,0.21,Subsistence (<1ha),32,Integrated,False,True,False,False,3.58,232000.0,21833.0,2500.0,313000.0,30000.0,262000.0
+E0001107,NGF000788,Crop,Vegetables,Cassava,0.35,Subsistence (<1ha),17,Integrated,False,True,True,False,25.15,2738000.0,234667.0,6500.0,305000.0,78000.0,2816000.0
+E0001108,NGF000789,Crop,Cowpea,Rice,2.45,Small (1-5ha),15,Integrated,False,True,False,True,1.04,430000.0,85000.0,49167.0,935000.0,590000.0,1020000.0
+E0001109,NGF000789,Sheep,,,0.0,,15,N/A,False,True,False,False,0.0,0.0,0.0,0.0,935000.0,0.0,0.0
+E0001110,NGF000790,Crop,Yam,Cassava,0.85,Subsistence (<1ha),14,Traditional,False,True,True,False,14.35,3256000.0,284667.0,13333.0,255000.0,160000.0,3416000.0
+E0001111,NGF000791,Crop,Groundnut,Sesame,4.24,Small (1-5ha),16,Traditional,False,True,False,False,2.21,3243000.0,351333.0,81083.0,1272000.0,973000.0,4216000.0
+E0001112,NGF000791,Sheep,,,0.0,,16,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1272000.0,0.0,0.0
+E0001113,NGF000792,Crop,Sorghum,Sesame,1.1,Small (1-5ha),17,Traditional,False,True,True,False,2.06,304000.0,35917.0,10583.0,330000.0,127000.0,431000.0
+E0001114,NGF000793,Crop,Maize,Sorghum,0.53,Subsistence (<1ha),8,Traditional,False,True,False,False,2.26,188000.0,20000.0,4333.0,159000.0,52000.0,240000.0
+E0001115,NGF000794,Crop,Millet,Maize,0.37,Subsistence (<1ha),28,Traditional,False,True,False,False,2.0,101000.0,11083.0,2667.0,111000.0,32000.0,133000.0
+E0001116,NGF000794,Goats,,,0.0,,28,N/A,False,True,False,False,0.0,0.0,0.0,0.0,111000.0,0.0,0.0
+E0001117,NGF000795,Crop,Plantain,Yam,0.56,Subsistence (<1ha),20,Integrated,False,True,False,False,15.03,1781000.0,154333.0,5917.0,218000.0,71000.0,1852000.0
+E0001118,NGF000795,Goats,,,0.0,,20,N/A,False,True,False,False,0.0,0.0,0.0,0.0,218000.0,0.0,0.0
+E0001119,NGF000796,Crop,Cassava,Cowpea,0.33,Subsistence (<1ha),6,Traditional,False,True,True,False,22.88,886000.0,75500.0,1667.0,99000.0,20000.0,906000.0
+E0001120,NGF000797,Crop,Cassava,Rubber,0.2,Subsistence (<1ha),1,Traditional,False,True,False,False,15.39,358000.0,30833.0,1000.0,60000.0,12000.0,370000.0
+E0001121,NGF000798,Crop,Oil Palm,Cassava,1.62,Small (1-5ha),29,Traditional,False,True,True,False,6.21,4573000.0,419167.0,38083.0,486000.0,457000.0,5030000.0
+E0001122,NGF000798,Fish Farming,,,0.0,,29,N/A,False,True,False,False,0.0,0.0,0.0,0.0,486000.0,0.0,0.0
+E0001123,NGF000799,Crop,Cowpea,Rice,0.4,Subsistence (<1ha),2,Traditional,False,True,False,False,0.96,87000.0,12667.0,5417.0,120000.0,65000.0,152000.0
+E0001124,NGF000799,Cattle,,,0.0,,2,N/A,False,True,False,False,0.0,0.0,0.0,0.0,120000.0,0.0,0.0
+E0001125,NGF000800,Crop,Cassava,Oil Palm,0.21,Subsistence (<1ha),1,Integrated,False,True,False,False,10.55,251000.0,22167.0,1250.0,313000.0,15000.0,266000.0
+E0001126,NGF000801,Crop,Maize,,1.75,Small (1-5ha),13,Traditional,False,True,False,True,2.18,525000.0,63667.0,19917.0,525000.0,239000.0,764000.0
+E0001127,NGF000801,Poultry,,,0.0,,13,N/A,False,True,False,False,0.0,0.0,0.0,0.0,525000.0,0.0,0.0
+E0001128,NGF000802,Crop,Groundnut,Rice,3.07,Small (1-5ha),4,Traditional,False,True,False,True,0.98,566000.0,112833.0,65667.0,921000.0,788000.0,1354000.0
+E0001129,NGF000803,Crop,Maize,,4.96,Small (1-5ha),27,Traditional,False,True,True,True,4.23,3590000.0,349667.0,50500.0,1488000.0,606000.0,4196000.0
+E0001130,NGF000803,Cattle,,,0.0,,27,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1488000.0,0.0,0.0
+E0001131,NGF000804,Crop,Maize,Beans,0.35,Subsistence (<1ha),32,Integrated,False,True,False,False,2.26,123000.0,13167.0,2917.0,155000.0,35000.0,158000.0
+E0001132,NGF000805,Crop,Cassava,Maize,0.33,Subsistence (<1ha),25,Integrated,True,False,True,True,20.83,793000.0,68667.0,2583.0,149000.0,31000.0,824000.0
+E0001133,NGF000806,Crop,Beans,,1.13,Small (1-5ha),3,Integrated,False,True,False,True,1.24,287000.0,46667.0,22750.0,389000.0,273000.0,560000.0
+E0001134,NGF000807,Crop,Sorghum,Sesame,0.32,Subsistence (<1ha),7,Traditional,False,True,False,False,2.06,99000.0,10417.0,2167.0,96000.0,26000.0,125000.0
+E0001135,NGF000807,Sheep,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,96000.0,0.0,0.0
+E0001136,NGF000808,Crop,Maize,Rice,2.4,Small (1-5ha),32,Traditional,False,True,False,False,2.6,935000.0,104000.0,26083.0,720000.0,313000.0,1248000.0
+E0001137,NGF000809,Crop,Maize,Cowpea,0.32,Subsistence (<1ha),37,Traditional,False,True,True,False,2.63,135000.0,14000.0,2750.0,96000.0,33000.0,168000.0
+E0001138,NGF000809,Cattle,,,0.0,,37,N/A,False,True,False,False,0.0,0.0,0.0,0.0,96000.0,0.0,0.0
+E0001139,NGF000810,Crop,Maize,Cowpea,3.23,Small (1-5ha),3,Traditional,False,True,False,False,2.6,1366000.0,140000.0,26167.0,969000.0,314000.0,1680000.0
+E0001140,NGF000811,Crop,Cassava,Millet,0.36,Subsistence (<1ha),10,Traditional,False,True,False,False,9.95,405000.0,35833.0,2083.0,108000.0,25000.0,430000.0
+E0001141,NGF000811,Cattle,,,0.0,,10,N/A,False,True,False,False,0.0,0.0,0.0,0.0,108000.0,0.0,0.0
+E0001142,NGF000812,Crop,Sorghum,Beans,2.09,Small (1-5ha),15,Traditional,False,True,False,True,3.03,966000.0,100250.0,19750.0,627000.0,237000.0,1203000.0
+E0001143,NGF000813,Crop,Maize,Beans,1.46,Small (1-5ha),4,Traditional,False,True,False,False,1.93,435000.0,47000.0,10750.0,438000.0,129000.0,564000.0
+E0001144,NGF000814,Crop,Sorghum,Millet,0.92,Subsistence (<1ha),24,Traditional,False,True,False,False,3.03,442000.0,44167.0,7333.0,276000.0,88000.0,530000.0
+E0001145,NGF000814,Cattle,,,0.0,,24,N/A,False,True,False,False,0.0,0.0,0.0,0.0,276000.0,0.0,0.0
+E0001146,NGF000815,Crop,Millet,,3.19,Small (1-5ha),6,Traditional,False,True,True,True,2.86,1135000.0,136833.0,42250.0,957000.0,507000.0,1642000.0
+E0001147,NGF000816,Crop,Maize,Sesame,0.95,Subsistence (<1ha),28,Traditional,False,True,True,False,5.05,853000.0,80000.0,8917.0,285000.0,107000.0,960000.0
+E0001148,NGF000817,Crop,Millet,Sorghum,0.4,Subsistence (<1ha),12,Traditional,False,True,True,False,1.98,98000.0,11833.0,3667.0,120000.0,44000.0,142000.0
+E0001149,NGF000817,Cattle,,,0.0,,12,N/A,False,True,False,False,0.0,0.0,0.0,0.0,120000.0,0.0,0.0
+E0001150,NGF000818,Crop,Beans,Sesame,4.62,Small (1-5ha),41,Traditional,False,True,True,False,1.57,1618000.0,241667.0,106833.0,1386000.0,1282000.0,2900000.0
+E0001151,NGF000818,Cattle,,,0.0,,41,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1386000.0,0.0,0.0
+E0001152,NGF000819,Crop,Cowpea,Beans,0.61,Subsistence (<1ha),6,Traditional,True,False,True,False,1.15,113000.0,23333.0,13917.0,183000.0,167000.0,280000.0
+E0001153,NGF000819,Cattle,,,0.0,,6,N/A,False,True,False,False,0.0,0.0,0.0,0.0,183000.0,0.0,0.0
+E0001154,NGF000820,Crop,Cowpea,Sorghum,0.4,Subsistence (<1ha),17,Traditional,False,True,True,False,1.14,88000.0,15333.0,8000.0,120000.0,96000.0,184000.0
+E0001155,NGF000821,Crop,Yam,Beans,2.54,Small (1-5ha),7,Traditional,False,True,False,False,9.41,6265000.0,557667.0,35583.0,762000.0,427000.0,6692000.0
+E0001156,NGF000821,Goats,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,762000.0,0.0,0.0
+E0001157,NGF000822,Crop,Yam,Plantain,1.37,Small (1-5ha),37,Traditional,False,True,False,False,11.22,4114000.0,358667.0,15833.0,411000.0,190000.0,4304000.0
+E0001158,NGF000822,Poultry,,,0.0,,37,N/A,False,True,False,False,0.0,0.0,0.0,0.0,411000.0,0.0,0.0
+E0001159,NGF000823,Crop,Cassava,Oil Palm,0.87,Subsistence (<1ha),10,Traditional,False,True,True,False,20.35,2052000.0,177000.0,6000.0,261000.0,72000.0,2124000.0
+E0001160,NGF000824,Crop,Cowpea,,0.5,Subsistence (<1ha),2,Unknown,False,True,False,False,0.61,3000.0,10000.0,9750.0,150000.0,117000.0,120000.0
+E0001161,NGF000825,Crop,Maize,Sorghum,1.05,Small (1-5ha),8,Traditional,False,True,False,False,2.32,388000.0,40667.0,8333.0,315000.0,100000.0,488000.0
+E0001162,NGF000826,Crop,Yam,Beans,1.84,Small (1-5ha),37,Traditional,False,True,True,True,15.18,7517000.0,651667.0,25250.0,552000.0,303000.0,7820000.0
+E0001163,NGF000826,Goats,,,0.0,,37,N/A,False,True,False,False,0.0,0.0,0.0,0.0,552000.0,0.0,0.0
+E0001164,NGF000827,Crop,Yam,Plantain,1.3,Small (1-5ha),4,Traditional,False,True,False,False,11.15,3873000.0,338333.0,15583.0,390000.0,187000.0,4060000.0
+E0001165,NGF000828,Crop,Cassava,Guinea Corn,3.96,Small (1-5ha),11,Traditional,False,True,False,True,15.95,7278000.0,631583.0,25083.0,1188000.0,301000.0,7579000.0
+E0001166,NGF000828,Cattle,,,0.0,,11,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1188000.0,0.0,0.0
+E0001167,NGF000829,Crop,Soybean,Beans,2.2,Small (1-5ha),12,Traditional,False,True,True,False,2.03,1183000.0,141583.0,43000.0,660000.0,516000.0,1699000.0
+E0001168,NGF000829,Sheep,,,0.0,,12,N/A,False,True,False,False,0.0,0.0,0.0,0.0,660000.0,0.0,0.0
+E0001169,NGF000830,Crop,Cassava,Yam,0.53,Subsistence (<1ha),19,Integrated,False,True,False,True,20.22,1256000.0,107167.0,2500.0,209000.0,30000.0,1286000.0
+E0001170,NGF000831,Crop,Vegetables,Cocoa,3.46,Small (1-5ha),29,Traditional,False,True,False,True,22.97,24868000.0,2119500.0,47167.0,1038000.0,566000.0,25434000.0
+E0001171,NGF000832,Crop,Cassava,Millet,3.57,Small (1-5ha),1,Traditional,False,True,False,False,10.94,4467000.0,390583.0,18333.0,1071000.0,220000.0,4687000.0
+E0001172,NGF000833,Crop,Cowpea,Cocoa,0.74,Subsistence (<1ha),33,Traditional,False,True,False,False,1.24,218000.0,30667.0,12500.0,222000.0,150000.0,368000.0
+E0001173,NGF000834,Crop,Yam,,1.22,Small (1-5ha),31,Traditional,False,True,True,False,12.29,4021000.0,349750.0,14667.0,366000.0,176000.0,4197000.0
+E0001174,NGF000834,Poultry,,,0.0,,31,N/A,False,True,False,False,0.0,0.0,0.0,0.0,366000.0,0.0,0.0
+E0001175,NGF000835,Crop,Sesame,Guinea Corn,3.81,Small (1-5ha),40,Traditional,False,True,True,False,1.21,1077000.0,230500.0,140750.0,1143000.0,1689000.0,2766000.0
+E0001176,NGF000835,Sheep,,,0.0,,40,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1143000.0,0.0,0.0
+E0001177,NGF000836,Crop,Rice,Beans,0.21,Subsistence (<1ha),16,Traditional,False,True,False,False,2.69,153000.0,16333.0,3583.0,63000.0,43000.0,196000.0
+E0001178,NGF000836,Goats,,,0.0,,16,N/A,False,True,False,False,0.0,0.0,0.0,0.0,63000.0,0.0,0.0
+E0001179,NGF000837,Crop,Cowpea,Soybean,3.08,Small (1-5ha),21,Traditional,False,True,True,True,1.5,1030000.0,154000.0,68167.0,924000.0,818000.0,1848000.0
+E0001180,NGF000838,Crop,Oil Palm,Cassava,2.5,Small (1-5ha),3,Traditional,False,True,False,False,4.0,4440000.0,416667.0,46667.0,750000.0,560000.0,5000000.0
+E0001181,NGF000839,Crop,Sesame,Maize,3.4,Small (1-5ha),4,Traditional,False,True,False,False,0.57,195000.0,97000.0,80750.0,1020000.0,969000.0,1164000.0
+E0001182,NGF000839,Poultry,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1020000.0,0.0,0.0
+E0001183,NGF000840,Crop,Cassava,Yam,0.16,Subsistence (<1ha),2,Traditional,False,True,False,False,17.29,323000.0,27667.0,750.0,48000.0,9000.0,332000.0
+E0001184,NGF000840,Goats,,,0.0,,2,N/A,False,True,False,False,0.0,0.0,0.0,0.0,48000.0,0.0,0.0
+E0001185,NGF000841,Crop,Maize,Oil Palm,0.88,Subsistence (<1ha),29,Traditional,False,True,False,False,2.87,404000.0,42167.0,8500.0,264000.0,102000.0,506000.0
+E0001186,NGF000842,Crop,Guinea Corn,Groundnut,1.84,Small (1-5ha),36,Traditional,False,True,True,False,2.23,551000.0,64917.0,19000.0,552000.0,228000.0,779000.0
+E0001187,NGF000842,Sheep,,,0.0,,36,N/A,False,True,False,False,0.0,0.0,0.0,0.0,552000.0,0.0,0.0
+E0001188,NGF000843,Crop,Sorghum,Sesame,2.43,Small (1-5ha),5,Traditional,False,True,True,False,3.21,1106000.0,123500.0,31333.0,729000.0,376000.0,1482000.0
+E0001189,NGF000843,Poultry,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,729000.0,0.0,0.0
+E0001190,NGF000844,Crop,Cassava,Guinea Corn,2.38,Small (1-5ha),35,Traditional,False,True,True,True,29.04,8102000.0,691167.0,16000.0,714000.0,192000.0,8294000.0
+E0001191,NGF000844,Goats,,,0.0,,35,N/A,False,True,False,False,0.0,0.0,0.0,0.0,714000.0,0.0,0.0
+E0001192,NGF000845,Crop,Maize,,0.4,Subsistence (<1ha),24,Unknown,False,True,True,False,4.41,301000.0,29333.0,4250.0,120000.0,51000.0,352000.0
+E0001193,NGF000846,Crop,Cassava,Plantain,2.76,Small (1-5ha),1,Traditional,False,True,False,False,13.92,4423000.0,384167.0,15583.0,828000.0,187000.0,4610000.0
+E0001194,NGF000847,Crop,Tomato,Groundnut,2.22,Small (1-5ha),21,Traditional,False,True,True,False,29.43,16016000.0,1361000.0,26333.0,666000.0,316000.0,16332000.0
+E0001195,NGF000848,Crop,Sorghum,Tomato,2.89,Small (1-5ha),22,Traditional,False,True,False,False,1.53,539000.0,70000.0,25083.0,867000.0,301000.0,840000.0
+E0001196,NGF000848,Cattle,,,0.0,,22,N/A,False,True,False,False,0.0,0.0,0.0,0.0,867000.0,0.0,0.0
+E0001197,NGF000849,Crop,Maize,Groundnut,3.2,Small (1-5ha),24,Traditional,False,True,False,False,3.05,1547000.0,162667.0,33750.0,960000.0,405000.0,1952000.0
+E0001198,NGF000849,Cattle,,,0.0,,24,N/A,False,True,False,False,0.0,0.0,0.0,0.0,960000.0,0.0,0.0
+E0001199,NGF000850,Crop,Sorghum,Groundnut,0.63,Subsistence (<1ha),8,Traditional,False,True,False,False,1.38,99000.0,13750.0,5500.0,189000.0,66000.0,165000.0
+E0001200,NGF000851,Crop,Yam,Cocoa,0.28,Subsistence (<1ha),14,Traditional,False,True,False,True,13.01,976000.0,84917.0,3583.0,84000.0,43000.0,1019000.0
+E0001201,NGF000852,Crop,Rice,Sorghum,1.27,Small (1-5ha),21,Traditional,False,True,False,False,2.3,783000.0,85167.0,19917.0,381000.0,239000.0,1022000.0
+E0001202,NGF000853,Crop,Cassava,Guinea Corn,0.47,Subsistence (<1ha),18,Integrated,False,True,True,False,24.74,1369000.0,116333.0,2250.0,341000.0,27000.0,1396000.0
+E0001203,NGF000853,Poultry,,,0.0,,18,N/A,False,True,False,False,0.0,0.0,0.0,0.0,341000.0,0.0,0.0
+E0001204,NGF000854,Crop,Groundnut,Sorghum,4.33,Small (1-5ha),23,Traditional,False,True,False,False,1.29,1493000.0,209667.0,85250.0,1299000.0,1023000.0,2516000.0
+E0001205,NGF000854,Goats,,,0.0,,23,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1299000.0,0.0,0.0
+E0001206,NGF000855,Crop,Cowpea,Vegetables,0.34,Subsistence (<1ha),11,Traditional,True,False,False,True,1.68,118000.0,19000.0,9167.0,102000.0,110000.0,228000.0
+E0001207,NGF000856,Crop,Oil Palm,Beans,0.21,Subsistence (<1ha),14,Integrated,False,True,False,False,5.14,482000.0,45000.0,4833.0,113000.0,58000.0,540000.0
+E0001208,NGF000857,Crop,Beans,Plantain,0.26,Subsistence (<1ha),18,Traditional,False,True,True,False,1.81,123000.0,15667.0,5417.0,78000.0,65000.0,188000.0
+E0001209,NGF000857,Poultry,,,0.0,,18,N/A,False,True,False,False,0.0,0.0,0.0,0.0,78000.0,0.0,0.0
+E0001210,NGF000858,Crop,Rice,Oil Palm,1.72,Small (1-5ha),29,Integrated,False,True,False,False,4.07,2134000.0,204167.0,26333.0,716000.0,316000.0,2450000.0
+E0001211,NGF000858,Poultry,,,0.0,,29,N/A,False,True,False,False,0.0,0.0,0.0,0.0,716000.0,0.0,0.0
+E0001212,NGF000859,Crop,Maize,Cassava,0.21,Subsistence (<1ha),31,Traditional,False,True,False,False,2.35,75000.0,8167.0,1917.0,63000.0,23000.0,98000.0
+E0001213,NGF000860,Crop,Beans,Cowpea,0.3,Subsistence (<1ha),4,Traditional,False,True,True,True,1.2,76000.0,12000.0,5667.0,90000.0,68000.0,144000.0
+E0001214,NGF000861,Crop,Maize,Beans,0.7,Subsistence (<1ha),10,Traditional,False,True,False,False,2.95,354000.0,34333.0,4833.0,210000.0,58000.0,412000.0
+E0001215,NGF000861,Sheep,,,0.0,,10,N/A,False,True,False,False,0.0,0.0,0.0,0.0,210000.0,0.0,0.0
+E0001216,NGF000862,Crop,Maize,Beans,1.13,Small (1-5ha),14,Integrated,False,True,True,True,4.17,798000.0,78500.0,12000.0,539000.0,144000.0,942000.0
+E0001217,NGF000862,Sheep,,,0.0,,14,N/A,False,True,False,False,0.0,0.0,0.0,0.0,539000.0,0.0,0.0
+E0001218,NGF000863,Crop,Yam,Maize,0.27,Subsistence (<1ha),1,Integrated,False,True,False,False,8.53,599000.0,53667.0,3750.0,131000.0,45000.0,644000.0
+E0001219,NGF000864,Crop,Cowpea,,0.55,Subsistence (<1ha),10,Traditional,False,True,False,False,0.66,20000.0,12000.0,10333.0,165000.0,124000.0,144000.0
+E0001220,NGF000865,Crop,Cassava,Vegetables,1.45,Small (1-5ha),38,Traditional,False,True,True,False,17.35,2894000.0,251583.0,10417.0,435000.0,125000.0,3019000.0
+E0001221,NGF000866,Crop,Rice,Vegetables,0.13,Subsistence (<1ha),25,Traditional,False,True,True,False,3.58,138000.0,13667.0,2167.0,39000.0,26000.0,164000.0
+E0001222,NGF000867,Crop,Yam,Vegetables,1.34,Small (1-5ha),10,Traditional,False,True,True,False,13.37,4761000.0,418167.0,21417.0,402000.0,257000.0,5018000.0
+E0001223,NGF000868,Crop,Maize,Groundnut,5.25,Medium (5-10ha),23,Traditional,False,True,False,False,2.86,2525000.0,250167.0,39750.0,1575000.0,477000.0,3002000.0
+E0001224,NGF000868,Poultry,,,0.0,,23,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1575000.0,0.0,0.0
+E0001225,NGF000869,Crop,Beans,Maize,1.23,Small (1-5ha),9,Traditional,False,True,True,False,1.01,200000.0,41333.0,24667.0,369000.0,296000.0,496000.0
+E0001226,NGF000870,Crop,Plantain,Yam,0.22,Subsistence (<1ha),7,Traditional,False,True,True,False,24.51,1163000.0,98833.0,1917.0,66000.0,23000.0,1186000.0
+E0001227,NGF000871,Crop,Cassava,Beans,1.62,Small (1-5ha),10,Integrated,False,True,False,False,16.95,3188000.0,274583.0,8917.0,686000.0,107000.0,3295000.0
+E0001228,NGF000872,Crop,Guinea Corn,Groundnut,1.18,Small (1-5ha),31,Integrated,False,True,False,False,2.81,517000.0,52583.0,9500.0,404000.0,114000.0,631000.0
+E0001229,NGF000873,Crop,Maize,Cotton,0.48,Subsistence (<1ha),14,Traditional,False,True,True,False,2.51,190000.0,20000.0,4167.0,144000.0,50000.0,240000.0
+E0001230,NGF000874,Crop,Maize,Beans,1.58,Small (1-5ha),33,Traditional,False,True,True,False,3.41,859000.0,89833.0,18250.0,474000.0,219000.0,1078000.0
+E0001231,NGF000874,Goats,,,0.0,,33,N/A,False,True,False,False,0.0,0.0,0.0,0.0,474000.0,0.0,0.0
+E0001232,NGF000875,Crop,Sorghum,Beans,4.48,Small (1-5ha),23,Integrated,False,True,True,False,2.2,1307000.0,156083.0,47167.0,1394000.0,566000.0,1873000.0
+E0001233,NGF000876,Crop,Rubber,Vegetables,1.74,Small (1-5ha),2,Traditional,True,False,False,False,2.14,1763000.0,217000.0,70083.0,522000.0,841000.0,2604000.0
+E0001234,NGF000876,Goats,,,0.0,,2,N/A,False,True,False,False,0.0,0.0,0.0,0.0,522000.0,0.0,0.0
+E0001235,NGF000877,Crop,Maize,Cocoa,0.2,Subsistence (<1ha),12,Traditional,False,True,False,False,3.32,111000.0,11000.0,1750.0,60000.0,21000.0,132000.0
+E0001236,NGF000878,Crop,Maize,Cocoa,0.99,Subsistence (<1ha),33,Traditional,False,True,True,False,3.49,572000.0,57667.0,10000.0,297000.0,120000.0,692000.0
+E0001237,NGF000879,Crop,Yam,Soybean,1.71,Small (1-5ha),13,Integrated,False,True,False,False,9.49,4320000.0,378667.0,18667.0,713000.0,224000.0,4544000.0
+E0001238,NGF000879,Ducks,,,0.0,,13,N/A,False,True,False,False,0.0,0.0,0.0,0.0,713000.0,0.0,0.0
+E0001239,NGF000880,Crop,Sorghum,,0.41,Subsistence (<1ha),28,Traditional,False,True,False,False,2.6,164000.0,16917.0,3250.0,123000.0,39000.0,203000.0
+E0001240,NGF000880,Goats,,,0.0,,28,N/A,False,True,False,False,0.0,0.0,0.0,0.0,123000.0,0.0,0.0
+E0001241,NGF000881,Crop,Millet,Sorghum,3.04,Small (1-5ha),8,Unknown,False,True,False,False,1.36,418000.0,61917.0,27083.0,912000.0,325000.0,743000.0
+E0001242,NGF000882,Crop,Beans,,1.62,Small (1-5ha),5,Integrated,False,True,True,False,1.16,339000.0,62667.0,34417.0,536000.0,413000.0,752000.0
+E0001243,NGF000882,Cattle,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,536000.0,0.0,0.0
+E0001244,NGF000883,Crop,Guinea Corn,Cowpea,2.82,Small (1-5ha),3,Traditional,False,True,False,False,2.9,1267000.0,129500.0,23917.0,846000.0,287000.0,1554000.0
+E0001245,NGF000884,Crop,Rice,Cassava,1.32,Small (1-5ha),10,Traditional,False,True,False,False,2.61,935000.0,100667.0,22750.0,396000.0,273000.0,1208000.0
+E0001246,NGF000885,Crop,Cowpea,Groundnut,5.82,Medium (5-10ha),15,Traditional,False,True,True,False,1.47,1880000.0,285333.0,128667.0,1746000.0,1544000.0,3424000.0
+E0001247,NGF000885,Goats,,,0.0,,15,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1746000.0,0.0,0.0
+E0001248,NGF000886,Crop,Sorghum,,0.53,Subsistence (<1ha),16,Traditional,True,False,False,False,4.1,353000.0,34333.0,4917.0,159000.0,59000.0,412000.0
+E0001249,NGF000887,Crop,Cowpea,Rice,0.4,Subsistence (<1ha),13,Traditional,False,True,False,False,0.99,83000.0,13333.0,6417.0,120000.0,77000.0,160000.0
+E0001250,NGF000887,Poultry,,,0.0,,13,N/A,False,True,False,False,0.0,0.0,0.0,0.0,120000.0,0.0,0.0
+E0001251,NGF000888,Crop,Vegetables,Rice,0.38,Subsistence (<1ha),10,Traditional,False,True,True,False,26.19,3106000.0,265333.0,6500.0,114000.0,78000.0,3184000.0
+E0001252,NGF000889,Crop,Cowpea,Guinea Corn,1.69,Small (1-5ha),30,Traditional,False,True,True,False,1.18,367000.0,66333.0,35750.0,507000.0,429000.0,796000.0
+E0001253,NGF000889,Goats,,,0.0,,30,N/A,False,True,False,False,0.0,0.0,0.0,0.0,507000.0,0.0,0.0
+E0001254,NGF000890,Crop,Maize,Cocoa,0.2,Subsistence (<1ha),13,Traditional,False,True,False,False,3.62,126000.0,12000.0,1500.0,60000.0,18000.0,144000.0
+E0001255,NGF000891,Crop,Maize,Plantain,0.27,Subsistence (<1ha),35,Integrated,False,True,False,False,2.13,92000.0,9667.0,2000.0,131000.0,24000.0,116000.0
+E0001256,NGF000891,Goats,,,0.0,,35,N/A,False,True,False,False,0.0,0.0,0.0,0.0,131000.0,0.0,0.0
+E0001257,NGF000892,Crop,Yam,Vegetables,1.06,Small (1-5ha),9,Traditional,False,True,False,False,8.1,2256000.0,200417.0,12417.0,318000.0,149000.0,2405000.0
+E0001258,NGF000893,Crop,Maize,,0.64,Subsistence (<1ha),11,Traditional,False,True,True,False,3.22,350000.0,34333.0,5167.0,192000.0,62000.0,412000.0
+E0001259,NGF000894,Crop,Millet,Sesame,3.9,Small (1-5ha),17,Traditional,False,True,False,False,2.39,1290000.0,139833.0,32333.0,1170000.0,388000.0,1678000.0
+E0001260,NGF000894,Ducks,,,0.0,,17,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1170000.0,0.0,0.0
+E0001261,NGF000895,Crop,Beans,Groundnut,0.91,Subsistence (<1ha),23,Traditional,False,True,False,True,1.82,477000.0,55333.0,15583.0,273000.0,187000.0,664000.0
+E0001262,NGF000895,Goats,,,0.0,,23,N/A,False,True,False,False,0.0,0.0,0.0,0.0,273000.0,0.0,0.0
+E0001263,NGF000896,Crop,Cotton,Beans,0.46,Subsistence (<1ha),10,Traditional,False,True,True,False,2.35,423000.0,49500.0,14250.0,138000.0,171000.0,594000.0
+E0001264,NGF000897,Crop,Cowpea,Beans,0.81,Subsistence (<1ha),13,Traditional,False,True,False,False,1.55,344000.0,42000.0,13333.0,243000.0,160000.0,504000.0
+E0001265,NGF000897,Cattle,,,0.0,,13,N/A,False,True,False,False,0.0,0.0,0.0,0.0,243000.0,0.0,0.0
+E0001266,NGF000898,Crop,Cowpea,Cassava,1.63,Small (1-5ha),38,Traditional,False,True,True,False,1.85,878000.0,100667.0,27500.0,489000.0,330000.0,1208000.0
+E0001267,NGF000898,Goats,,,0.0,,38,N/A,False,True,False,False,0.0,0.0,0.0,0.0,489000.0,0.0,0.0
+E0001268,NGF000899,Crop,Beans,Rice,0.36,Subsistence (<1ha),15,Traditional,False,True,True,False,1.85,194000.0,22333.0,6167.0,108000.0,74000.0,268000.0
+E0001269,NGF000900,Crop,Tomato,Cowpea,4.15,Small (1-5ha),23,Traditional,False,True,True,False,27.74,28130000.0,2398333.0,54167.0,1245000.0,650000.0,28780000.0
+E0001270,NGF000901,Crop,Yam,Cowpea,2.99,Small (1-5ha),38,Traditional,False,True,False,False,10.88,8607000.0,759000.0,41750.0,897000.0,501000.0,9108000.0
+E0001271,NGF000902,Crop,Rice,Groundnut,2.08,Small (1-5ha),26,Traditional,False,True,True,False,4.62,2940000.0,280333.0,35333.0,624000.0,424000.0,3364000.0
+E0001272,NGF000903,Crop,Maize,Yam,0.25,Subsistence (<1ha),11,Traditional,False,True,True,False,2.67,102000.0,11167.0,2667.0,75000.0,32000.0,134000.0
+E0001273,NGF000903,Goats,,,0.0,,11,N/A,False,True,False,False,0.0,0.0,0.0,0.0,75000.0,0.0,0.0
+E0001274,NGF000904,Crop,Millet,Rice,1.27,Small (1-5ha),15,Traditional,False,True,True,False,2.48,427000.0,47250.0,11667.0,381000.0,140000.0,567000.0
+E0001275,NGF000904,Sheep,,,0.0,,15,N/A,False,True,False,False,0.0,0.0,0.0,0.0,381000.0,0.0,0.0
+E0001276,NGF000905,Crop,Oil Palm,Cassava,0.28,Subsistence (<1ha),9,Traditional,False,True,True,True,8.87,1162000.0,103333.0,6500.0,84000.0,78000.0,1240000.0
+E0001277,NGF000906,Crop,Millet,Groundnut,0.41,Subsistence (<1ha),15,Traditional,False,True,False,False,1.96,113000.0,12000.0,2583.0,123000.0,31000.0,144000.0
+E0001278,NGF000907,Crop,Maize,Plantain,2.33,Small (1-5ha),15,Traditional,False,True,False,False,2.11,702000.0,82000.0,23500.0,699000.0,282000.0,984000.0
+E0001279,NGF000908,Crop,Millet,Cowpea,0.63,Subsistence (<1ha),3,Traditional,False,True,False,False,1.74,140000.0,16500.0,4833.0,189000.0,58000.0,198000.0
+E0001280,NGF000909,Crop,Rice,Beans,1.52,Small (1-5ha),13,Integrated,False,True,False,False,2.59,1096000.0,114917.0,23583.0,506000.0,283000.0,1379000.0
+E0001281,NGF000909,Cattle,,,0.0,,13,N/A,False,True,False,False,0.0,0.0,0.0,0.0,506000.0,0.0,0.0
+E0001282,NGF000910,Crop,Beans,Millet,0.4,Subsistence (<1ha),2,Traditional,False,True,True,False,1.16,106000.0,15333.0,6500.0,120000.0,78000.0,184000.0
+E0001283,NGF000911,Crop,Beans,Yam,2.24,Small (1-5ha),24,Traditional,False,True,False,False,1.1,465000.0,82000.0,43250.0,672000.0,519000.0,984000.0
+E0001284,NGF000911,Poultry,,,0.0,,24,N/A,False,True,False,False,0.0,0.0,0.0,0.0,672000.0,0.0,0.0
+E0001285,NGF000912,Crop,Maize,Sesame,0.81,Subsistence (<1ha),6,Traditional,False,True,True,True,3.61,470000.0,48667.0,9500.0,243000.0,114000.0,584000.0
+E0001286,NGF000912,Fish Farming,,,0.0,,6,N/A,False,True,False,False,0.0,0.0,0.0,0.0,243000.0,0.0,0.0
+E0001287,NGF000913,Crop,Sorghum,Tomato,5.84,Medium (5-10ha),12,Traditional,False,True,False,False,2.42,1972000.0,223750.0,59417.0,1752000.0,713000.0,2685000.0
+E0001288,NGF000913,Sheep,,,0.0,,12,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1752000.0,0.0,0.0
+E0001289,NGF000914,Crop,Oil Palm,Vegetables,0.2,Subsistence (<1ha),3,Traditional,False,True,True,False,6.37,584000.0,52917.0,4250.0,60000.0,51000.0,635000.0
+E0001290,NGF000915,Crop,Maize,Sorghum,0.95,Subsistence (<1ha),20,Traditional,False,True,False,False,3.72,608000.0,58833.0,8167.0,285000.0,98000.0,706000.0
+E0001291,NGF000915,Cattle,,,0.0,,20,N/A,False,True,False,False,0.0,0.0,0.0,0.0,285000.0,0.0,0.0
+E0001292,NGF000916,Crop,Cotton,Beans,0.87,Subsistence (<1ha),27,Traditional,False,True,True,False,2.7,1032000.0,107667.0,21667.0,261000.0,260000.0,1292000.0
+E0001293,NGF000917,Crop,Cassava,Maize,0.58,Subsistence (<1ha),33,Integrated,False,True,False,False,19.66,1333000.0,114000.0,2917.0,374000.0,35000.0,1368000.0
+E0001294,NGF000918,Crop,Guinea Corn,Millet,3.92,Small (1-5ha),24,Traditional,False,True,True,False,3.22,2000000.0,199833.0,33167.0,1176000.0,398000.0,2398000.0
+E0001295,NGF000919,Crop,Guinea Corn,Cotton,0.99,Subsistence (<1ha),18,Traditional,False,True,False,False,2.53,376000.0,39583.0,8250.0,297000.0,99000.0,475000.0
+E0001296,NGF000919,Poultry,,,0.0,,18,N/A,False,True,False,False,0.0,0.0,0.0,0.0,297000.0,0.0,0.0
+E0001297,NGF000920,Crop,Sorghum,Cowpea,3.32,Small (1-5ha),4,Traditional,False,True,False,False,1.58,642000.0,83167.0,29667.0,996000.0,356000.0,998000.0
+E0001298,NGF000920,Guinea Fowl,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,996000.0,0.0,0.0
+E0001299,NGF000921,Crop,Cassava,Vegetables,1.24,Small (1-5ha),35,Traditional,False,True,True,False,22.82,3305000.0,283000.0,7583.0,372000.0,91000.0,3396000.0
+E0001300,NGF000921,Poultry,,,0.0,,35,N/A,False,True,False,False,0.0,0.0,0.0,0.0,372000.0,0.0,0.0
+E0001301,NGF000922,Crop,Plantain,,0.83,Subsistence (<1ha),28,Traditional,False,True,True,False,17.5,3065000.0,266167.0,10750.0,249000.0,129000.0,3194000.0
+E0001302,NGF000922,Goats,,,0.0,,28,N/A,False,True,False,False,0.0,0.0,0.0,0.0,249000.0,0.0,0.0
+E0001303,NGF000923,Crop,Yam,Oil Palm,0.24,Subsistence (<1ha),4,Traditional,False,True,False,False,8.36,532000.0,46917.0,2583.0,72000.0,31000.0,563000.0
+E0001304,NGF000924,Crop,Groundnut,Millet,4.24,Small (1-5ha),4,Traditional,False,True,True,False,2.2,3122000.0,349833.0,89667.0,1272000.0,1076000.0,4198000.0
+E0001305,NGF000925,Crop,Oil Palm,Vegetables,0.16,Subsistence (<1ha),3,Traditional,False,True,False,True,6.28,452000.0,41667.0,4000.0,48000.0,48000.0,500000.0
+E0001306,NGF000925,Poultry,,,0.0,,3,N/A,False,True,False,False,0.0,0.0,0.0,0.0,48000.0,0.0,0.0
+E0001307,NGF000926,Crop,Cowpea,Maize,0.5,Subsistence (<1ha),1,Traditional,False,True,False,False,0.77,39000.0,13000.0,9750.0,150000.0,117000.0,156000.0
+E0001308,NGF000927,Crop,Sesame,Rice,0.49,Subsistence (<1ha),22,Traditional,False,True,False,False,1.1,150000.0,27000.0,14500.0,147000.0,174000.0,324000.0
+E0001309,NGF000928,Crop,Groundnut,Maize,0.42,Subsistence (<1ha),39,Integrated,False,True,False,False,1.14,139000.0,18000.0,6417.0,376000.0,77000.0,216000.0
+E0001310,NGF000928,Sheep,,,0.0,,39,N/A,False,True,False,False,0.0,0.0,0.0,0.0,376000.0,0.0,0.0
+E0001311,NGF000929,Crop,Cowpea,Sorghum,1.0,Small (1-5ha),7,Traditional,False,True,True,False,1.24,259000.0,41333.0,19750.0,300000.0,237000.0,496000.0
+E0001312,NGF000929,Cattle,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,300000.0,0.0,0.0
+E0001313,NGF000930,Crop,Cocoa,Yam,0.37,Subsistence (<1ha),5,Traditional,False,True,False,False,0.58,1000.0,26250.0,26167.0,111000.0,314000.0,315000.0
+E0001314,NGF000931,Crop,Maize,Beans,0.58,Subsistence (<1ha),8,Integrated,False,True,False,False,2.18,205000.0,21000.0,3917.0,374000.0,47000.0,252000.0
+E0001315,NGF000932,Crop,Cowpea,Guinea Corn,0.4,Subsistence (<1ha),27,Traditional,False,True,False,False,0.92,60000.0,12333.0,7333.0,120000.0,88000.0,148000.0
+E0001316,NGF000932,Goats,,,0.0,,27,N/A,False,True,False,False,0.0,0.0,0.0,0.0,120000.0,0.0,0.0
+E0001317,NGF000933,Crop,Rice,Guinea Corn,0.32,Subsistence (<1ha),10,Traditional,False,True,False,False,3.28,313000.0,30667.0,4583.0,96000.0,55000.0,368000.0
+E0001318,NGF000933,Goats,,,0.0,,10,N/A,False,True,False,False,0.0,0.0,0.0,0.0,96000.0,0.0,0.0
+E0001319,NGF000934,Crop,Cassava,Beans,0.58,Subsistence (<1ha),27,Traditional,False,True,False,False,17.19,1158000.0,99667.0,3167.0,174000.0,38000.0,1196000.0
+E0001320,NGF000934,Poultry,,,0.0,,27,N/A,False,True,False,False,0.0,0.0,0.0,0.0,174000.0,0.0,0.0
+E0001321,NGF000935,Crop,Yam,Cassava,2.14,Small (1-5ha),40,Traditional,False,True,False,False,16.78,9788000.0,837917.0,22250.0,642000.0,267000.0,10055000.0
+E0001322,NGF000935,Goats,,,0.0,,40,N/A,False,True,False,False,0.0,0.0,0.0,0.0,642000.0,0.0,0.0
+E0001323,NGF000936,Crop,Yam,Rice,0.18,Subsistence (<1ha),7,Traditional,False,True,False,False,10.9,522000.0,45750.0,2250.0,54000.0,27000.0,549000.0
+E0001324,NGF000936,Sheep,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,54000.0,0.0,0.0
+E0001325,NGF000937,Crop,Plantain,Maize,0.32,Subsistence (<1ha),6,Unknown,False,True,False,False,8.66,579000.0,50750.0,2500.0,96000.0,30000.0,609000.0
+E0001326,NGF000938,Crop,Yam,Oil Palm,0.1,Subsistence (<1ha),10,Traditional,False,True,False,False,11.69,315000.0,27333.0,1083.0,30000.0,13000.0,328000.0
+E0001327,NGF000939,Crop,Yam,Maize,0.82,Subsistence (<1ha),8,Traditional,False,True,False,False,11.84,2589000.0,226583.0,10833.0,246000.0,130000.0,2719000.0
+E0001328,NGF000940,Crop,Maize,Cocoa,2.85,Small (1-5ha),22,Unknown,False,True,True,True,3.76,1661000.0,178667.0,40250.0,855000.0,483000.0,2144000.0
+E0001329,NGF000940,Poultry,,,0.0,,22,N/A,False,True,False,False,0.0,0.0,0.0,0.0,855000.0,0.0,0.0
+E0001330,NGF000941,Crop,Yam,Millet,1.06,Small (1-5ha),12,Traditional,False,True,True,False,13.87,3932000.0,343000.0,15333.0,318000.0,184000.0,4116000.0
+E0001331,NGF000942,Crop,Cowpea,Beans,0.99,Subsistence (<1ha),18,Traditional,False,True,False,True,1.29,317000.0,42667.0,16250.0,297000.0,195000.0,512000.0
+E0001332,NGF000942,Pigs,,,0.0,,18,N/A,False,True,False,False,0.0,0.0,0.0,0.0,297000.0,0.0,0.0
+E0001333,NGF000943,Crop,Cassava,Maize,0.29,Subsistence (<1ha),19,Integrated,False,True,False,False,22.05,751000.0,63917.0,1333.0,137000.0,16000.0,767000.0
+E0001334,NGF000943,Goats,,,0.0,,19,N/A,False,True,False,False,0.0,0.0,0.0,0.0,137000.0,0.0,0.0
+E0001335,NGF000944,Crop,Maize,Guinea Corn,0.47,Subsistence (<1ha),5,Traditional,False,True,True,False,3.27,253000.0,25667.0,4583.0,141000.0,55000.0,308000.0
+E0001336,NGF000944,Cattle,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,141000.0,0.0,0.0
+E0001337,NGF000945,Crop,Guinea Corn,Sesame,0.96,Subsistence (<1ha),39,Traditional,False,True,False,False,2.11,293000.0,32167.0,7750.0,288000.0,93000.0,386000.0
+E0001338,NGF000945,Poultry,,,0.0,,39,N/A,False,True,False,False,0.0,0.0,0.0,0.0,288000.0,0.0,0.0
+E0001339,NGF000946,Crop,Cowpea,Cotton,0.4,Subsistence (<1ha),9,Traditional,False,True,False,False,0.88,75000.0,11667.0,5417.0,120000.0,65000.0,140000.0
+E0001340,NGF000947,Crop,Cowpea,Groundnut,1.28,Small (1-5ha),5,Traditional,False,True,False,False,1.09,263000.0,46667.0,24750.0,384000.0,297000.0,560000.0
+E0001341,NGF000948,Crop,Beans,Cocoa,1.45,Small (1-5ha),21,Traditional,False,True,True,False,1.89,729000.0,91333.0,30583.0,435000.0,367000.0,1096000.0
+E0001342,NGF000949,Crop,Rubber,Beans,2.66,Small (1-5ha),16,Integrated,False,True,False,False,1.6,1771000.0,248500.0,100917.0,998000.0,1211000.0,2982000.0
+E0001343,NGF000950,Crop,Guinea Corn,Beans,1.5,Small (1-5ha),24,Unknown,False,True,True,False,2.88,639000.0,68417.0,15167.0,450000.0,182000.0,821000.0
+E0001344,NGF000950,Cattle,,,0.0,,24,N/A,False,True,False,False,0.0,0.0,0.0,0.0,450000.0,0.0,0.0
+E0001345,NGF000951,Crop,Cocoa,Maize,0.24,Subsistence (<1ha),7,Integrated,False,True,True,False,0.86,102000.0,26250.0,17750.0,122000.0,213000.0,315000.0
+E0001346,NGF000951,Poultry,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,122000.0,0.0,0.0
+E0001347,NGF000952,Crop,Guinea Corn,,1.95,Small (1-5ha),28,Traditional,False,True,False,False,2.4,722000.0,74083.0,13917.0,585000.0,167000.0,889000.0
+E0001348,NGF000953,Crop,Cowpea,Beans,3.77,Small (1-5ha),28,Traditional,False,True,True,False,1.18,951000.0,148333.0,69083.0,1131000.0,829000.0,1780000.0
+E0001349,NGF000954,Crop,Vegetables,Maize,1.29,Small (1-5ha),21,Integrated,False,True,False,False,17.64,7036000.0,606917.0,20583.0,437000.0,247000.0,7283000.0
+E0001350,NGF000954,Goats,,,0.0,,21,N/A,False,True,False,False,0.0,0.0,0.0,0.0,437000.0,0.0,0.0
+E0001351,NGF000955,Crop,Guinea Corn,Sesame,2.82,Small (1-5ha),33,Traditional,False,True,True,False,2.11,780000.0,94167.0,29167.0,846000.0,350000.0,1130000.0
+E0001352,NGF000955,Goats,,,0.0,,33,N/A,False,True,False,False,0.0,0.0,0.0,0.0,846000.0,0.0,0.0
+E0001353,NGF000956,Crop,Cowpea,Guinea Corn,2.88,Small (1-5ha),17,Traditional,True,False,False,False,1.2,452000.0,115333.0,77667.0,864000.0,932000.0,1384000.0
+E0001354,NGF000956,Sheep,,,0.0,,17,N/A,False,True,False,False,0.0,0.0,0.0,0.0,864000.0,0.0,0.0
+E0001355,NGF000957,Crop,Cowpea,Beans,1.63,Small (1-5ha),6,Traditional,False,True,True,False,1.11,335000.0,60333.0,32417.0,489000.0,389000.0,724000.0
+E0001356,NGF000958,Crop,Oil Palm,Cowpea,1.26,Small (1-5ha),33,Traditional,False,True,False,False,6.06,3522000.0,318333.0,24833.0,378000.0,298000.0,3820000.0
+E0001357,NGF000958,Goats,,,0.0,,33,N/A,False,True,False,False,0.0,0.0,0.0,0.0,378000.0,0.0,0.0
+E0001358,NGF000959,Crop,Maize,Rice,1.19,Small (1-5ha),40,Integrated,False,True,True,False,2.78,523000.0,55167.0,11583.0,557000.0,139000.0,662000.0
+E0001359,NGF000960,Crop,Maize,Yam,0.42,Subsistence (<1ha),1,Traditional,False,True,False,True,3.58,242000.0,25000.0,4833.0,126000.0,58000.0,300000.0
+E0001360,NGF000960,Poultry,,,0.0,,1,N/A,False,True,False,False,0.0,0.0,0.0,0.0,126000.0,0.0,0.0
+E0001361,NGF000961,Crop,Cassava,Millet,0.32,Subsistence (<1ha),3,Traditional,False,True,False,False,13.65,505000.0,43667.0,1583.0,96000.0,19000.0,524000.0
+E0001362,NGF000961,Poultry,,,0.0,,3,N/A,False,True,False,False,0.0,0.0,0.0,0.0,96000.0,0.0,0.0
+E0001363,NGF000962,Crop,Maize,Sorghum,2.01,Small (1-5ha),5,Traditional,False,True,True,False,3.24,1076000.0,108500.0,18833.0,603000.0,226000.0,1302000.0
+E0001364,NGF000962,Cattle,,,0.0,,5,N/A,False,True,False,False,0.0,0.0,0.0,0.0,603000.0,0.0,0.0
+E0001365,NGF000963,Crop,Maize,Sesame,0.47,Subsistence (<1ha),10,Traditional,False,True,True,True,2.83,206000.0,22167.0,5000.0,141000.0,60000.0,266000.0
+E0001366,NGF000964,Crop,Cassava,Soybean,2.88,Small (1-5ha),11,Integrated,False,True,True,False,25.94,8760000.0,747083.0,17083.0,914000.0,205000.0,8965000.0
+E0001367,NGF000965,Crop,Groundnut,Cowpea,1.3,Small (1-5ha),21,Traditional,False,True,False,False,1.73,710000.0,84333.0,25167.0,390000.0,302000.0,1012000.0
+E0001368,NGF000965,Ducks,,,0.0,,21,N/A,False,True,False,False,0.0,0.0,0.0,0.0,390000.0,0.0,0.0
+E0001369,NGF000966,Crop,Yam,Sesame,0.37,Subsistence (<1ha),30,Traditional,False,True,False,False,10.79,1073000.0,93083.0,3667.0,111000.0,44000.0,1117000.0
+E0001370,NGF000967,Crop,Maize,Sesame,1.05,Small (1-5ha),7,Traditional,False,True,False,False,2.19,342000.0,38333.0,9833.0,315000.0,118000.0,460000.0
+E0001371,NGF000967,Goats,,,0.0,,7,N/A,False,True,False,False,0.0,0.0,0.0,0.0,315000.0,0.0,0.0
+E0001372,NGF000968,Crop,Maize,Cotton,0.41,Subsistence (<1ha),11,Traditional,False,True,True,False,3.03,204000.0,20667.0,3667.0,123000.0,44000.0,248000.0
+E0001373,NGF000969,Crop,Yam,Beans,1.28,Small (1-5ha),41,Traditional,False,True,True,False,18.5,6447000.0,552500.0,15250.0,384000.0,183000.0,6630000.0
+E0001374,NGF000970,Crop,Groundnut,Sesame,0.55,Subsistence (<1ha),34,Traditional,False,True,True,False,1.88,293000.0,38667.0,14250.0,165000.0,171000.0,464000.0
+E0001375,NGF000971,Crop,Cowpea,Guinea Corn,0.49,Subsistence (<1ha),2,Traditional,False,True,True,False,1.05,77000.0,17000.0,10583.0,147000.0,127000.0,204000.0
+E0001376,NGF000972,Crop,Yam,Millet,0.67,Subsistence (<1ha),9,Unknown,False,True,True,False,11.27,2017000.0,176167.0,8083.0,201000.0,97000.0,2114000.0
+E0001377,NGF000972,Goats,,,0.0,,9,N/A,False,True,False,False,0.0,0.0,0.0,0.0,201000.0,0.0,0.0
+E0001378,NGF000973,Crop,Cassava,Beans,0.5,Subsistence (<1ha),20,Traditional,False,True,False,False,16.35,955000.0,81833.0,2250.0,150000.0,27000.0,982000.0
+E0001379,NGF000974,Crop,Maize,Beans,0.42,Subsistence (<1ha),17,Integrated,False,True,False,False,2.22,147000.0,15500.0,3250.0,176000.0,39000.0,186000.0
+E0001380,NGF000975,Crop,Cowpea,Rice,2.59,Small (1-5ha),4,Traditional,False,True,True,True,1.54,811000.0,133000.0,65417.0,777000.0,785000.0,1596000.0
+E0001381,NGF000975,Poultry,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,777000.0,0.0,0.0
+E0001382,NGF000976,Crop,Maize,Yam,1.52,Small (1-5ha),31,Traditional,False,True,True,False,3.95,1050000.0,100000.0,12500.0,456000.0,150000.0,1200000.0
+E0001383,NGF000976,Poultry,,,0.0,,31,N/A,False,True,False,False,0.0,0.0,0.0,0.0,456000.0,0.0,0.0
+E0001384,NGF000977,Crop,Cassava,Beans,0.28,Subsistence (<1ha),22,Traditional,False,True,False,False,19.12,626000.0,53500.0,1333.0,84000.0,16000.0,642000.0
+E0001385,NGF000978,Crop,Guinea Corn,Sesame,0.65,Subsistence (<1ha),14,Traditional,False,True,True,False,2.46,231000.0,25333.0,6083.0,195000.0,73000.0,304000.0
+E0001386,NGF000979,Crop,Sesame,Maize,1.62,Small (1-5ha),1,Traditional,False,True,False,False,0.69,152000.0,56000.0,43333.0,486000.0,520000.0,672000.0
+E0001387,NGF000980,Crop,Maize,Groundnut,4.51,Small (1-5ha),42,Traditional,False,True,False,False,3.76,2955000.0,282667.0,36417.0,1353000.0,437000.0,3392000.0
+E0001388,NGF000981,Crop,Yam,Cassava,0.2,Subsistence (<1ha),2,Traditional,False,True,True,False,8.37,428000.0,39000.0,3333.0,60000.0,40000.0,468000.0
+E0001389,NGF000982,Crop,Maize,Cowpea,0.35,Subsistence (<1ha),19,Integrated,False,True,False,False,3.06,182000.0,17833.0,2667.0,155000.0,32000.0,214000.0
+E0001390,NGF000982,Goats,,,0.0,,19,N/A,False,True,False,False,0.0,0.0,0.0,0.0,155000.0,0.0,0.0
+E0001391,NGF000983,Crop,Yam,Maize,1.59,Small (1-5ha),16,Traditional,False,True,False,False,10.88,4645000.0,403667.0,16583.0,477000.0,199000.0,4844000.0
+E0001392,NGF000984,Crop,Cassava,Yam,0.11,Subsistence (<1ha),7,Traditional,False,True,False,False,13.99,180000.0,15417.0,417.0,33000.0,5000.0,185000.0
+E0001393,NGF000985,Crop,Sesame,Beans,2.94,Small (1-5ha),29,Traditional,False,True,True,True,1.33,1034000.0,195500.0,109333.0,882000.0,1312000.0,2346000.0
+E0001394,NGF000986,Crop,Maize,Cassava,3.45,Small (1-5ha),36,Traditional,False,True,True,False,3.96,2220000.0,227667.0,42667.0,1035000.0,512000.0,2732000.0
+E0001395,NGF000987,Crop,Sorghum,Millet,4.19,Small (1-5ha),18,Traditional,False,True,False,False,1.67,911000.0,110833.0,34917.0,1257000.0,419000.0,1330000.0
+E0001396,NGF000987,Poultry,,,0.0,,18,N/A,False,True,False,False,0.0,0.0,0.0,0.0,1257000.0,0.0,0.0
+E0001397,NGF000988,Crop,Cowpea,,1.62,Small (1-5ha),22,Traditional,False,True,True,False,1.5,570000.0,81000.0,33500.0,486000.0,402000.0,972000.0
+E0001398,NGF000988,Poultry,,,0.0,,22,N/A,False,True,False,False,0.0,0.0,0.0,0.0,486000.0,0.0,0.0
+E0001399,NGF000989,Crop,Beans,Cassava,1.66,Small (1-5ha),4,Traditional,False,True,False,False,1.22,405000.0,67667.0,33917.0,498000.0,407000.0,812000.0
+E0001400,NGF000989,Goats,,,0.0,,4,N/A,False,True,False,False,0.0,0.0,0.0,0.0,498000.0,0.0,0.0
+E0001401,NGF000990,Crop,Beans,Plantain,0.48,Subsistence (<1ha),12,Traditional,False,True,True,True,1.29,131000.0,20667.0,9750.0,144000.0,117000.0,248000.0
+E0001402,NGF000990,Poultry,,,0.0,,12,N/A,False,True,False,False,0.0,0.0,0.0,0.0,144000.0,0.0,0.0
+E0001403,NGF000991,Crop,Sorghum,Groundnut,3.63,Small (1-5ha),17,Traditional,False,True,True,False,3.08,1563000.0,177000.0,46750.0,1089000.0,561000.0,2124000.0
+E0001404,NGF000992,Crop,Cassava,,0.72,Subsistence (<1ha),29,Traditional,False,True,False,False,15.9,1326000.0,114500.0,4000.0,216000.0,48000.0,1374000.0
+E0001405,NGF000993,Crop,Cassava,Vegetables,2.28,Small (1-5ha),37,Integrated,False,True,False,False,17.3,4576000.0,394417.0,13083.0,884000.0,157000.0,4733000.0
+E0001406,NGF000994,Crop,Cowpea,Cotton,0.41,Subsistence (<1ha),28,Traditional,False,True,False,False,1.27,114000.0,17333.0,7833.0,123000.0,94000.0,208000.0
+E0001407,NGF000994,Cattle,,,0.0,,28,N/A,False,True,False,False,0.0,0.0,0.0,0.0,123000.0,0.0,0.0
+E0001408,NGF000995,Crop,Tomato,Sorghum,1.4,Small (1-5ha),8,Integrated,False,True,False,True,17.04,5784000.0,497083.0,15083.0,470000.0,181000.0,5965000.0
+E0001409,NGF000996,Crop,Sorghum,Rice,2.34,Small (1-5ha),26,Unknown,False,True,False,False,1.99,625000.0,73750.0,21667.0,702000.0,260000.0,885000.0
+E0001410,NGF000997,Crop,Plantain,Yam,0.8,Subsistence (<1ha),38,Traditional,False,True,False,False,15.11,2588000.0,221667.0,6000.0,240000.0,72000.0,2660000.0
+E0001411,NGF000998,Crop,Beans,Sorghum,3.55,Small (1-5ha),20,Traditional,False,True,False,False,0.99,659000.0,117000.0,62083.0,1065000.0,745000.0,1404000.0
+E0001412,NGF000999,Crop,Cowpea,Cassava,2.83,Small (1-5ha),1,Traditional,False,True,False,False,0.78,251000.0,73667.0,52750.0,849000.0,633000.0,884000.0
+E0001413,NGF001000,Crop,Beans,Rubber,2.95,Small (1-5ha),4,Traditional,False,True,False,False,1.25,873000.0,123000.0,50250.0,885000.0,603000.0,1476000.0

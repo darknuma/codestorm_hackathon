@@ -32,7 +32,7 @@ def import_helper_module(module_name):
 
 def run_generator():
 	"""Run the main data generator script."""
-	generator_path = os.path.join('data_assets', 'generator.py')
+	generator_path = os.path.join('data_assets', 'data_gen.py')
 	if not os.path.exists(generator_path):
 		raise FileNotFoundError(f'Generator script not found at {generator_path}')
 

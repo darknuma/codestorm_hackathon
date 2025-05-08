@@ -1,0 +1,1001 @@
+Farmer_ID,Age,Gender,Education_Category,Education_Level_Years,Marital_Status,Household_Size,Off_Farm_Income_NGN,Region,State,Has_Bank_Account,Has_Formal_ID,Smartphone_Owner
+NGF000001,56,Male,No Formal Education,0,Married,4,0.0,North Central,Benue,True,True,False
+NGF000002,54,Male,Primary Complete,6,Married,9,104000.0,North Central,Nasarawa,False,True,True
+NGF000003,62,Male,Primary Incomplete,3,Married,3,0.0,North West,Katsina,True,True,True
+NGF000004,58,Male,Primary Complete,6,Married,11,0.0,North Central,FCT,False,True,True
+NGF000005,53,Female,Primary Complete,6,Married,2,197000.0,North West,Sokoto,False,True,True
+NGF000006,19,Male,No Formal Education,0,Single,1,0.0,North Central,Kogi,False,True,False
+NGF000007,33,Female,Secondary Complete,12,Married,12,249000.0,North West,Sokoto,False,True,True
+NGF000008,63,Male,No Formal Education,0,Married,12,81000.0,North Central,Kogi,True,False,True
+NGF000009,25,Male,No Formal Education,0,Married,2,65000.0,South West,Ogun,False,False,False
+NGF000010,42,Male,Primary Incomplete,3,Single,1,103000.0,North Central,Kwara,False,True,False
+NGF000011,45,Male,Secondary Incomplete,9,Married,12,0.0,North West,Kaduna,False,True,False
+NGF000012,36,Male,No Formal Education,0,Married,4,77000.0,South West,Ekiti,True,False,True
+NGF000013,21,Male,No Formal Education,0,Single,1,0.0,South West,Ogun,False,False,False
+NGF000014,49,Female,Secondary Incomplete,9,Married,11,0.0,South West,Ondo,False,False,True
+NGF000015,33,Male,Primary Complete,6,Married,9,195000.0,North West,Zamfara,True,False,True
+NGF000016,40,Male,OND/NCE,14,Widowed,8,351000.0,North East,Yobe,False,True,False
+NGF000017,40,Male,Primary Complete,6,Widowed,5,0.0,North East,Adamawa,True,True,False
+NGF000018,30,Male,Secondary Complete,12,Widowed,9,396000.0,South West,Lagos,False,True,True
+NGF000019,45,Male,No Formal Education,0,Married,2,0.0,South East,Anambra,True,True,True
+NGF000020,45,Male,Primary Complete,6,Married,3,0.0,North West,Zamfara,False,False,False
+NGF000021,55,Male,Primary Complete,6,Single,3,162000.0,North East,Adamawa,True,True,False
+NGF000022,30,Female,Primary Complete,6,Divorced,2,0.0,North Central,Niger,True,False,True
+NGF000023,55,Female,Primary Incomplete,3,Married,9,0.0,North East,Bauchi,False,True,False
+NGF000024,54,Male,Secondary Complete,12,Married,4,342000.0,North Central,Kwara,True,False,False
+NGF000025,50,Female,No Formal Education,0,Married,5,0.0,South West,Lagos,True,False,False
+NGF000026,17,Female,No Formal Education,0,Single,3,88000.0,North East,Taraba,True,False,True
+NGF000027,41,Male,HND/BSc,16,Married,14,323000.0,South West,Ekiti,True,True,False
+NGF000028,17,Male,No Formal Education,0,Single,1,81000.0,South South,Cross River,True,False,True
+NGF000029,41,Male,Masters/PhD,18,Married,14,0.0,South West,Ogun,True,True,False
+NGF000030,65,Male,Primary Complete,6,Single,3,0.0,North West,Katsina,False,False,False
+NGF000031,59,Male,Primary Complete,6,Divorced,7,0.0,South South,Cross River,False,True,True
+NGF000032,49,Male,Primary Complete,6,Divorced,3,202000.0,South East,Imo,True,True,False
+NGF000033,41,Female,Secondary Complete,12,Divorced,5,405000.0,South South,Akwa Ibom,True,False,False
+NGF000034,34,Male,Secondary Complete,12,Married,3,346000.0,North Central,Kogi,False,True,False
+NGF000035,34,Male,Primary Incomplete,3,Widowed,8,0.0,South South,Delta,False,False,True
+NGF000036,65,Male,Primary Complete,6,Widowed,6,143000.0,North Central,Nasarawa,False,True,False
+NGF000037,65,Male,Secondary Incomplete,9,Married,4,227000.0,North East,Taraba,True,True,True
+NGF000038,64,Male,Primary Complete,6,Married,5,0.0,North Central,Niger,True,True,True
+NGF000039,56,Male,No Formal Education,0,Single,4,69000.0,South West,Lagos,True,True,True
+NGF000040,60,Male,Secondary Complete,12,Single,1,0.0,North West,Kaduna,False,True,True
+NGF000041,22,Female,No Formal Education,0,Married,4,103000.0,North Central,Benue,True,False,True
+NGF000042,36,Male,No Formal Education,0,Married,13,0.0,South South,Rivers,True,True,True
+NGF000043,44,Male,Primary Incomplete,3,Married,13,124000.0,North West,Sokoto,True,True,True
+NGF000044,56,Male,Primary Incomplete,3,Married,3,83000.0,North Central,Kwara,True,True,True
+NGF000045,23,Male,Primary Complete,6,Widowed,3,0.0,South South,Akwa Ibom,True,True,True
+NGF000046,59,Male,Primary Incomplete,3,Married,12,73000.0,South West,Ogun,False,False,False
+NGF000047,60,Male,Secondary Complete,12,Married,3,214000.0,South East,Abia,True,True,False
+NGF000048,65,Male,OND/NCE,14,Divorced,5,0.0,South East,Enugu,True,True,True
+NGF000049,43,Female,Secondary Incomplete,9,Married,3,122000.0,South West,Ondo,True,True,False
+NGF000050,57,Male,Primary Complete,6,Married,13,118000.0,North West,Kebbi,True,True,True
+NGF000051,20,Male,Secondary Incomplete,9,Married,2,130000.0,South East,Imo,False,True,True
+NGF000052,20,Male,No Formal Education,0,Married,3,50000.0,South South,Cross River,False,True,False
+NGF000053,33,Female,Primary Complete,6,Married,14,0.0,North East,Gombe,False,True,True
+NGF000054,27,Male,Secondary Incomplete,9,Married,6,147000.0,North Central,Kwara,False,True,False
+NGF000055,18,Male,Primary Incomplete,3,Married,2,90000.0,North Central,Kogi,True,True,True
+NGF000056,60,Male,Secondary Incomplete,9,Married,10,0.0,South West,Ogun,True,True,True
+NGF000057,22,Female,Secondary Complete,12,Married,5,316000.0,North West,Jigawa,True,False,True
+NGF000058,33,Male,Primary Incomplete,3,Married,3,101000.0,North East,Adamawa,True,True,True
+NGF000059,35,Male,Secondary Incomplete,9,Married,6,0.0,North West,Kebbi,False,False,False
+NGF000060,53,Male,OND/NCE,14,Widowed,9,0.0,North East,Borno,True,True,True
+NGF000061,37,Male,Masters/PhD,18,Married,4,620000.0,North Central,Niger,True,True,True
+NGF000062,46,Male,Primary Incomplete,3,Married,3,0.0,North Central,FCT,True,True,True
+NGF000063,40,Male,Secondary Complete,12,Widowed,3,0.0,North Central,Plateau,True,True,True
+NGF000064,56,Male,Primary Incomplete,3,Married,12,0.0,South West,Oyo,True,True,True
+NGF000065,48,Female,Secondary Complete,12,Married,4,206000.0,South South,Cross River,False,True,True
+NGF000066,19,Male,Secondary Incomplete,9,Married,2,0.0,North Central,Kwara,False,False,False
+NGF000067,19,Male,Secondary Complete,12,Married,3,0.0,South South,Rivers,True,True,False
+NGF000068,65,Male,Primary Complete,6,Married,12,0.0,South East,Enugu,False,True,False
+NGF000069,59,Female,Secondary Complete,12,Widowed,6,0.0,South East,Abia,True,True,True
+NGF000070,39,Male,No Formal Education,0,Widowed,8,95000.0,South West,Osun,True,False,True
+NGF000071,18,Male,No Formal Education,0,Single,3,0.0,North West,Kaduna,True,True,False
+NGF000072,52,Female,Primary Complete,6,Married,6,142000.0,South South,Bayelsa,False,True,False
+NGF000073,64,Male,Secondary Complete,12,Married,6,0.0,North Central,Plateau,False,True,True
+NGF000074,62,Female,Primary Incomplete,3,Married,10,0.0,North West,Kano,False,False,True
+NGF000075,32,Female,Secondary Incomplete,9,Married,14,0.0,South East,Imo,False,True,False
+NGF000076,52,Male,Secondary Complete,12,Widowed,9,357000.0,North West,Kaduna,False,True,True
+NGF000077,52,Male,No Formal Education,0,Married,5,0.0,North West,Jigawa,False,True,False
+NGF000078,63,Male,Secondary Incomplete,9,Married,3,191000.0,North Central,Benue,True,True,False
+NGF000079,60,Female,Secondary Complete,12,Married,2,0.0,South West,Ondo,True,True,False
+NGF000080,18,Female,Primary Complete,6,Married,2,0.0,North West,Kaduna,True,True,True
+NGF000081,56,Male,No Formal Education,0,Married,10,80000.0,North Central,Benue,False,True,True
+NGF000082,49,Male,Secondary Incomplete,9,Widowed,3,243000.0,South South,Akwa Ibom,False,True,True
+NGF000083,26,Male,Primary Complete,6,Married,4,0.0,North West,Zamfara,True,False,False
+NGF000084,52,Male,Secondary Complete,12,Married,2,197000.0,North Central,FCT,False,True,True
+NGF000085,54,Female,Secondary Incomplete,9,Married,7,0.0,South West,Osun,True,False,True
+NGF000086,21,Male,No Formal Education,0,Single,3,57000.0,North East,Adamawa,False,True,True
+NGF000087,23,Female,Primary Incomplete,3,Single,1,0.0,North West,Kebbi,True,True,False
+NGF000088,18,Male,Secondary Complete,12,Single,3,0.0,South South,Akwa Ibom,False,False,False
+NGF000089,44,Male,Primary Incomplete,3,Widowed,4,0.0,South East,Abia,False,False,True
+NGF000090,60,Male,No Formal Education,0,Married,12,0.0,North East,Taraba,True,True,True
+NGF000091,46,Male,No Formal Education,0,Widowed,6,0.0,South West,Oyo,True,True,True
+NGF000092,49,Male,Secondary Incomplete,9,Married,9,0.0,North Central,Nasarawa,False,True,True
+NGF000093,28,Male,Secondary Incomplete,9,Married,5,245000.0,North Central,FCT,False,True,True
+NGF000094,54,Male,Primary Complete,6,Divorced,3,0.0,North West,Katsina,False,False,False
+NGF000095,43,Male,Primary Complete,6,Married,5,178000.0,North West,Zamfara,True,False,False
+NGF000096,58,Male,No Formal Education,0,Married,6,0.0,South East,Anambra,False,True,True
+NGF000097,56,Male,No Formal Education,0,Divorced,1,0.0,North West,Jigawa,False,True,True
+NGF000098,29,Male,OND/NCE,14,Married,2,0.0,South South,Bayelsa,True,True,False
+NGF000099,56,Male,No Formal Education,0,Married,4,0.0,North Central,Kogi,False,True,True
+NGF000100,17,Male,No Formal Education,0,Single,1,57000.0,North Central,Niger,False,True,True
+NGF000101,55,Male,Primary Incomplete,3,Widowed,2,63000.0,South East,Abia,True,True,True
+NGF000102,50,Female,No Formal Education,0,Married,3,0.0,North East,Bauchi,False,True,True
+NGF000103,33,Male,No Formal Education,0,Widowed,4,75000.0,North West,Kebbi,True,True,True
+NGF000104,21,Male,Secondary Incomplete,9,Married,4,0.0,South West,Lagos,True,True,False
+NGF000105,56,Male,No Formal Education,0,Married,4,110000.0,North Central,Plateau,False,True,True
+NGF000106,63,Male,Primary Complete,6,Married,6,0.0,North Central,Plateau,False,True,True
+NGF000107,43,Male,Secondary Incomplete,9,Divorced,2,216000.0,South South,Delta,True,True,True
+NGF000108,32,Male,No Formal Education,0,Married,13,93000.0,South South,Cross River,True,True,False
+NGF000109,24,Female,OND/NCE,14,Married,4,0.0,South South,Edo,False,False,False
+NGF000110,64,Female,Primary Complete,6,Married,5,0.0,North West,Sokoto,False,False,False
+NGF000111,23,Male,No Formal Education,0,Married,2,80000.0,South East,Ebonyi,False,False,True
+NGF000112,40,Male,Primary Complete,6,Married,12,0.0,North West,Katsina,False,True,False
+NGF000113,52,Male,Primary Complete,6,Single,4,0.0,North East,Adamawa,False,True,False
+NGF000114,51,Male,No Formal Education,0,Married,4,0.0,North Central,FCT,True,False,True
+NGF000115,54,Male,Primary Incomplete,3,Widowed,6,113000.0,South South,Bayelsa,True,True,True
+NGF000116,59,Female,No Formal Education,0,Widowed,7,0.0,South East,Abia,True,True,True
+NGF000117,36,Female,Primary Complete,6,Married,4,0.0,North West,Kebbi,False,True,False
+NGF000118,39,Male,Primary Complete,6,Married,9,0.0,South South,Cross River,False,True,True
+NGF000119,49,Female,Primary Incomplete,3,Married,9,0.0,South South,Delta,False,False,True
+NGF000120,56,Male,OND/NCE,14,Single,1,290000.0,South West,Osun,False,False,True
+NGF000121,35,Male,Secondary Complete,12,Married,2,375000.0,North West,Zamfara,False,True,True
+NGF000122,21,Male,No Formal Education,0,Single,1,0.0,South West,Ekiti,True,True,True
+NGF000123,60,Male,Primary Complete,6,Married,9,133000.0,North Central,Kwara,False,True,True
+NGF000124,45,Female,OND/NCE,14,Widowed,10,0.0,North Central,Benue,True,False,True
+NGF000125,18,Male,Secondary Incomplete,9,Married,2,0.0,North East,Taraba,True,True,False
+NGF000126,19,Male,Secondary Complete,12,Single,1,0.0,South East,Anambra,True,False,False
+NGF000127,25,Male,Primary Complete,6,Married,6,145000.0,North East,Taraba,True,False,True
+NGF000128,50,Male,No Formal Education,0,Married,6,0.0,South South,Bayelsa,True,True,True
+NGF000129,23,Male,No Formal Education,0,Married,3,0.0,South South,Rivers,True,True,False
+NGF000130,18,Male,No Formal Education,0,Single,1,0.0,North Central,Niger,False,False,True
+NGF000131,61,Male,Primary Incomplete,3,Married,6,82000.0,North East,Gombe,True,True,False
+NGF000132,30,Female,No Formal Education,0,Married,7,52000.0,South East,Abia,False,True,True
+NGF000133,55,Male,No Formal Education,0,Married,11,84000.0,North Central,Benue,True,False,False
+NGF000134,20,Male,Primary Complete,6,Married,3,0.0,North Central,Kogi,True,True,True
+NGF000135,43,Male,Secondary Complete,12,Married,4,401000.0,South West,Ekiti,True,False,False
+NGF000136,32,Male,Primary Complete,6,Married,9,168000.0,North East,Taraba,True,True,False
+NGF000137,45,Male,Secondary Incomplete,9,Married,7,125000.0,South West,Ekiti,False,False,True
+NGF000138,26,Female,Primary Incomplete,3,Married,2,0.0,South South,Cross River,True,False,True
+NGF000139,20,Male,Secondary Incomplete,9,Single,2,0.0,South West,Ogun,True,True,False
+NGF000140,49,Male,Primary Complete,6,Widowed,7,126000.0,North West,Katsina,False,False,True
+NGF000141,65,Male,Secondary Incomplete,9,Married,13,0.0,North West,Kebbi,False,False,True
+NGF000142,51,Female,Secondary Complete,12,Married,3,0.0,South West,Ondo,False,True,True
+NGF000143,53,Female,No Formal Education,0,Widowed,2,0.0,North Central,Nasarawa,True,True,False
+NGF000144,40,Male,Primary Complete,6,Married,13,181000.0,South South,Bayelsa,True,True,False
+NGF000145,18,Male,No Formal Education,0,Single,3,0.0,North East,Taraba,True,False,False
+NGF000146,43,Female,OND/NCE,14,Married,12,0.0,North Central,Benue,False,False,False
+NGF000147,43,Male,Secondary Complete,12,Married,3,345000.0,North East,Borno,True,False,False
+NGF000148,34,Male,Secondary Incomplete,9,Widowed,6,0.0,South South,Delta,True,True,False
+NGF000149,26,Male,Secondary Complete,12,Widowed,1,375000.0,South East,Anambra,False,False,True
+NGF000150,49,Male,Secondary Complete,12,Divorced,2,0.0,South East,Enugu,True,True,True
+NGF000151,50,Male,No Formal Education,0,Married,12,0.0,South West,Ekiti,False,True,False
+NGF000152,50,Female,Primary Complete,6,Married,11,154000.0,South South,Cross River,True,True,True
+NGF000153,31,Male,Masters/PhD,18,Widowed,9,0.0,South South,Akwa Ibom,True,False,False
+NGF000154,46,Male,Primary Incomplete,3,Married,4,0.0,North East,Yobe,False,False,True
+NGF000155,27,Female,No Formal Education,0,Married,3,67000.0,South West,Ondo,True,True,True
+NGF000156,63,Male,Secondary Complete,12,Married,11,347000.0,South West,Lagos,False,True,True
+NGF000157,26,Male,Primary Complete,6,Married,5,0.0,North Central,Niger,False,False,True
+NGF000158,57,Male,Primary Incomplete,3,Married,5,103000.0,South West,Osun,False,False,True
+NGF000159,46,Male,No Formal Education,0,Married,12,70000.0,North East,Yobe,True,False,False
+NGF000160,61,Female,Secondary Complete,12,Widowed,3,384000.0,South South,Delta,True,True,True
+NGF000161,63,Female,No Formal Education,0,Married,8,0.0,North East,Adamawa,False,True,False
+NGF000162,19,Male,Primary Incomplete,3,Married,4,0.0,North East,Bauchi,True,False,True
+NGF000163,21,Male,Secondary Complete,12,Married,2,0.0,South South,Delta,False,True,True
+NGF000164,36,Male,Primary Incomplete,3,Married,6,0.0,South South,Akwa Ibom,True,True,True
+NGF000165,20,Male,Primary Incomplete,3,Married,3,0.0,South West,Ogun,False,False,False
+NGF000166,63,Male,HND/BSc,16,Married,4,340000.0,North Central,Nasarawa,True,False,False
+NGF000167,23,Male,Primary Incomplete,3,Single,4,0.0,South West,Ogun,True,True,True
+NGF000168,16,Male,Primary Incomplete,3,Single,3,0.0,North East,Yobe,True,True,True
+NGF000169,16,Male,No Formal Education,0,Single,1,0.0,North East,Adamawa,True,True,False
+NGF000170,26,Female,Secondary Complete,12,Married,5,0.0,North West,Kano,True,True,False
+NGF000171,16,Male,Secondary Incomplete,9,Single,2,0.0,South South,Akwa Ibom,True,False,False
+NGF000172,53,Male,Primary Complete,6,Widowed,10,0.0,South West,Ogun,True,True,False
+NGF000173,23,Female,Primary Incomplete,3,Single,1,0.0,North Central,Plateau,True,True,True
+NGF000174,31,Male,No Formal Education,0,Married,7,112000.0,South West,Oyo,True,True,True
+NGF000175,29,Male,Secondary Incomplete,9,Divorced,1,0.0,North West,Kaduna,True,True,True
+NGF000176,21,Male,Secondary Complete,12,Married,3,303000.0,South South,Bayelsa,False,True,True
+NGF000177,64,Male,Secondary Complete,12,Married,2,0.0,North West,Kaduna,False,True,True
+NGF000178,56,Male,No Formal Education,0,Married,5,0.0,South East,Ebonyi,False,True,True
+NGF000179,40,Male,OND/NCE,14,Married,13,0.0,North West,Sokoto,False,True,True
+NGF000180,16,Male,No Formal Education,0,Single,1,55000.0,North Central,Kogi,False,True,False
+NGF000181,24,Female,Primary Incomplete,3,Married,2,0.0,South East,Imo,False,True,False
+NGF000182,30,Female,Primary Complete,6,Divorced,1,0.0,South East,Abia,False,True,False
+NGF000183,62,Male,Secondary Complete,12,Widowed,8,0.0,South West,Oyo,False,False,False
+NGF000184,62,Male,Primary Complete,6,Married,8,0.0,South West,Oyo,True,False,True
+NGF000185,61,Female,Masters/PhD,18,Single,3,0.0,North East,Yobe,False,True,True
+NGF000186,36,Female,Primary Incomplete,3,Married,5,62000.0,North Central,Kogi,True,True,True
+NGF000187,43,Male,Primary Incomplete,3,Married,13,118000.0,North West,Kano,True,False,True
+NGF000188,30,Male,Secondary Complete,12,Widowed,10,0.0,North Central,Benue,False,True,True
+NGF000189,51,Female,Secondary Incomplete,9,Single,1,226000.0,South East,Imo,True,True,True
+NGF000190,17,Male,No Formal Education,0,Single,2,0.0,South East,Anambra,False,True,False
+NGF000191,16,Male,No Formal Education,0,Single,1,84000.0,North West,Sokoto,False,False,False
+NGF000192,50,Male,Secondary Incomplete,9,Married,2,0.0,North Central,Niger,False,False,True
+NGF000193,24,Male,Secondary Complete,12,Married,4,263000.0,North East,Borno,True,True,False
+NGF000194,62,Male,Primary Incomplete,3,Married,6,0.0,North West,Zamfara,False,True,True
+NGF000195,61,Male,No Formal Education,0,Married,13,0.0,North West,Jigawa,False,True,True
+NGF000196,28,Male,Secondary Incomplete,9,Married,4,0.0,South East,Ebonyi,False,False,True
+NGF000197,28,Male,Primary Incomplete,3,Widowed,2,132000.0,South West,Osun,True,True,False
+NGF000198,38,Male,Primary Incomplete,3,Married,2,0.0,South West,Osun,False,True,False
+NGF000199,59,Female,Primary Complete,6,Single,2,189000.0,North Central,Kwara,True,True,True
+NGF000200,62,Female,No Formal Education,0,Divorced,1,100000.0,South East,Ebonyi,False,True,True
+NGF000201,63,Male,Primary Incomplete,3,Married,4,0.0,South South,Delta,True,False,True
+NGF000202,33,Male,No Formal Education,0,Married,12,75000.0,South South,Cross River,True,False,True
+NGF000203,40,Male,Secondary Complete,12,Married,3,280000.0,North Central,Benue,False,True,False
+NGF000204,17,Male,No Formal Education,0,Single,2,0.0,South South,Bayelsa,False,True,False
+NGF000205,54,Male,Primary Complete,6,Single,4,127000.0,South East,Anambra,False,True,False
+NGF000206,25,Male,Secondary Incomplete,9,Single,3,255000.0,North Central,Nasarawa,True,True,True
+NGF000207,57,Male,Secondary Complete,12,Married,4,0.0,South South,Akwa Ibom,False,True,False
+NGF000208,59,Male,Primary Complete,6,Married,14,0.0,South South,Edo,False,False,False
+NGF000209,19,Male,Secondary Complete,12,Married,3,366000.0,North West,Kaduna,True,True,False
+NGF000210,17,Female,No Formal Education,0,Single,3,0.0,North West,Kebbi,True,True,True
+NGF000211,57,Male,Primary Complete,6,Married,13,0.0,South West,Ondo,False,True,False
+NGF000212,27,Male,Primary Complete,6,Married,3,109000.0,South East,Enugu,True,False,True
+NGF000213,27,Female,Primary Incomplete,3,Married,2,76000.0,South South,Rivers,False,True,False
+NGF000214,30,Male,Primary Incomplete,3,Married,13,0.0,South West,Oyo,False,False,True
+NGF000215,45,Male,Secondary Complete,12,Married,4,402000.0,North Central,Kwara,False,False,True
+NGF000216,31,Male,Primary Incomplete,3,Married,11,108000.0,South West,Ekiti,False,False,False
+NGF000217,43,Male,Primary Complete,6,Widowed,5,0.0,North West,Kaduna,False,False,True
+NGF000218,27,Female,No Formal Education,0,Single,4,0.0,North East,Adamawa,False,True,False
+NGF000219,60,Male,Primary Complete,6,Married,4,0.0,North Central,Niger,True,True,False
+NGF000220,39,Male,Secondary Complete,12,Married,5,0.0,North West,Kebbi,True,False,True
+NGF000221,53,Male,Primary Incomplete,3,Married,13,0.0,North Central,Kwara,True,True,True
+NGF000222,39,Female,Secondary Complete,12,Married,11,277000.0,South South,Rivers,True,True,False
+NGF000223,61,Male,Secondary Complete,12,Divorced,2,0.0,North West,Kebbi,False,True,True
+NGF000224,52,Male,Primary Complete,6,Widowed,4,0.0,North East,Borno,False,True,False
+NGF000225,28,Male,OND/NCE,14,Married,3,0.0,North East,Taraba,True,True,False
+NGF000226,36,Male,No Formal Education,0,Married,10,0.0,North East,Adamawa,True,False,True
+NGF000227,40,Male,Primary Complete,6,Married,4,179000.0,North East,Taraba,True,True,False
+NGF000228,56,Male,Secondary Complete,12,Married,3,286000.0,North East,Adamawa,False,False,False
+NGF000229,39,Male,No Formal Education,0,Married,8,69000.0,South South,Delta,False,True,True
+NGF000230,34,Female,Primary Incomplete,3,Widowed,2,0.0,North West,Kebbi,False,True,True
+NGF000231,50,Male,Primary Complete,6,Married,14,126000.0,North East,Bauchi,True,False,False
+NGF000232,41,Female,Primary Complete,6,Married,4,116000.0,North Central,Nasarawa,True,True,False
+NGF000233,34,Male,Primary Incomplete,3,Married,4,0.0,South West,Lagos,True,True,True
+NGF000234,25,Female,Secondary Complete,12,Married,4,258000.0,North East,Yobe,True,True,True
+NGF000235,48,Male,No Formal Education,0,Married,3,53000.0,North East,Bauchi,False,True,True
+NGF000236,39,Male,Primary Complete,6,Married,11,99000.0,North West,Jigawa,True,True,True
+NGF000237,40,Female,Secondary Incomplete,9,Married,7,0.0,South East,Enugu,False,True,True
+NGF000238,43,Male,Primary Complete,6,Married,13,179000.0,South East,Anambra,True,True,False
+NGF000239,41,Male,No Formal Education,0,Married,10,60000.0,North East,Yobe,False,False,False
+NGF000240,54,Male,Primary Incomplete,3,Married,8,0.0,North Central,Plateau,False,False,False
+NGF000241,23,Male,Secondary Complete,12,Married,4,276000.0,South East,Ebonyi,False,True,True
+NGF000242,39,Male,Primary Complete,6,Widowed,3,97000.0,South West,Ogun,False,True,False
+NGF000243,30,Male,Secondary Incomplete,9,Married,14,0.0,North West,Sokoto,True,False,False
+NGF000244,35,Male,No Formal Education,0,Married,6,0.0,North West,Jigawa,True,True,True
+NGF000245,46,Male,Primary Complete,6,Married,3,0.0,South West,Lagos,False,True,True
+NGF000246,44,Male,No Formal Education,0,Married,13,76000.0,South West,Osun,True,True,True
+NGF000247,28,Female,Secondary Complete,12,Married,3,0.0,South South,Bayelsa,True,True,False
+NGF000248,24,Male,Primary Incomplete,3,Married,3,0.0,South West,Lagos,True,True,False
+NGF000249,57,Male,Secondary Complete,12,Married,5,321000.0,South West,Osun,True,True,True
+NGF000250,51,Male,Secondary Incomplete,9,Married,4,172000.0,North Central,Nasarawa,True,True,True
+NGF000251,54,Male,Secondary Complete,12,Divorced,7,410000.0,North Central,Plateau,True,True,False
+NGF000252,40,Male,Secondary Complete,12,Married,13,385000.0,South East,Abia,False,True,True
+NGF000253,31,Female,Secondary Complete,12,Married,5,0.0,South East,Imo,True,True,False
+NGF000254,26,Male,OND/NCE,14,Married,4,537000.0,South South,Delta,False,False,True
+NGF000255,41,Male,Primary Incomplete,3,Single,4,115000.0,South East,Imo,True,True,True
+NGF000256,23,Female,Secondary Incomplete,9,Married,6,0.0,North East,Borno,False,True,True
+NGF000257,36,Male,Secondary Complete,12,Divorced,2,0.0,South South,Cross River,True,True,True
+NGF000258,61,Male,Primary Complete,6,Married,6,0.0,North West,Zamfara,True,False,True
+NGF000259,23,Male,Secondary Complete,12,Married,2,407000.0,North East,Borno,True,False,False
+NGF000260,19,Male,Secondary Complete,12,Single,1,331000.0,North West,Kano,True,True,True
+NGF000261,22,Male,Secondary Complete,12,Married,4,0.0,South West,Ekiti,False,True,False
+NGF000262,32,Male,Secondary Complete,12,Married,14,229000.0,South East,Imo,True,True,False
+NGF000263,20,Male,Secondary Complete,12,Single,1,390000.0,South West,Lagos,False,False,True
+NGF000264,37,Female,Primary Complete,6,Single,4,109000.0,South East,Enugu,False,True,True
+NGF000265,49,Male,Secondary Complete,12,Married,14,0.0,North West,Kano,True,True,False
+NGF000266,20,Female,No Formal Education,0,Married,3,0.0,North West,Jigawa,False,True,True
+NGF000267,18,Female,No Formal Education,0,Married,3,0.0,North Central,Kogi,False,True,False
+NGF000268,50,Female,No Formal Education,0,Married,3,0.0,South West,Ekiti,False,True,True
+NGF000269,22,Male,Secondary Incomplete,9,Married,5,0.0,North Central,Kogi,True,True,True
+NGF000270,43,Male,Primary Complete,6,Married,9,138000.0,South South,Rivers,False,True,True
+NGF000271,54,Male,Secondary Complete,12,Married,14,325000.0,South West,Oyo,False,False,True
+NGF000272,42,Male,Secondary Complete,12,Married,13,0.0,North Central,FCT,False,True,False
+NGF000273,20,Male,OND/NCE,14,Married,3,496000.0,North West,Sokoto,True,False,True
+NGF000274,20,Male,Secondary Complete,12,Single,3,220000.0,North East,Yobe,True,True,False
+NGF000275,44,Male,No Formal Education,0,Married,9,56000.0,North East,Yobe,False,False,True
+NGF000276,50,Male,No Formal Education,0,Married,5,89000.0,North Central,Kwara,True,True,True
+NGF000277,27,Male,No Formal Education,0,Married,5,0.0,South West,Ekiti,False,True,False
+NGF000278,63,Male,Primary Incomplete,3,Married,10,0.0,North Central,Niger,False,True,False
+NGF000279,51,Male,Primary Incomplete,3,Married,14,0.0,North West,Kano,True,False,True
+NGF000280,19,Female,Secondary Incomplete,9,Married,2,124000.0,North West,Kaduna,False,False,False
+NGF000281,20,Male,OND/NCE,14,Married,2,0.0,North West,Kebbi,True,False,True
+NGF000282,50,Male,No Formal Education,0,Married,3,59000.0,South West,Oyo,False,True,True
+NGF000283,35,Male,No Formal Education,0,Married,4,0.0,North West,Kebbi,False,True,True
+NGF000284,18,Male,Primary Incomplete,3,Married,4,0.0,South West,Oyo,False,True,True
+NGF000285,54,Male,OND/NCE,14,Single,2,243000.0,South South,Delta,True,True,True
+NGF000286,38,Female,Secondary Incomplete,9,Married,13,0.0,South East,Abia,True,True,False
+NGF000287,22,Male,Primary Complete,6,Married,2,0.0,North East,Gombe,True,True,True
+NGF000288,19,Male,Primary Complete,6,Single,2,98000.0,North Central,Benue,False,True,False
+NGF000289,37,Male,Primary Complete,6,Married,3,102000.0,South East,Anambra,True,False,False
+NGF000290,29,Female,Secondary Incomplete,9,Married,6,0.0,North West,Kano,False,False,False
+NGF000291,50,Female,Secondary Complete,12,Married,4,0.0,South East,Ebonyi,True,True,False
+NGF000292,18,Male,Primary Complete,6,Single,2,0.0,North West,Kano,False,True,True
+NGF000293,44,Male,Primary Complete,6,Single,1,174000.0,South South,Bayelsa,False,True,True
+NGF000294,22,Male,Primary Complete,6,Married,2,0.0,North East,Gombe,True,True,True
+NGF000295,39,Male,Primary Complete,6,Single,1,130000.0,North Central,FCT,False,False,True
+NGF000296,19,Female,No Formal Education,0,Single,1,65000.0,North East,Borno,False,False,True
+NGF000297,43,Male,No Formal Education,0,Widowed,1,0.0,South East,Enugu,False,True,False
+NGF000298,55,Female,Secondary Incomplete,9,Married,14,0.0,North Central,Niger,True,False,False
+NGF000299,46,Male,Primary Complete,6,Married,8,0.0,North Central,Kwara,False,False,False
+NGF000300,29,Male,Secondary Complete,12,Married,3,336000.0,North East,Taraba,False,True,True
+NGF000301,35,Female,Primary Complete,6,Married,12,107000.0,North Central,Benue,True,True,True
+NGF000302,56,Male,Primary Complete,6,Widowed,8,162000.0,North East,Bauchi,False,False,False
+NGF000303,33,Male,No Formal Education,0,Married,4,57000.0,South West,Ondo,False,True,False
+NGF000304,33,Male,No Formal Education,0,Married,10,93000.0,South South,Edo,False,True,True
+NGF000305,36,Male,Secondary Incomplete,9,Married,14,0.0,North Central,FCT,True,False,True
+NGF000306,30,Female,Primary Incomplete,3,Widowed,5,0.0,North Central,Niger,True,False,True
+NGF000307,16,Male,Primary Complete,6,Single,2,141000.0,North Central,FCT,True,True,True
+NGF000308,55,Male,Primary Complete,6,Married,7,0.0,South East,Imo,True,False,True
+NGF000309,52,Male,Secondary Incomplete,9,Married,6,0.0,North Central,Kogi,False,True,False
+NGF000310,25,Male,Primary Complete,6,Single,3,0.0,South West,Oyo,True,False,True
+NGF000311,51,Male,HND/BSc,16,Married,11,0.0,North Central,Plateau,False,False,False
+NGF000312,44,Female,Primary Complete,6,Married,3,136000.0,South East,Imo,True,True,True
+NGF000313,51,Female,Secondary Complete,12,Married,8,0.0,South West,Oyo,True,True,True
+NGF000314,42,Male,No Formal Education,0,Married,13,0.0,South South,Bayelsa,False,True,True
+NGF000315,31,Male,Primary Complete,6,Widowed,5,176000.0,North Central,Niger,True,False,True
+NGF000316,26,Male,No Formal Education,0,Married,6,100000.0,South West,Osun,True,False,True
+NGF000317,59,Male,No Formal Education,0,Married,7,0.0,South West,Oyo,False,False,True
+NGF000318,43,Male,No Formal Education,0,Single,4,0.0,South South,Bayelsa,True,False,False
+NGF000319,63,Male,Primary Complete,6,Married,12,98000.0,South South,Edo,True,True,False
+NGF000320,39,Female,No Formal Education,0,Married,3,0.0,North Central,FCT,False,True,True
+NGF000321,37,Female,Secondary Incomplete,9,Married,9,176000.0,North East,Yobe,True,True,True
+NGF000322,18,Male,Secondary Incomplete,9,Single,2,0.0,South South,Edo,True,True,False
+NGF000323,32,Male,Primary Incomplete,3,Married,6,64000.0,South West,Ogun,False,True,True
+NGF000324,49,Male,Secondary Incomplete,9,Married,7,0.0,North Central,Plateau,True,True,True
+NGF000325,34,Male,No Formal Education,0,Widowed,5,0.0,South East,Enugu,False,True,False
+NGF000326,27,Male,Primary Incomplete,3,Single,2,0.0,North East,Gombe,True,False,False
+NGF000327,20,Male,No Formal Education,0,Single,3,88000.0,North Central,Kogi,False,False,False
+NGF000328,23,Male,Secondary Incomplete,9,Single,4,0.0,North Central,Nasarawa,False,True,True
+NGF000329,30,Male,Primary Incomplete,3,Married,7,76000.0,South East,Ebonyi,True,True,False
+NGF000330,52,Female,Primary Complete,6,Married,4,0.0,North East,Bauchi,True,False,True
+NGF000331,28,Male,No Formal Education,0,Single,3,0.0,South East,Ebonyi,True,True,True
+NGF000332,55,Female,No Formal Education,0,Married,2,0.0,South East,Anambra,False,True,True
+NGF000333,49,Male,Primary Complete,6,Married,13,144000.0,North East,Adamawa,True,False,True
+NGF000334,30,Male,Primary Complete,6,Married,2,0.0,South West,Osun,True,False,False
+NGF000335,32,Male,Primary Incomplete,3,Married,12,0.0,North West,Sokoto,False,False,True
+NGF000336,34,Male,Primary Complete,6,Married,9,0.0,North East,Adamawa,True,False,True
+NGF000337,36,Female,No Formal Education,0,Divorced,4,82000.0,North West,Kebbi,False,False,True
+NGF000338,29,Male,Primary Incomplete,3,Married,6,134000.0,North West,Kano,False,False,True
+NGF000339,52,Male,Secondary Complete,12,Married,5,366000.0,North West,Kano,True,True,True
+NGF000340,53,Male,Primary Incomplete,3,Widowed,6,120000.0,South South,Rivers,False,False,False
+NGF000341,37,Female,Primary Complete,6,Single,2,105000.0,North Central,Benue,False,False,True
+NGF000342,24,Male,OND/NCE,14,Married,6,0.0,North Central,Niger,True,False,True
+NGF000343,50,Male,Secondary Complete,12,Married,6,0.0,South South,Akwa Ibom,True,False,False
+NGF000344,33,Male,Secondary Complete,12,Widowed,9,0.0,North West,Zamfara,True,True,True
+NGF000345,61,Male,Primary Incomplete,3,Married,7,0.0,South East,Imo,False,True,True
+NGF000346,42,Male,Secondary Incomplete,9,Married,8,0.0,North East,Yobe,True,True,True
+NGF000347,39,Male,No Formal Education,0,Single,3,107000.0,South South,Edo,False,True,False
+NGF000348,42,Male,Primary Incomplete,3,Married,10,93000.0,South West,Ogun,False,False,True
+NGF000349,63,Male,No Formal Education,0,Widowed,1,0.0,South East,Enugu,False,False,True
+NGF000350,23,Male,OND/NCE,14,Single,4,0.0,South South,Bayelsa,True,True,False
+NGF000351,54,Male,Secondary Complete,12,Single,4,193000.0,South South,Delta,False,False,False
+NGF000352,63,Male,Masters/PhD,18,Married,3,800000.0,South South,Cross River,True,True,False
+NGF000353,40,Female,OND/NCE,14,Married,4,444000.0,South South,Cross River,True,True,False
+NGF000354,33,Male,Secondary Complete,12,Married,3,0.0,North Central,Benue,True,True,False
+NGF000355,53,Female,Primary Complete,6,Single,1,171000.0,North West,Kaduna,True,True,True
+NGF000356,42,Male,No Formal Education,0,Married,3,0.0,North Central,Plateau,True,False,True
+NGF000357,44,Male,Secondary Incomplete,9,Married,13,242000.0,North East,Borno,True,True,True
+NGF000358,37,Male,No Formal Education,0,Married,7,0.0,North East,Adamawa,True,True,True
+NGF000359,64,Male,Secondary Incomplete,9,Married,5,0.0,North Central,Plateau,False,False,True
+NGF000360,54,Female,No Formal Education,0,Married,14,0.0,North West,Jigawa,True,False,True
+NGF000361,54,Male,No Formal Education,0,Married,2,101000.0,North West,Kano,True,True,True
+NGF000362,43,Female,HND/BSc,16,Single,2,518000.0,North Central,FCT,True,True,True
+NGF000363,17,Male,No Formal Education,0,Single,1,0.0,North Central,FCT,True,False,True
+NGF000364,19,Male,Primary Complete,6,Single,2,0.0,South South,Cross River,True,False,False
+NGF000365,28,Male,No Formal Education,0,Married,3,54000.0,North Central,Kogi,False,True,True
+NGF000366,49,Male,Primary Incomplete,3,Married,13,0.0,North East,Taraba,False,True,True
+NGF000367,54,Male,Secondary Incomplete,9,Married,13,276000.0,South West,Osun,True,True,True
+NGF000368,44,Male,Secondary Complete,12,Widowed,2,0.0,South East,Enugu,True,False,False
+NGF000369,33,Female,Primary Incomplete,3,Married,10,0.0,North Central,Nasarawa,False,True,True
+NGF000370,44,Female,Secondary Complete,12,Married,8,0.0,North West,Jigawa,True,False,True
+NGF000371,65,Male,No Formal Education,0,Married,10,52000.0,North West,Sokoto,True,True,False
+NGF000372,16,Female,Primary Incomplete,3,Single,1,0.0,North West,Sokoto,True,False,True
+NGF000373,63,Male,Secondary Complete,12,Married,2,0.0,South South,Delta,False,True,False
+NGF000374,20,Male,Primary Complete,6,Single,3,0.0,South West,Ogun,True,False,True
+NGF000375,47,Male,Secondary Complete,12,Single,3,215000.0,South South,Delta,False,False,True
+NGF000376,28,Male,OND/NCE,14,Single,4,0.0,South West,Oyo,True,True,False
+NGF000377,23,Male,Primary Incomplete,3,Single,3,117000.0,South East,Imo,True,True,True
+NGF000378,22,Male,Secondary Complete,12,Married,5,0.0,South South,Cross River,False,True,False
+NGF000379,52,Male,Secondary Complete,12,Single,3,0.0,North East,Bauchi,True,False,True
+NGF000380,36,Male,Secondary Complete,12,Married,14,0.0,North Central,Niger,True,False,False
+NGF000381,29,Male,Secondary Incomplete,9,Married,3,0.0,South East,Anambra,True,True,False
+NGF000382,46,Male,Secondary Incomplete,9,Widowed,6,173000.0,North West,Kaduna,True,False,True
+NGF000383,16,Male,Primary Incomplete,3,Single,1,0.0,South South,Akwa Ibom,True,True,True
+NGF000384,37,Male,Primary Incomplete,3,Widowed,10,81000.0,South West,Lagos,False,True,True
+NGF000385,53,Male,No Formal Education,0,Married,13,0.0,South South,Bayelsa,True,False,True
+NGF000386,51,Male,Secondary Complete,12,Married,8,312000.0,South West,Oyo,False,True,True
+NGF000387,56,Male,Secondary Incomplete,9,Married,9,0.0,South West,Oyo,False,False,True
+NGF000388,38,Female,Primary Complete,6,Widowed,5,0.0,South West,Ogun,False,True,False
+NGF000389,22,Male,Primary Complete,6,Married,3,159000.0,North West,Jigawa,False,True,True
+NGF000390,65,Male,Secondary Complete,12,Married,5,0.0,South East,Abia,False,True,True
+NGF000391,34,Female,No Formal Education,0,Divorced,4,107000.0,North East,Taraba,True,False,False
+NGF000392,18,Male,Primary Complete,6,Married,4,127000.0,South South,Rivers,False,True,True
+NGF000393,26,Male,No Formal Education,0,Married,3,0.0,North West,Kebbi,False,False,False
+NGF000394,31,Male,No Formal Education,0,Married,9,0.0,North East,Borno,True,True,True
+NGF000395,51,Male,Primary Complete,6,Married,4,0.0,North East,Adamawa,False,True,False
+NGF000396,18,Male,Primary Incomplete,3,Single,2,0.0,South West,Oyo,False,True,False
+NGF000397,57,Female,Secondary Complete,12,Married,10,320000.0,South West,Osun,False,True,False
+NGF000398,25,Male,Secondary Incomplete,9,Married,6,0.0,South East,Enugu,True,True,True
+NGF000399,22,Female,Primary Incomplete,3,Married,5,0.0,North Central,Nasarawa,True,False,True
+NGF000400,53,Male,Primary Complete,6,Widowed,8,0.0,South West,Ondo,True,True,True
+NGF000401,29,Female,Secondary Complete,12,Married,4,0.0,North West,Jigawa,True,False,True
+NGF000402,16,Male,Primary Incomplete,3,Single,1,0.0,South South,Akwa Ibom,True,True,False
+NGF000403,24,Male,Primary Complete,6,Married,6,170000.0,South South,Cross River,True,True,True
+NGF000404,40,Male,HND/BSc,16,Divorced,2,0.0,North West,Kaduna,True,True,False
+NGF000405,42,Male,OND/NCE,14,Married,5,328000.0,North West,Kebbi,False,False,False
+NGF000406,24,Male,Primary Complete,6,Single,2,0.0,North East,Borno,True,True,True
+NGF000407,23,Male,Secondary Incomplete,9,Married,4,0.0,South South,Akwa Ibom,True,True,False
+NGF000408,37,Male,Primary Incomplete,3,Married,2,90000.0,South East,Enugu,False,False,True
+NGF000409,55,Male,HND/BSc,16,Married,14,0.0,North Central,FCT,True,False,False
+NGF000410,44,Male,Primary Incomplete,3,Married,7,0.0,South West,Lagos,True,True,False
+NGF000411,26,Male,No Formal Education,0,Single,2,50000.0,North West,Zamfara,False,True,True
+NGF000412,35,Male,No Formal Education,0,Married,14,0.0,North West,Sokoto,True,False,False
+NGF000413,56,Male,No Formal Education,0,Widowed,9,53000.0,North East,Yobe,True,True,True
+NGF000414,36,Female,Primary Complete,6,Married,2,201000.0,North Central,Nasarawa,True,False,False
+NGF000415,40,Male,Primary Complete,6,Widowed,1,124000.0,North Central,Niger,False,True,True
+NGF000416,50,Male,Secondary Complete,12,Married,9,0.0,North West,Kano,True,True,False
+NGF000417,20,Male,Secondary Complete,12,Married,4,0.0,North West,Kano,False,True,True
+NGF000418,30,Male,Secondary Complete,12,Divorced,8,0.0,South South,Edo,True,True,True
+NGF000419,35,Female,Primary Complete,6,Married,2,149000.0,South South,Edo,True,False,False
+NGF000420,20,Female,OND/NCE,14,Married,2,0.0,South East,Anambra,True,False,False
+NGF000421,16,Female,No Formal Education,0,Single,1,58000.0,North Central,Plateau,False,True,True
+NGF000422,43,Male,HND/BSc,16,Married,3,0.0,North Central,FCT,False,True,True
+NGF000423,27,Male,Primary Complete,6,Married,3,123000.0,North West,Jigawa,True,True,True
+NGF000424,38,Male,Secondary Incomplete,9,Divorced,8,123000.0,North Central,Plateau,True,False,True
+NGF000425,21,Male,Secondary Complete,12,Married,2,367000.0,South South,Akwa Ibom,False,False,False
+NGF000426,26,Male,HND/BSc,16,Single,1,0.0,South South,Akwa Ibom,False,True,True
+NGF000427,33,Male,No Formal Education,0,Widowed,3,0.0,South East,Anambra,True,True,True
+NGF000428,64,Male,Secondary Incomplete,9,Married,9,0.0,North Central,Benue,True,True,False
+NGF000429,37,Male,Primary Complete,6,Married,7,167000.0,South South,Rivers,True,True,False
+NGF000430,25,Male,Primary Complete,6,Single,2,0.0,North Central,Kogi,True,True,False
+NGF000431,42,Female,Secondary Incomplete,9,Married,13,0.0,North Central,Nasarawa,True,True,True
+NGF000432,57,Male,Primary Incomplete,3,Widowed,7,0.0,North Central,Kogi,False,False,False
+NGF000433,65,Male,Secondary Incomplete,9,Married,5,0.0,South South,Rivers,True,False,True
+NGF000434,39,Male,OND/NCE,14,Married,13,0.0,South East,Ebonyi,True,True,False
+NGF000435,25,Female,Primary Incomplete,3,Married,4,0.0,South South,Akwa Ibom,True,True,False
+NGF000436,44,Male,No Formal Education,0,Married,8,0.0,South South,Delta,True,False,True
+NGF000437,29,Male,Primary Incomplete,3,Married,4,0.0,North West,Katsina,True,True,True
+NGF000438,57,Male,Primary Complete,6,Single,1,150000.0,North Central,Kwara,False,True,True
+NGF000439,24,Female,Secondary Complete,12,Married,5,414000.0,North East,Yobe,True,True,True
+NGF000440,47,Female,Secondary Incomplete,9,Married,13,0.0,North East,Gombe,True,True,True
+NGF000441,24,Male,No Formal Education,0,Married,5,0.0,North Central,Kogi,True,True,False
+NGF000442,43,Male,Masters/PhD,18,Married,13,459000.0,South East,Ebonyi,True,False,False
+NGF000443,63,Female,Secondary Complete,12,Divorced,8,0.0,South West,Ogun,True,True,False
+NGF000444,64,Male,Secondary Complete,12,Married,3,218000.0,South East,Enugu,True,True,False
+NGF000445,21,Male,No Formal Education,0,Single,1,63000.0,North Central,Kogi,True,True,True
+NGF000446,55,Female,Secondary Complete,12,Married,6,282000.0,South South,Delta,True,True,True
+NGF000447,45,Male,No Formal Education,0,Married,2,83000.0,North Central,Kogi,True,True,False
+NGF000448,29,Male,Primary Incomplete,3,Divorced,4,0.0,North Central,FCT,True,True,True
+NGF000449,40,Male,No Formal Education,0,Married,13,62000.0,South South,Bayelsa,True,True,True
+NGF000450,41,Male,Primary Complete,6,Single,4,138000.0,South South,Rivers,True,False,True
+NGF000451,49,Female,HND/BSc,16,Married,8,559000.0,South West,Lagos,False,True,True
+NGF000452,40,Male,Primary Complete,6,Married,13,0.0,South West,Lagos,False,True,True
+NGF000453,48,Male,Primary Complete,6,Married,3,0.0,North East,Yobe,True,True,True
+NGF000454,53,Male,No Formal Education,0,Widowed,2,0.0,North West,Zamfara,False,True,True
+NGF000455,51,Female,Primary Incomplete,3,Married,8,111000.0,South West,Ondo,False,True,True
+NGF000456,25,Male,No Formal Education,0,Married,6,0.0,South South,Bayelsa,True,True,False
+NGF000457,41,Male,Secondary Incomplete,9,Married,13,201000.0,North East,Adamawa,True,False,True
+NGF000458,61,Male,Primary Complete,6,Married,14,203000.0,North East,Borno,True,False,True
+NGF000459,41,Female,Primary Incomplete,3,Married,6,0.0,North West,Kaduna,False,False,False
+NGF000460,62,Female,No Formal Education,0,Married,5,0.0,North Central,Kwara,True,False,False
+NGF000461,41,Female,No Formal Education,0,Married,6,0.0,North Central,Niger,False,False,False
+NGF000462,55,Male,Secondary Complete,12,Married,7,0.0,South South,Bayelsa,True,True,False
+NGF000463,16,Male,Primary Complete,6,Single,1,184000.0,South South,Rivers,True,True,True
+NGF000464,48,Male,No Formal Education,0,Single,3,0.0,North East,Borno,False,True,False
+NGF000465,57,Male,Primary Incomplete,3,Married,13,0.0,South South,Edo,True,True,True
+NGF000466,61,Female,Secondary Complete,12,Married,12,0.0,South East,Anambra,False,False,False
+NGF000467,33,Male,Primary Incomplete,3,Married,7,133000.0,North West,Kebbi,False,True,True
+NGF000468,45,Male,Secondary Complete,12,Married,8,235000.0,North Central,Plateau,False,True,False
+NGF000469,52,Female,Secondary Incomplete,9,Married,5,222000.0,North West,Katsina,True,True,True
+NGF000470,38,Female,No Formal Education,0,Married,6,0.0,South East,Anambra,False,True,True
+NGF000471,61,Female,OND/NCE,14,Married,12,0.0,North East,Gombe,True,False,True
+NGF000472,26,Male,Primary Incomplete,3,Married,4,0.0,North West,Kaduna,False,True,True
+NGF000473,26,Male,No Formal Education,0,Married,2,97000.0,South South,Delta,True,False,False
+NGF000474,31,Male,HND/BSc,16,Widowed,3,567000.0,South West,Lagos,False,False,True
+NGF000475,60,Male,No Formal Education,0,Married,12,93000.0,South South,Bayelsa,False,True,True
+NGF000476,48,Male,Secondary Incomplete,9,Married,3,231000.0,South West,Lagos,True,True,True
+NGF000477,24,Male,Primary Complete,6,Married,3,194000.0,North East,Bauchi,False,False,False
+NGF000478,20,Male,Primary Complete,6,Single,2,178000.0,South South,Cross River,True,True,False
+NGF000479,60,Male,Primary Complete,6,Widowed,6,0.0,South East,Imo,False,True,False
+NGF000480,35,Male,OND/NCE,14,Married,2,502000.0,North West,Kaduna,True,True,True
+NGF000481,33,Female,No Formal Education,0,Divorced,5,56000.0,North Central,Kogi,False,True,False
+NGF000482,58,Female,Primary Incomplete,3,Married,7,79000.0,South South,Cross River,False,False,False
+NGF000483,21,Male,Secondary Incomplete,9,Married,4,0.0,South South,Akwa Ibom,True,True,True
+NGF000484,35,Male,Primary Incomplete,3,Married,14,0.0,South West,Lagos,False,True,True
+NGF000485,18,Male,Secondary Incomplete,9,Single,1,0.0,North Central,FCT,True,True,False
+NGF000486,45,Female,Primary Complete,6,Widowed,3,99000.0,South West,Lagos,True,True,True
+NGF000487,40,Female,Primary Complete,6,Widowed,2,0.0,South East,Imo,True,True,True
+NGF000488,52,Female,Secondary Incomplete,9,Divorced,7,188000.0,South West,Oyo,False,False,True
+NGF000489,38,Female,Primary Complete,6,Married,12,99000.0,South South,Akwa Ibom,False,True,True
+NGF000490,34,Female,No Formal Education,0,Married,11,101000.0,South West,Ondo,True,True,True
+NGF000491,25,Male,Secondary Complete,12,Married,5,352000.0,South South,Bayelsa,False,True,True
+NGF000492,41,Male,Primary Incomplete,3,Widowed,6,136000.0,North West,Kebbi,True,False,True
+NGF000493,62,Male,Primary Complete,6,Married,3,0.0,North East,Taraba,True,True,True
+NGF000494,33,Male,Secondary Complete,12,Widowed,7,354000.0,North East,Yobe,False,True,False
+NGF000495,53,Male,Primary Complete,6,Married,13,0.0,South West,Oyo,True,True,True
+NGF000496,26,Male,Secondary Complete,12,Married,6,391000.0,North East,Taraba,False,True,True
+NGF000497,33,Female,Secondary Incomplete,9,Married,5,203000.0,South West,Oyo,True,True,True
+NGF000498,42,Male,No Formal Education,0,Married,7,0.0,South East,Ebonyi,False,True,False
+NGF000499,61,Male,Secondary Complete,12,Divorced,7,0.0,North East,Bauchi,False,True,False
+NGF000500,26,Female,No Formal Education,0,Single,5,89000.0,North Central,Nasarawa,True,True,False
+NGF000501,65,Female,Secondary Complete,12,Widowed,8,0.0,North Central,Niger,True,True,False
+NGF000502,63,Female,No Formal Education,0,Married,11,60000.0,South West,Ondo,True,True,False
+NGF000503,64,Male,Masters/PhD,18,Divorced,7,956000.0,North West,Kebbi,False,True,True
+NGF000504,25,Male,No Formal Education,0,Widowed,3,0.0,South East,Imo,True,False,True
+NGF000505,45,Male,Secondary Complete,12,Married,9,0.0,North East,Adamawa,False,True,True
+NGF000506,26,Female,Secondary Complete,12,Single,2,366000.0,South South,Delta,True,False,True
+NGF000507,35,Male,No Formal Education,0,Married,4,0.0,North West,Sokoto,True,False,False
+NGF000508,32,Male,Primary Complete,6,Single,1,170000.0,North Central,Plateau,False,True,False
+NGF000509,55,Male,No Formal Education,0,Widowed,3,72000.0,North Central,Plateau,True,False,True
+NGF000510,36,Female,Primary Incomplete,3,Divorced,8,0.0,North West,Katsina,True,False,False
+NGF000511,54,Male,No Formal Education,0,Married,11,67000.0,South West,Ogun,False,False,False
+NGF000512,27,Male,No Formal Education,0,Married,5,0.0,North Central,Kogi,False,False,True
+NGF000513,39,Female,Primary Complete,6,Married,4,0.0,South East,Imo,True,True,False
+NGF000514,35,Female,Primary Incomplete,3,Married,8,120000.0,North Central,Nasarawa,True,True,True
+NGF000515,44,Male,Secondary Complete,12,Married,4,0.0,South West,Ondo,False,False,True
+NGF000516,32,Male,No Formal Education,0,Married,7,92000.0,North Central,Kogi,False,True,False
+NGF000517,33,Male,OND/NCE,14,Single,4,0.0,North East,Adamawa,False,True,True
+NGF000518,37,Male,Primary Complete,6,Married,7,0.0,North West,Kebbi,True,False,True
+NGF000519,62,Female,Primary Incomplete,3,Married,3,0.0,South East,Ebonyi,False,True,True
+NGF000520,27,Male,Secondary Complete,12,Married,3,402000.0,South South,Rivers,True,True,True
+NGF000521,48,Male,Secondary Complete,12,Single,1,291000.0,North East,Borno,True,True,True
+NGF000522,41,Male,Primary Incomplete,3,Widowed,3,69000.0,South East,Imo,True,False,True
+NGF000523,47,Female,Primary Complete,6,Married,9,99000.0,South West,Ekiti,False,True,True
+NGF000524,40,Male,No Formal Education,0,Married,13,0.0,North East,Adamawa,True,True,True
+NGF000525,29,Male,Primary Incomplete,3,Married,2,0.0,North West,Kebbi,False,True,False
+NGF000526,38,Male,Secondary Complete,12,Married,10,0.0,South East,Abia,False,False,True
+NGF000527,50,Male,No Formal Education,0,Married,10,0.0,North Central,Plateau,False,False,True
+NGF000528,62,Male,Secondary Complete,12,Widowed,6,297000.0,South South,Edo,False,True,True
+NGF000529,61,Female,Secondary Complete,12,Widowed,4,414000.0,South East,Ebonyi,False,True,True
+NGF000530,38,Female,No Formal Education,0,Widowed,4,97000.0,South East,Imo,False,True,False
+NGF000531,30,Female,Secondary Incomplete,9,Married,13,198000.0,South East,Anambra,False,True,True
+NGF000532,17,Male,No Formal Education,0,Single,2,0.0,South West,Ekiti,False,False,False
+NGF000533,31,Male,No Formal Education,0,Married,3,61000.0,South East,Abia,True,True,True
+NGF000534,58,Female,Primary Incomplete,3,Married,2,84000.0,South East,Abia,False,True,False
+NGF000535,65,Male,Primary Complete,6,Married,13,103000.0,North West,Kebbi,True,False,False
+NGF000536,20,Male,No Formal Education,0,Single,2,0.0,South West,Ogun,False,True,False
+NGF000537,17,Female,No Formal Education,0,Single,2,0.0,North Central,Benue,True,False,True
+NGF000538,29,Male,Primary Complete,6,Married,5,142000.0,South South,Rivers,True,True,True
+NGF000539,51,Male,Secondary Incomplete,9,Married,3,0.0,North East,Adamawa,False,False,False
+NGF000540,45,Male,Primary Incomplete,3,Married,5,0.0,North East,Yobe,True,False,True
+NGF000541,49,Female,No Formal Education,0,Married,10,0.0,South West,Ogun,False,True,False
+NGF000542,55,Male,OND/NCE,14,Married,4,245000.0,South East,Imo,False,False,True
+NGF000543,42,Male,Primary Incomplete,3,Married,14,0.0,South West,Ondo,False,False,True
+NGF000544,21,Male,Secondary Complete,12,Married,3,319000.0,South East,Enugu,True,False,True
+NGF000545,30,Male,Primary Incomplete,3,Married,13,0.0,North East,Yobe,True,False,True
+NGF000546,16,Male,Primary Incomplete,3,Married,2,0.0,South East,Ebonyi,False,True,True
+NGF000547,38,Female,No Formal Education,0,Married,2,0.0,North Central,Nasarawa,False,True,False
+NGF000548,38,Female,No Formal Education,0,Married,10,0.0,North East,Yobe,False,True,False
+NGF000549,40,Male,Primary Complete,6,Married,2,201000.0,North Central,Niger,False,False,True
+NGF000550,46,Female,Secondary Complete,12,Divorced,5,0.0,South East,Enugu,True,False,False
+NGF000551,32,Male,Primary Incomplete,3,Married,7,0.0,North West,Kaduna,True,False,True
+NGF000552,43,Male,Secondary Incomplete,9,Widowed,3,175000.0,South South,Rivers,False,True,True
+NGF000553,46,Female,Primary Incomplete,3,Married,3,0.0,North East,Yobe,False,True,False
+NGF000554,30,Female,Primary Incomplete,3,Married,5,0.0,South West,Ondo,False,False,False
+NGF000555,54,Male,Secondary Incomplete,9,Married,2,0.0,South East,Ebonyi,True,True,False
+NGF000556,49,Female,Primary Incomplete,3,Married,9,0.0,South East,Enugu,True,True,True
+NGF000557,48,Male,Primary Complete,6,Married,13,0.0,North West,Kebbi,True,False,True
+NGF000558,35,Male,Primary Complete,6,Married,6,201000.0,North Central,Benue,True,True,True
+NGF000559,29,Female,No Formal Education,0,Married,5,53000.0,South West,Ogun,True,True,False
+NGF000560,59,Male,Secondary Incomplete,9,Widowed,7,0.0,South East,Imo,True,True,True
+NGF000561,46,Female,Primary Complete,6,Married,11,148000.0,South East,Ebonyi,False,True,True
+NGF000562,48,Female,Primary Complete,6,Married,10,0.0,North West,Kebbi,False,True,True
+NGF000563,49,Female,Primary Incomplete,3,Single,3,89000.0,South West,Ogun,False,False,True
+NGF000564,28,Female,No Formal Education,0,Single,4,0.0,North Central,Plateau,True,True,True
+NGF000565,38,Female,Secondary Complete,12,Widowed,7,0.0,North West,Zamfara,False,False,False
+NGF000566,62,Male,No Formal Education,0,Married,3,0.0,North West,Kebbi,True,True,True
+NGF000567,47,Male,OND/NCE,14,Married,11,541000.0,South East,Imo,True,False,True
+NGF000568,20,Male,No Formal Education,0,Married,2,77000.0,North East,Borno,True,True,True
+NGF000569,23,Female,HND/BSc,16,Single,3,0.0,North East,Borno,True,False,True
+NGF000570,53,Male,Primary Complete,6,Married,2,0.0,South East,Enugu,False,True,False
+NGF000571,64,Male,Primary Complete,6,Married,9,0.0,South South,Rivers,False,True,True
+NGF000572,61,Male,No Formal Education,0,Widowed,10,73000.0,North Central,Plateau,True,True,False
+NGF000573,37,Female,Secondary Incomplete,9,Married,13,134000.0,South East,Ebonyi,False,True,True
+NGF000574,24,Female,Secondary Incomplete,9,Married,2,0.0,North Central,Kogi,True,True,False
+NGF000575,48,Male,Primary Complete,6,Married,11,0.0,North West,Katsina,True,False,False
+NGF000576,17,Male,No Formal Education,0,Single,1,0.0,North East,Yobe,False,True,False
+NGF000577,30,Male,Primary Complete,6,Married,14,0.0,North West,Sokoto,True,True,True
+NGF000578,65,Male,No Formal Education,0,Single,3,57000.0,North Central,Kwara,True,True,False
+NGF000579,59,Male,No Formal Education,0,Married,4,54000.0,North East,Taraba,False,False,True
+NGF000580,56,Male,Primary Complete,6,Married,12,99000.0,South West,Ekiti,True,True,True
+NGF000581,47,Female,Secondary Incomplete,9,Divorced,8,0.0,South West,Ondo,False,True,False
+NGF000582,65,Male,HND/BSc,16,Married,8,366000.0,South South,Cross River,True,False,True
+NGF000583,18,Male,Secondary Complete,12,Single,3,0.0,South East,Abia,True,True,False
+NGF000584,30,Male,Secondary Complete,12,Married,6,0.0,North Central,Nasarawa,False,True,False
+NGF000585,40,Male,Secondary Complete,12,Single,3,356000.0,South East,Enugu,False,False,True
+NGF000586,29,Female,Primary Complete,6,Married,6,149000.0,South South,Delta,True,True,False
+NGF000587,53,Male,No Formal Education,0,Married,2,64000.0,South East,Anambra,True,True,False
+NGF000588,59,Male,Primary Incomplete,3,Married,2,0.0,North East,Gombe,False,False,False
+NGF000589,46,Male,Primary Incomplete,3,Widowed,5,0.0,North East,Adamawa,False,True,False
+NGF000590,53,Female,No Formal Education,0,Married,2,68000.0,South East,Abia,True,True,True
+NGF000591,39,Female,Primary Complete,6,Married,10,185000.0,South South,Delta,False,True,True
+NGF000592,47,Male,Primary Incomplete,3,Married,2,0.0,North Central,Kogi,False,False,False
+NGF000593,32,Male,OND/NCE,14,Widowed,9,0.0,South West,Ogun,False,True,False
+NGF000594,43,Female,Secondary Complete,12,Married,2,0.0,North East,Gombe,True,True,False
+NGF000595,48,Male,Primary Incomplete,3,Married,11,0.0,South West,Osun,False,True,False
+NGF000596,49,Female,No Formal Education,0,Married,6,73000.0,North East,Bauchi,True,False,True
+NGF000597,39,Male,Primary Complete,6,Widowed,8,0.0,North Central,Niger,False,True,True
+NGF000598,21,Male,Primary Incomplete,3,Single,3,0.0,South West,Ekiti,True,True,True
+NGF000599,43,Male,Secondary Incomplete,9,Married,4,0.0,North West,Kebbi,True,False,True
+NGF000600,38,Male,Secondary Incomplete,9,Divorced,5,0.0,South West,Ogun,True,True,True
+NGF000601,27,Male,No Formal Education,0,Married,3,0.0,South South,Rivers,True,True,True
+NGF000602,18,Female,Primary Incomplete,3,Married,2,0.0,South South,Delta,True,True,True
+NGF000603,36,Male,Secondary Incomplete,9,Married,5,0.0,South West,Ekiti,False,True,False
+NGF000604,53,Female,Primary Complete,6,Single,2,163000.0,North East,Gombe,True,False,True
+NGF000605,52,Male,Primary Incomplete,3,Married,9,0.0,South West,Ondo,False,True,True
+NGF000606,61,Male,Secondary Complete,12,Married,13,0.0,South East,Ebonyi,False,False,False
+NGF000607,50,Male,No Formal Education,0,Widowed,9,0.0,South East,Imo,True,True,True
+NGF000608,47,Male,Primary Complete,6,Married,13,178000.0,South East,Abia,True,True,False
+NGF000609,61,Male,Primary Complete,6,Divorced,3,204000.0,North East,Borno,True,True,False
+NGF000610,64,Male,No Formal Education,0,Married,4,94000.0,South East,Ebonyi,True,True,False
+NGF000611,51,Male,Secondary Complete,12,Married,3,310000.0,South East,Ebonyi,False,False,True
+NGF000612,42,Male,Primary Complete,6,Married,8,0.0,North East,Bauchi,True,False,False
+NGF000613,62,Male,Primary Incomplete,3,Married,2,0.0,South East,Ebonyi,False,False,True
+NGF000614,51,Female,Primary Complete,6,Married,9,177000.0,South South,Akwa Ibom,False,True,True
+NGF000615,64,Female,Primary Complete,6,Married,2,0.0,South East,Anambra,True,False,False
+NGF000616,44,Male,Secondary Complete,12,Widowed,3,0.0,North East,Bauchi,False,False,True
+NGF000617,24,Male,Primary Complete,6,Married,5,171000.0,South East,Ebonyi,False,True,False
+NGF000618,31,Female,Primary Incomplete,3,Married,4,107000.0,North East,Taraba,False,False,True
+NGF000619,65,Male,Secondary Complete,12,Married,6,0.0,North West,Zamfara,True,True,False
+NGF000620,54,Male,Secondary Complete,12,Married,4,340000.0,North West,Kano,False,True,True
+NGF000621,18,Female,Secondary Incomplete,9,Single,3,0.0,South West,Ogun,False,True,False
+NGF000622,48,Male,Primary Complete,6,Widowed,7,0.0,North West,Kano,True,True,False
+NGF000623,16,Male,No Formal Education,0,Single,2,0.0,South South,Delta,False,False,True
+NGF000624,58,Female,Secondary Complete,12,Married,14,0.0,North Central,Niger,True,True,False
+NGF000625,54,Male,Primary Complete,6,Married,4,0.0,South West,Ondo,True,True,True
+NGF000626,38,Male,No Formal Education,0,Married,4,110000.0,South South,Edo,True,True,False
+NGF000627,24,Male,Secondary Complete,12,Single,1,288000.0,North Central,Benue,True,False,True
+NGF000628,24,Female,Secondary Complete,12,Married,4,0.0,North West,Kano,False,False,False
+NGF000629,42,Male,Secondary Complete,12,Widowed,9,0.0,North East,Yobe,True,True,True
+NGF000630,30,Female,Primary Complete,6,Married,9,140000.0,North East,Gombe,False,False,True
+NGF000631,52,Male,Primary Incomplete,3,Single,1,110000.0,North West,Kano,True,True,True
+NGF000632,58,Male,Primary Complete,6,Married,11,0.0,South West,Osun,False,False,True
+NGF000633,44,Male,Primary Complete,6,Widowed,9,0.0,North West,Zamfara,True,True,False
+NGF000634,49,Female,Primary Complete,6,Married,13,0.0,South West,Ogun,False,True,False
+NGF000635,60,Male,No Formal Education,0,Married,4,92000.0,South East,Imo,False,False,False
+NGF000636,60,Male,No Formal Education,0,Married,5,0.0,North East,Borno,True,False,True
+NGF000637,65,Male,Secondary Incomplete,9,Married,4,158000.0,North East,Yobe,True,True,True
+NGF000638,22,Female,No Formal Education,0,Single,4,0.0,South East,Imo,False,False,False
+NGF000639,40,Male,Primary Complete,6,Married,9,0.0,North East,Gombe,True,True,False
+NGF000640,52,Female,Secondary Complete,12,Married,6,414000.0,South South,Edo,True,False,False
+NGF000641,29,Male,Primary Complete,6,Single,5,0.0,North Central,Kwara,True,True,False
+NGF000642,60,Female,Primary Incomplete,3,Married,12,0.0,South South,Rivers,False,True,True
+NGF000643,33,Female,No Formal Education,0,Widowed,4,98000.0,North East,Gombe,False,True,True
+NGF000644,22,Male,OND/NCE,14,Married,4,0.0,North East,Borno,True,True,True
+NGF000645,48,Male,Primary Incomplete,3,Married,12,0.0,North East,Bauchi,False,True,False
+NGF000646,54,Male,Primary Complete,6,Married,4,0.0,South South,Edo,False,False,False
+NGF000647,34,Male,Secondary Complete,12,Married,4,275000.0,North Central,Kwara,True,True,False
+NGF000648,42,Male,No Formal Education,0,Divorced,3,0.0,South South,Akwa Ibom,False,True,True
+NGF000649,57,Male,Primary Complete,6,Married,7,134000.0,South South,Cross River,False,True,True
+NGF000650,64,Female,Secondary Complete,12,Married,12,0.0,North East,Adamawa,True,False,True
+NGF000651,17,Male,No Formal Education,0,Single,1,0.0,North Central,Kogi,True,True,True
+NGF000652,32,Male,Primary Complete,6,Married,3,149000.0,South South,Edo,False,False,True
+NGF000653,52,Female,Primary Incomplete,3,Married,9,140000.0,North West,Jigawa,True,False,True
+NGF000654,18,Female,No Formal Education,0,Married,2,51000.0,North West,Sokoto,False,True,False
+NGF000655,27,Female,Primary Incomplete,3,Married,5,0.0,North Central,Plateau,True,False,True
+NGF000656,35,Male,Primary Complete,6,Widowed,10,0.0,South East,Imo,True,True,False
+NGF000657,59,Female,No Formal Education,0,Married,7,0.0,North West,Kano,True,True,False
+NGF000658,57,Female,Primary Incomplete,3,Married,8,66000.0,South West,Ondo,False,True,False
+NGF000659,32,Male,Masters/PhD,18,Married,8,0.0,South South,Rivers,True,False,True
+NGF000660,44,Male,Primary Incomplete,3,Married,11,0.0,South South,Akwa Ibom,False,True,True
+NGF000661,53,Male,Secondary Complete,12,Married,3,217000.0,North West,Kebbi,True,True,False
+NGF000662,28,Male,No Formal Education,0,Married,6,0.0,South South,Edo,True,True,False
+NGF000663,29,Female,Primary Complete,6,Married,5,204000.0,North Central,Nasarawa,True,True,True
+NGF000664,44,Male,Secondary Complete,12,Married,8,260000.0,South West,Ondo,True,True,True
+NGF000665,27,Male,Secondary Complete,12,Married,2,0.0,North West,Kebbi,True,False,True
+NGF000666,25,Female,Secondary Complete,12,Widowed,2,250000.0,South West,Ondo,False,False,False
+NGF000667,29,Female,Primary Complete,6,Divorced,4,144000.0,South East,Ebonyi,True,True,True
+NGF000668,43,Male,Secondary Incomplete,9,Divorced,6,206000.0,North East,Taraba,True,False,False
+NGF000669,18,Male,Secondary Incomplete,9,Married,2,127000.0,North West,Kano,True,True,True
+NGF000670,47,Male,No Formal Education,0,Married,14,0.0,North West,Sokoto,False,False,True
+NGF000671,30,Male,Secondary Complete,12,Married,6,0.0,North Central,Nasarawa,False,True,True
+NGF000672,59,Male,Secondary Incomplete,9,Married,14,0.0,South West,Ogun,False,False,True
+NGF000673,56,Male,Primary Incomplete,3,Married,2,106000.0,South West,Lagos,False,True,True
+NGF000674,64,Male,Secondary Complete,12,Married,11,0.0,South East,Abia,True,True,True
+NGF000675,40,Male,Secondary Complete,12,Married,4,0.0,South East,Imo,True,True,True
+NGF000676,26,Male,No Formal Education,0,Divorced,4,57000.0,South West,Ekiti,False,True,False
+NGF000677,34,Female,Primary Complete,6,Married,12,0.0,South South,Bayelsa,True,False,True
+NGF000678,59,Female,No Formal Education,0,Married,4,0.0,South East,Abia,True,True,True
+NGF000679,42,Male,Primary Incomplete,3,Married,11,0.0,South East,Ebonyi,True,False,True
+NGF000680,36,Male,Secondary Incomplete,9,Married,2,140000.0,South West,Ekiti,False,True,True
+NGF000681,25,Female,Primary Incomplete,3,Single,2,0.0,South East,Anambra,True,False,True
+NGF000682,47,Female,Primary Complete,6,Single,4,129000.0,North East,Yobe,True,False,True
+NGF000683,38,Male,No Formal Education,0,Married,12,69000.0,North Central,Kwara,False,True,False
+NGF000684,21,Male,No Formal Education,0,Single,2,0.0,South East,Abia,True,True,False
+NGF000685,63,Male,Secondary Incomplete,9,Married,13,129000.0,North East,Gombe,False,True,True
+NGF000686,38,Male,Primary Complete,6,Married,9,133000.0,South East,Ebonyi,False,True,True
+NGF000687,17,Female,Primary Incomplete,3,Single,3,0.0,North East,Gombe,False,False,True
+NGF000688,29,Male,Primary Complete,6,Single,4,0.0,North Central,Benue,False,True,True
+NGF000689,63,Male,Primary Incomplete,3,Married,13,0.0,South West,Osun,False,True,False
+NGF000690,34,Male,No Formal Education,0,Married,7,0.0,North West,Jigawa,True,False,False
+NGF000691,46,Female,Secondary Complete,12,Married,5,0.0,North Central,Benue,False,True,True
+NGF000692,50,Male,Primary Incomplete,3,Widowed,10,0.0,South South,Delta,True,True,True
+NGF000693,38,Female,Primary Complete,6,Married,3,0.0,North East,Adamawa,True,True,False
+NGF000694,64,Male,Secondary Incomplete,9,Divorced,5,127000.0,South South,Edo,True,True,True
+NGF000695,49,Male,Primary Incomplete,3,Married,6,0.0,North Central,FCT,False,True,True
+NGF000696,54,Male,Secondary Complete,12,Widowed,10,419000.0,North Central,Kwara,False,False,True
+NGF000697,55,Male,Primary Complete,6,Divorced,5,122000.0,North West,Sokoto,True,True,False
+NGF000698,65,Male,Secondary Complete,12,Married,9,0.0,South East,Anambra,False,False,True
+NGF000699,52,Male,No Formal Education,0,Divorced,3,0.0,South East,Ebonyi,False,True,True
+NGF000700,37,Male,Primary Incomplete,3,Married,6,119000.0,South East,Ebonyi,True,True,False
+NGF000701,32,Male,Secondary Complete,12,Married,12,0.0,North East,Adamawa,False,True,True
+NGF000702,63,Male,Primary Complete,6,Widowed,8,137000.0,North West,Zamfara,False,True,True
+NGF000703,19,Male,Secondary Incomplete,9,Married,4,279000.0,North East,Yobe,True,False,True
+NGF000704,45,Female,Secondary Complete,12,Widowed,9,0.0,South South,Rivers,False,True,False
+NGF000705,46,Male,No Formal Education,0,Married,2,0.0,South East,Ebonyi,True,True,True
+NGF000706,21,Male,Secondary Incomplete,9,Single,2,153000.0,North Central,Benue,True,True,False
+NGF000707,40,Female,Primary Complete,6,Married,5,93000.0,South West,Ondo,False,True,True
+NGF000708,25,Male,Primary Incomplete,3,Married,5,0.0,North West,Sokoto,True,True,False
+NGF000709,49,Female,No Formal Education,0,Married,2,0.0,North West,Katsina,False,False,True
+NGF000710,17,Male,Primary Incomplete,3,Single,3,118000.0,South East,Enugu,False,False,False
+NGF000711,33,Male,Secondary Incomplete,9,Widowed,2,182000.0,North Central,Kogi,True,True,True
+NGF000712,27,Female,Primary Complete,6,Widowed,1,176000.0,North East,Gombe,True,True,False
+NGF000713,24,Female,Secondary Complete,12,Married,3,0.0,South East,Abia,True,True,True
+NGF000714,38,Male,No Formal Education,0,Married,9,0.0,South South,Rivers,True,False,False
+NGF000715,35,Male,Primary Incomplete,3,Married,9,0.0,North West,Kano,True,True,True
+NGF000716,25,Male,Masters/PhD,18,Single,3,942000.0,North West,Kaduna,True,False,True
+NGF000717,16,Male,Secondary Incomplete,9,Single,2,170000.0,South South,Rivers,True,False,False
+NGF000718,47,Male,OND/NCE,14,Married,5,0.0,South West,Ekiti,False,False,False
+NGF000719,62,Male,Primary Complete,6,Widowed,3,170000.0,South South,Rivers,True,False,True
+NGF000720,17,Male,Secondary Incomplete,9,Single,2,0.0,South South,Cross River,False,True,True
+NGF000721,17,Female,Primary Complete,6,Single,2,0.0,North East,Gombe,True,False,True
+NGF000722,48,Male,No Formal Education,0,Married,10,109000.0,North East,Taraba,False,True,True
+NGF000723,23,Male,Secondary Complete,12,Married,4,0.0,South East,Anambra,True,False,True
+NGF000724,48,Male,Secondary Complete,12,Married,12,0.0,South West,Ondo,False,True,False
+NGF000725,55,Female,Primary Incomplete,3,Married,12,0.0,North Central,Benue,True,True,False
+NGF000726,39,Female,HND/BSc,16,Married,5,375000.0,North Central,Plateau,True,False,False
+NGF000727,63,Female,Primary Complete,6,Widowed,3,0.0,South West,Lagos,True,False,True
+NGF000728,57,Male,Secondary Complete,12,Married,11,0.0,North Central,Nasarawa,False,False,True
+NGF000729,16,Male,No Formal Education,0,Single,3,0.0,South South,Rivers,True,True,False
+NGF000730,37,Male,HND/BSc,16,Married,14,391000.0,North West,Kaduna,False,True,False
+NGF000731,16,Male,No Formal Education,0,Single,1,0.0,North East,Bauchi,True,True,False
+NGF000732,21,Male,Secondary Complete,12,Single,2,0.0,North Central,Nasarawa,False,True,False
+NGF000733,42,Male,Primary Complete,6,Married,5,179000.0,North Central,Nasarawa,False,False,True
+NGF000734,45,Male,Primary Complete,6,Single,4,0.0,North Central,Benue,True,True,True
+NGF000735,46,Male,No Formal Education,0,Widowed,5,0.0,South South,Cross River,True,True,True
+NGF000736,55,Female,No Formal Education,0,Married,8,81000.0,North Central,Benue,True,False,False
+NGF000737,62,Male,Primary Complete,6,Divorced,2,0.0,North East,Yobe,False,False,False
+NGF000738,43,Male,Primary Complete,6,Married,3,0.0,North West,Kebbi,False,False,False
+NGF000739,38,Male,Secondary Complete,12,Married,9,322000.0,South East,Abia,True,True,True
+NGF000740,35,Male,Primary Complete,6,Married,3,91000.0,North Central,Niger,True,False,False
+NGF000741,53,Male,No Formal Education,0,Married,8,0.0,North West,Zamfara,True,True,False
+NGF000742,44,Male,Primary Complete,6,Married,7,208000.0,North Central,FCT,True,False,False
+NGF000743,42,Male,No Formal Education,0,Married,7,105000.0,North Central,Niger,True,False,True
+NGF000744,42,Female,No Formal Education,0,Widowed,9,76000.0,South West,Ekiti,True,True,False
+NGF000745,63,Male,Primary Complete,6,Married,3,143000.0,South East,Imo,False,True,True
+NGF000746,21,Male,Primary Incomplete,3,Married,3,68000.0,South West,Osun,False,True,False
+NGF000747,55,Male,No Formal Education,0,Married,11,0.0,South East,Enugu,False,True,False
+NGF000748,24,Male,Secondary Complete,12,Married,5,320000.0,North Central,Plateau,True,False,True
+NGF000749,19,Male,Primary Complete,6,Single,3,0.0,South South,Delta,False,True,False
+NGF000750,46,Male,Secondary Incomplete,9,Married,8,219000.0,South East,Imo,True,False,True
+NGF000751,40,Male,Primary Incomplete,3,Married,10,0.0,South West,Ondo,False,False,True
+NGF000752,65,Male,Primary Incomplete,3,Married,2,81000.0,South East,Enugu,True,True,False
+NGF000753,48,Female,No Formal Education,0,Married,10,0.0,North West,Kano,True,True,False
+NGF000754,51,Male,No Formal Education,0,Married,2,0.0,South East,Ebonyi,False,False,False
+NGF000755,17,Male,Primary Incomplete,3,Married,4,96000.0,North West,Sokoto,False,False,True
+NGF000756,24,Male,No Formal Education,0,Married,2,0.0,South West,Oyo,False,False,True
+NGF000757,64,Male,Secondary Complete,12,Single,4,0.0,South South,Bayelsa,False,False,True
+NGF000758,62,Male,No Formal Education,0,Married,7,104000.0,North Central,Niger,False,True,False
+NGF000759,65,Male,Primary Complete,6,Married,5,0.0,South West,Ondo,False,True,False
+NGF000760,22,Male,No Formal Education,0,Single,4,0.0,South West,Ogun,False,True,True
+NGF000761,38,Female,Secondary Incomplete,9,Married,14,185000.0,North East,Bauchi,False,True,True
+NGF000762,55,Female,Primary Complete,6,Widowed,5,207000.0,South South,Rivers,True,True,True
+NGF000763,49,Female,Secondary Complete,12,Married,11,297000.0,South South,Edo,True,True,True
+NGF000764,57,Male,Secondary Complete,12,Single,1,0.0,North West,Kano,True,False,False
+NGF000765,56,Male,No Formal Education,0,Divorced,7,0.0,North West,Kebbi,True,True,True
+NGF000766,60,Male,No Formal Education,0,Married,9,0.0,South East,Abia,False,True,True
+NGF000767,29,Male,No Formal Education,0,Married,2,0.0,North West,Kaduna,False,True,True
+NGF000768,55,Male,No Formal Education,0,Divorced,6,0.0,South West,Ogun,True,False,False
+NGF000769,22,Male,OND/NCE,14,Single,4,555000.0,South East,Imo,True,True,False
+NGF000770,27,Male,Primary Incomplete,3,Married,4,66000.0,South East,Imo,True,True,True
+NGF000771,55,Female,HND/BSc,16,Married,11,427000.0,South South,Delta,True,True,False
+NGF000772,50,Female,Secondary Complete,12,Married,7,0.0,South West,Lagos,True,True,False
+NGF000773,47,Female,Primary Incomplete,3,Married,5,0.0,North West,Kaduna,False,False,False
+NGF000774,18,Female,Secondary Complete,12,Married,2,398000.0,North East,Adamawa,False,True,False
+NGF000775,32,Female,Primary Complete,6,Single,4,109000.0,North West,Kebbi,True,True,True
+NGF000776,24,Male,No Formal Education,0,Single,3,77000.0,South East,Imo,True,True,False
+NGF000777,19,Female,Primary Complete,6,Single,1,0.0,South South,Cross River,True,True,True
+NGF000778,62,Female,Secondary Incomplete,9,Married,4,163000.0,North West,Katsina,False,True,False
+NGF000779,38,Male,Secondary Complete,12,Married,13,340000.0,South West,Ekiti,True,False,False
+NGF000780,42,Male,Secondary Complete,12,Married,11,0.0,North West,Jigawa,True,True,True
+NGF000781,40,Male,Primary Incomplete,3,Married,5,0.0,South South,Akwa Ibom,False,False,True
+NGF000782,16,Male,Primary Complete,6,Single,3,129000.0,North East,Borno,True,True,True
+NGF000783,35,Male,Secondary Complete,12,Married,14,0.0,South South,Akwa Ibom,True,False,False
+NGF000784,61,Male,Primary Complete,6,Married,8,0.0,North West,Kaduna,False,True,True
+NGF000785,36,Male,Secondary Incomplete,9,Married,8,0.0,South East,Anambra,False,True,True
+NGF000786,18,Female,Primary Complete,6,Single,2,194000.0,North West,Kano,True,False,True
+NGF000787,50,Male,No Formal Education,0,Single,2,92000.0,South East,Anambra,True,True,False
+NGF000788,38,Male,No Formal Education,0,Married,2,0.0,South South,Rivers,True,False,True
+NGF000789,34,Male,Primary Complete,6,Married,6,197000.0,North West,Katsina,True,False,True
+NGF000790,35,Male,No Formal Education,0,Married,10,0.0,South South,Cross River,True,False,False
+NGF000791,43,Male,OND/NCE,14,Married,13,0.0,North East,Gombe,True,True,False
+NGF000792,57,Female,No Formal Education,0,Married,8,81000.0,North East,Bauchi,False,False,True
+NGF000793,24,Male,Secondary Incomplete,9,Married,6,0.0,North Central,Plateau,True,True,False
+NGF000794,44,Male,No Formal Education,0,Married,8,0.0,North Central,Kwara,True,True,True
+NGF000795,50,Male,Secondary Incomplete,9,Widowed,5,0.0,South South,Edo,True,True,False
+NGF000796,22,Male,Primary Complete,6,Married,6,102000.0,North Central,FCT,True,True,True
+NGF000797,16,Female,Primary Complete,6,Single,3,0.0,South South,Edo,True,False,False
+NGF000798,53,Male,Primary Complete,6,Married,5,0.0,South South,Cross River,False,True,True
+NGF000799,18,Female,Primary Incomplete,3,Single,2,0.0,North West,Kaduna,True,False,False
+NGF000800,41,Male,No Formal Education,0,Single,1,0.0,South West,Ogun,True,True,False
+NGF000801,29,Male,No Formal Education,0,Married,5,99000.0,North West,Kano,True,True,True
+NGF000802,28,Male,Primary Incomplete,3,Married,2,100000.0,North West,Kaduna,True,True,True
+NGF000803,64,Male,No Formal Education,0,Divorced,3,95000.0,North East,Borno,True,True,True
+NGF000804,49,Male,Primary Complete,6,Married,4,0.0,North Central,Kogi,False,True,False
+NGF000805,56,Male,Primary Incomplete,3,Married,5,61000.0,North Central,Benue,True,True,True
+NGF000806,60,Male,Primary Complete,6,Married,8,170000.0,North West,Sokoto,False,True,False
+NGF000807,23,Female,No Formal Education,0,Married,6,0.0,North Central,Kogi,False,True,True
+NGF000808,63,Male,Primary Complete,6,Married,8,0.0,North East,Bauchi,False,False,True
+NGF000809,53,Male,No Formal Education,0,Married,10,56000.0,North Central,Kwara,True,True,True
+NGF000810,19,Male,Primary Complete,6,Married,2,0.0,North Central,Niger,True,False,True
+NGF000811,26,Male,No Formal Education,0,Married,6,0.0,North Central,Kogi,False,True,True
+NGF000812,31,Male,No Formal Education,0,Married,4,0.0,North East,Borno,True,False,True
+NGF000813,20,Male,Secondary Complete,12,Single,2,0.0,South East,Ebonyi,False,False,False
+NGF000814,42,Male,Primary Complete,6,Married,10,0.0,North East,Adamawa,True,True,True
+NGF000815,22,Male,Secondary Complete,12,Married,6,0.0,North East,Adamawa,True,False,False
+NGF000816,65,Female,OND/NCE,14,Married,3,438000.0,North East,Gombe,True,False,False
+NGF000817,28,Female,Primary Incomplete,3,Married,6,0.0,North Central,Kwara,False,True,False
+NGF000818,59,Female,Secondary Incomplete,9,Married,9,0.0,North East,Bauchi,True,False,False
+NGF000819,22,Female,Primary Incomplete,3,Divorced,1,109000.0,North East,Gombe,True,True,False
+NGF000820,44,Male,Primary Incomplete,3,Married,13,0.0,North West,Jigawa,True,True,True
+NGF000821,35,Male,No Formal Education,0,Married,12,0.0,South West,Lagos,False,True,False
+NGF000822,53,Female,No Formal Education,0,Married,5,100000.0,South South,Bayelsa,True,True,False
+NGF000823,39,Male,Secondary Incomplete,9,Married,3,261000.0,South South,Rivers,True,False,True
+NGF000824,18,Female,No Formal Education,0,Single,2,0.0,North West,Jigawa,True,True,True
+NGF000825,24,Male,Secondary Complete,12,Married,6,352000.0,North West,Kebbi,True,True,True
+NGF000826,58,Male,No Formal Education,0,Married,8,0.0,North Central,Niger,True,True,True
+NGF000827,44,Male,Primary Incomplete,3,Widowed,3,130000.0,South West,Ondo,False,True,False
+NGF000828,27,Male,Primary Incomplete,3,Married,6,0.0,North Central,Kwara,True,True,True
+NGF000829,56,Male,Primary Complete,6,Married,4,106000.0,North Central,Kogi,True,False,True
+NGF000830,35,Male,Secondary Complete,12,Married,3,292000.0,South South,Bayelsa,True,False,True
+NGF000831,45,Male,Primary Incomplete,3,Married,2,0.0,South West,Osun,True,False,False
+NGF000832,17,Female,Secondary Incomplete,9,Single,3,0.0,North Central,Nasarawa,False,False,False
+NGF000833,64,Male,No Formal Education,0,Married,11,98000.0,South West,Ogun,True,True,True
+NGF000834,47,Male,Secondary Incomplete,9,Single,1,0.0,North Central,Kogi,True,True,False
+NGF000835,56,Male,Secondary Complete,12,Married,11,0.0,North Central,Nasarawa,False,False,True
+NGF000836,32,Male,No Formal Education,0,Widowed,5,87000.0,South South,Delta,True,True,True
+NGF000837,37,Male,Secondary Complete,12,Married,7,0.0,North Central,Kwara,False,True,False
+NGF000838,52,Male,Secondary Incomplete,9,Married,6,0.0,South West,Ekiti,True,False,True
+NGF000839,45,Male,Primary Complete,6,Married,8,0.0,North Central,Kwara,False,False,True
+NGF000840,18,Male,Secondary Complete,12,Married,2,298000.0,South East,Anambra,False,False,True
+NGF000841,60,Male,No Formal Education,0,Married,4,111000.0,South West,Lagos,False,False,True
+NGF000842,52,Male,Secondary Complete,12,Married,7,0.0,North West,Kano,True,False,False
+NGF000843,62,Female,Secondary Complete,12,Married,11,296000.0,North Central,Nasarawa,False,True,False
+NGF000844,51,Female,Primary Complete,6,Married,5,0.0,North Central,Benue,True,True,True
+NGF000845,40,Female,Primary Complete,6,Married,3,0.0,South East,Abia,True,True,True
+NGF000846,16,Male,Secondary Incomplete,9,Single,2,125000.0,South South,Cross River,True,True,True
+NGF000847,47,Male,No Formal Education,0,Divorced,6,0.0,North West,Jigawa,True,False,True
+NGF000848,51,Female,No Formal Education,0,Married,5,0.0,North West,Katsina,True,True,False
+NGF000849,40,Male,No Formal Education,0,Widowed,6,78000.0,North East,Adamawa,False,True,True
+NGF000850,34,Male,No Formal Education,0,Married,12,0.0,North West,Jigawa,False,True,True
+NGF000851,50,Female,Primary Incomplete,3,Widowed,7,0.0,South South,Edo,True,True,False
+NGF000852,37,Male,No Formal Education,0,Married,5,0.0,North West,Zamfara,False,False,True
+NGF000853,62,Female,Primary Complete,6,Married,10,0.0,North Central,Kogi,True,True,True
+NGF000854,44,Male,Secondary Incomplete,9,Married,12,0.0,North West,Kano,True,True,True
+NGF000855,27,Male,Secondary Incomplete,9,Married,4,0.0,South West,Ekiti,True,False,True
+NGF000856,41,Male,Secondary Complete,12,Married,9,186000.0,South South,Rivers,False,True,True
+NGF000857,34,Male,Primary Complete,6,Married,10,177000.0,South South,Delta,False,True,True
+NGF000858,47,Female,Primary Complete,6,Widowed,4,0.0,South East,Enugu,True,False,True
+NGF000859,48,Male,Primary Complete,6,Married,7,0.0,South West,Oyo,True,True,True
+NGF000860,30,Male,No Formal Education,0,Married,11,0.0,South West,Lagos,False,True,True
+NGF000861,31,Male,Secondary Complete,12,Married,5,0.0,North West,Katsina,False,False,False
+NGF000862,43,Male,Primary Incomplete,3,Widowed,7,108000.0,North West,Sokoto,True,True,True
+NGF000863,35,Male,Primary Complete,6,Married,11,0.0,South West,Ekiti,False,True,True
+NGF000864,51,Male,No Formal Education,0,Married,9,89000.0,North East,Bauchi,True,True,True
+NGF000865,54,Male,Primary Complete,6,Widowed,5,0.0,South South,Edo,True,True,True
+NGF000866,41,Male,No Formal Education,0,Married,8,0.0,South East,Imo,False,True,False
+NGF000867,47,Male,Secondary Incomplete,9,Married,9,265000.0,South South,Delta,True,True,True
+NGF000868,52,Male,No Formal Education,0,Married,4,101000.0,North West,Jigawa,False,False,True
+NGF000869,25,Male,No Formal Education,0,Married,6,68000.0,North Central,FCT,True,False,True
+NGF000870,57,Male,Masters/PhD,18,Married,3,490000.0,South West,Lagos,False,True,True
+NGF000871,26,Male,No Formal Education,0,Married,2,83000.0,South South,Cross River,True,True,True
+NGF000872,60,Female,Secondary Incomplete,9,Married,3,0.0,North West,Zamfara,True,False,True
+NGF000873,30,Female,Primary Incomplete,3,Married,5,74000.0,North West,Zamfara,True,True,False
+NGF000874,49,Male,Primary Complete,6,Married,6,168000.0,South West,Ekiti,True,True,True
+NGF000875,55,Male,No Formal Education,0,Married,8,0.0,North West,Katsina,True,True,True
+NGF000876,61,Male,No Formal Education,0,Widowed,10,0.0,South South,Akwa Ibom,False,True,True
+NGF000877,28,Female,Secondary Complete,12,Single,3,402000.0,South West,Ondo,False,False,True
+NGF000878,55,Male,Primary Complete,6,Married,3,0.0,South East,Ebonyi,True,True,False
+NGF000879,60,Female,No Formal Education,0,Married,3,57000.0,North Central,Kwara,True,True,True
+NGF000880,44,Male,Primary Complete,6,Single,1,0.0,North East,Borno,True,True,True
+NGF000881,52,Male,Primary Complete,6,Married,3,0.0,North Central,FCT,True,True,True
+NGF000882,59,Male,Secondary Complete,12,Married,7,389000.0,North Central,Kwara,True,False,False
+NGF000883,19,Male,Secondary Incomplete,9,Single,1,0.0,North West,Kaduna,False,True,False
+NGF000884,26,Male,Secondary Complete,12,Married,5,318000.0,South East,Abia,False,True,True
+NGF000885,31,Male,No Formal Education,0,Married,8,69000.0,North West,Sokoto,True,True,False
+NGF000886,32,Male,Primary Complete,6,Widowed,8,0.0,North West,Kebbi,False,False,True
+NGF000887,35,Male,Primary Incomplete,3,Widowed,7,85000.0,North West,Sokoto,True,True,True
+NGF000888,26,Female,Secondary Incomplete,9,Married,6,0.0,South South,Akwa Ibom,False,True,False
+NGF000889,53,Male,Primary Complete,6,Widowed,4,0.0,North East,Yobe,True,True,True
+NGF000890,64,Male,HND/BSc,16,Married,11,306000.0,South West,Ogun,False,True,True
+NGF000891,62,Male,Primary Incomplete,3,Married,4,0.0,South West,Lagos,False,False,False
+NGF000892,48,Male,No Formal Education,0,Married,6,0.0,South East,Anambra,True,True,False
+NGF000893,27,Female,Primary Incomplete,3,Single,3,108000.0,North East,Gombe,True,True,True
+NGF000894,48,Male,No Formal Education,0,Married,4,0.0,North East,Gombe,True,True,True
+NGF000895,60,Female,Primary Complete,6,Divorced,7,132000.0,North West,Kebbi,False,False,False
+NGF000896,58,Male,Secondary Incomplete,9,Widowed,1,216000.0,North West,Jigawa,False,True,False
+NGF000897,49,Female,Secondary Complete,12,Married,6,0.0,North East,Taraba,True,True,False
+NGF000898,63,Female,Secondary Complete,12,Married,8,0.0,South West,Osun,False,True,True
+NGF000899,31,Male,OND/NCE,14,Married,13,0.0,South South,Akwa Ibom,True,True,True
+NGF000900,39,Female,No Formal Education,0,Married,6,72000.0,North West,Kaduna,True,True,True
+NGF000901,54,Male,Primary Complete,6,Single,4,204000.0,South West,Osun,True,False,True
+NGF000902,42,Female,OND/NCE,14,Married,10,0.0,North East,Taraba,True,True,False
+NGF000903,52,Male,No Formal Education,0,Single,3,0.0,South West,Lagos,True,False,False
+NGF000904,31,Male,Primary Complete,6,Married,6,111000.0,North East,Taraba,False,True,True
+NGF000905,25,Male,Secondary Incomplete,9,Married,2,0.0,South South,Edo,True,False,False
+NGF000906,43,Male,Primary Complete,6,Married,8,0.0,North West,Kaduna,True,False,False
+NGF000907,37,Female,Primary Incomplete,3,Married,12,108000.0,South West,Osun,True,True,False
+NGF000908,51,Male,No Formal Education,0,Widowed,5,0.0,North Central,FCT,True,False,False
+NGF000909,50,Female,No Formal Education,0,Divorced,2,0.0,North East,Borno,False,True,False
+NGF000910,42,Female,Primary Complete,6,Married,13,168000.0,North West,Sokoto,True,False,True
+NGF000911,40,Male,No Formal Education,0,Married,14,0.0,South East,Imo,False,True,False
+NGF000912,22,Male,Secondary Incomplete,9,Married,3,0.0,North Central,Niger,False,True,True
+NGF000913,28,Male,Secondary Incomplete,9,Divorced,2,0.0,North West,Sokoto,False,True,True
+NGF000914,19,Female,Primary Complete,6,Married,2,0.0,South South,Cross River,True,True,True
+NGF000915,44,Female,Secondary Incomplete,9,Married,3,0.0,North East,Taraba,True,True,True
+NGF000916,43,Male,Secondary Incomplete,9,Married,14,0.0,North West,Kano,False,False,False
+NGF000917,56,Female,Primary Incomplete,3,Married,11,0.0,South East,Ebonyi,False,True,True
+NGF000918,55,Male,Primary Complete,6,Married,5,111000.0,North West,Jigawa,True,False,True
+NGF000919,56,Male,No Formal Education,0,Married,9,0.0,North West,Jigawa,False,True,True
+NGF000920,20,Male,Primary Complete,6,Single,2,0.0,North West,Zamfara,False,False,True
+NGF000921,51,Male,Primary Complete,6,Married,3,0.0,South East,Ebonyi,False,True,False
+NGF000922,60,Male,No Formal Education,0,Married,9,83000.0,South South,Rivers,False,False,True
+NGF000923,20,Male,No Formal Education,0,Single,3,64000.0,South South,Akwa Ibom,True,True,True
+NGF000924,59,Male,HND/BSc,16,Married,8,444000.0,North West,Zamfara,False,True,False
+NGF000925,37,Male,Secondary Complete,12,Married,6,195000.0,South East,Enugu,True,False,True
+NGF000926,17,Male,Primary Complete,6,Single,2,112000.0,North West,Sokoto,True,False,True
+NGF000927,58,Male,Primary Complete,6,Married,2,158000.0,North Central,Nasarawa,False,False,True
+NGF000928,57,Male,Primary Complete,6,Married,7,0.0,North East,Bauchi,False,True,False
+NGF000929,43,Male,Primary Incomplete,3,Married,9,94000.0,North East,Borno,True,True,True
+NGF000930,21,Male,Secondary Incomplete,9,Married,2,0.0,South East,Ebonyi,False,True,False
+NGF000931,57,Female,Primary Incomplete,3,Married,12,124000.0,South West,Lagos,True,True,False
+NGF000932,45,Female,No Formal Education,0,Married,5,70000.0,North East,Gombe,False,True,True
+NGF000933,48,Female,Primary Incomplete,3,Divorced,4,117000.0,North Central,Nasarawa,True,True,False
+NGF000934,46,Male,Secondary Complete,12,Widowed,7,182000.0,South South,Delta,False,True,False
+NGF000935,56,Male,OND/NCE,14,Married,14,0.0,South South,Bayelsa,True,False,False
+NGF000936,46,Male,Secondary Complete,12,Married,7,0.0,South East,Ebonyi,True,True,False
+NGF000937,32,Male,No Formal Education,0,Married,5,0.0,South West,Ekiti,True,False,True
+NGF000938,26,Male,Primary Complete,6,Married,6,0.0,South East,Enugu,False,True,True
+NGF000939,24,Female,HND/BSc,16,Married,3,0.0,South East,Anambra,True,True,False
+NGF000940,62,Male,Primary Incomplete,3,Married,2,0.0,South West,Ondo,True,False,True
+NGF000941,40,Male,Primary Complete,6,Married,8,0.0,North Central,Kogi,False,False,True
+NGF000942,34,Male,Primary Complete,6,Married,9,196000.0,North Central,Benue,True,True,False
+NGF000943,64,Male,OND/NCE,14,Divorced,4,323000.0,South West,Osun,False,True,False
+NGF000944,53,Male,Secondary Complete,12,Married,14,186000.0,North West,Sokoto,False,False,True
+NGF000945,57,Male,No Formal Education,0,Married,7,0.0,North Central,Nasarawa,False,True,False
+NGF000946,25,Female,No Formal Education,0,Single,5,93000.0,North West,Zamfara,False,True,True
+NGF000947,21,Male,Secondary Complete,12,Single,2,409000.0,North West,Jigawa,False,False,True
+NGF000948,37,Male,Masters/PhD,18,Married,11,606000.0,South South,Akwa Ibom,False,True,True
+NGF000949,32,Female,Secondary Incomplete,9,Married,11,0.0,South South,Akwa Ibom,False,False,False
+NGF000950,48,Female,Primary Complete,6,Married,3,0.0,North East,Yobe,False,False,False
+NGF000951,23,Male,Secondary Incomplete,9,Single,3,225000.0,South East,Ebonyi,False,False,True
+NGF000952,44,Female,Primary Incomplete,3,Married,8,98000.0,North East,Yobe,True,False,True
+NGF000953,44,Male,Primary Complete,6,Married,4,109000.0,North West,Kano,False,False,False
+NGF000954,39,Male,Primary Complete,6,Married,8,132000.0,South East,Ebonyi,True,False,True
+NGF000955,49,Male,No Formal Education,0,Married,11,0.0,North Central,Nasarawa,True,False,True
+NGF000956,36,Male,Primary Complete,6,Single,3,180000.0,North East,Yobe,False,True,True
+NGF000957,41,Male,No Formal Education,0,Divorced,4,0.0,North Central,Kwara,True,False,True
+NGF000958,58,Male,Primary Complete,6,Married,3,0.0,South West,Ondo,True,True,False
+NGF000959,57,Female,Primary Incomplete,3,Married,8,0.0,North Central,Niger,True,True,False
+NGF000960,16,Female,Secondary Incomplete,9,Single,2,145000.0,South East,Enugu,True,True,True
+NGF000961,28,Male,No Formal Education,0,Married,2,0.0,North Central,Plateau,False,False,True
+NGF000962,65,Male,HND/BSc,16,Married,7,356000.0,North East,Adamawa,True,True,False
+NGF000963,38,Male,Secondary Incomplete,9,Married,13,151000.0,North East,Taraba,True,True,False
+NGF000964,45,Male,Secondary Complete,12,Married,4,0.0,North Central,Niger,False,True,True
+NGF000965,49,Female,Secondary Complete,12,Married,6,300000.0,North East,Taraba,False,True,True
+NGF000966,64,Male,No Formal Education,0,Married,12,49000.0,North Central,Kwara,False,True,True
+NGF000967,23,Male,Secondary Complete,12,Married,5,294000.0,North Central,Benue,False,True,True
+NGF000968,27,Male,No Formal Education,0,Widowed,2,0.0,North West,Sokoto,False,True,True
+NGF000969,64,Male,Secondary Complete,12,Married,12,0.0,North Central,Nasarawa,True,True,True
+NGF000970,62,Male,Primary Incomplete,3,Married,3,0.0,North East,Adamawa,False,True,True
+NGF000971,18,Male,Secondary Incomplete,9,Single,3,215000.0,North West,Kaduna,False,True,False
+NGF000972,25,Male,Primary Complete,6,Married,6,158000.0,North Central,Niger,False,True,True
+NGF000973,60,Male,Primary Complete,6,Widowed,4,0.0,South East,Anambra,False,True,True
+NGF000974,44,Male,No Formal Education,0,Married,3,53000.0,North Central,Benue,False,True,False
+NGF000975,48,Female,Primary Complete,6,Married,9,0.0,North East,Adamawa,False,True,True
+NGF000976,47,Male,Primary Incomplete,3,Married,13,94000.0,South West,Ogun,False,True,False
+NGF000977,43,Male,Primary Complete,6,Married,9,0.0,South West,Osun,True,False,False
+NGF000978,35,Male,Primary Incomplete,3,Married,13,0.0,North Central,Nasarawa,True,False,False
+NGF000979,20,Male,Primary Incomplete,3,Married,3,0.0,North Central,Plateau,True,False,False
+NGF000980,58,Male,Secondary Incomplete,9,Married,12,242000.0,North East,Bauchi,True,True,False
+NGF000981,18,Male,No Formal Education,0,Single,3,56000.0,South West,Ekiti,True,True,True
+NGF000982,35,Male,No Formal Education,0,Married,4,0.0,North Central,Kwara,True,False,True
+NGF000983,59,Male,Secondary Complete,12,Married,9,417000.0,South East,Abia,False,True,False
+NGF000984,23,Male,Primary Complete,6,Married,4,0.0,South East,Abia,False,True,True
+NGF000985,62,Female,Primary Complete,6,Widowed,5,167000.0,North East,Adamawa,True,True,True
+NGF000986,61,Male,Primary Complete,6,Married,5,194000.0,North Central,Kwara,False,True,False
+NGF000987,34,Male,No Formal Education,0,Widowed,4,0.0,North East,Borno,True,True,False
+NGF000988,38,Male,Primary Incomplete,3,Married,10,81000.0,South West,Ogun,False,True,True
+NGF000989,20,Female,Secondary Complete,12,Single,1,364000.0,South West,Ogun,False,True,False
+NGF000990,28,Male,HND/BSc,16,Married,3,635000.0,South West,Ogun,True,True,True
+NGF000991,33,Female,Primary Complete,6,Widowed,6,0.0,North East,Gombe,False,True,True
+NGF000992,45,Female,Primary Complete,6,Married,13,0.0,South East,Enugu,False,False,False
+NGF000993,57,Female,No Formal Education,0,Widowed,10,0.0,South South,Akwa Ibom,True,True,True
+NGF000994,51,Male,No Formal Education,0,Widowed,5,0.0,North West,Kano,True,True,True
+NGF000995,60,Male,Primary Incomplete,3,Widowed,8,0.0,North West,Jigawa,True,True,True
+NGF000996,42,Male,Secondary Incomplete,9,Married,11,161000.0,North West,Kebbi,True,False,False
+NGF000997,54,Male,No Formal Education,0,Married,9,110000.0,South South,Akwa Ibom,False,True,False
+NGF000998,60,Male,No Formal Education,0,Married,10,0.0,North East,Bauchi,True,False,False
+NGF000999,37,Male,Primary Incomplete,3,Married,8,0.0,South West,Ekiti,True,True,True
+NGF001000,65,Male,Secondary Complete,12,Widowed,2,0.0,South South,Cross River,True,True,True
