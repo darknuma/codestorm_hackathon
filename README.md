@@ -30,7 +30,8 @@ Check out `streamlit_app/model/model_report.md` for information on our credit-sc
 ```.
 ├── data_assets/           # Raw and processed data files, data generated
 ├── data/                  # Data (contains master data, and other data)
-├── streamlit_app/          # Streamlit app for Data Science and ML models 
+├── streamlit_app/         # Streamlit app for credit worthiness prediction
+├── risk_assessment_app/         # Streamlit app for risk management advisor
 ├── main.py                # Main script
 ├── requirements.txt       # Project dependencies
 ├── technical_docs/        # Technical Documentation for generating data, focus on `MasterTD.md`
@@ -97,22 +98,34 @@ We developed a predictive model that assesses:
 - Business success probability or Farmer Business Viability
 - Risk factors and mitigation strategies
 
+Check link for the MODEL HERE: [Credit Score Model](https://appapp-dnho3s69gbjrowg2xhn255.streamlit.app/])
+
+## Risk Assessment Adivsor
+
+We developed a risk assessment model to advises on loan and the farmer's farm to improve loan and mitigate risks on their farm business:
+
+Check link for MODEL HERE: [Risk Assessment Model](https://codestormhackathon-ctcnut7xytuqe8uuypk57v.streamlit.app/)
+
 ## Analysis and Insights
 
-Key findings from our data analysis:
+Model Architecture:
 
-1. [Insert key insights about farmer creditworthiness]
-2. [Insert findings about successful farming practices]
-3. [Insert risk assessment patterns]
+![Architecture Diagram](ModelDiagram.jpg)
+
+Find our analysis here:
+
+[CLICK: Analysis Report](https://app.powerbi.com/view?r=eyJrIjoiZmRhMmZkZGQtMmZmNi00M2U0LTgyMTYtMzg4YzE1NmYwMWQzIiwidCI6ImFiMTA0YzYwLTZkZTYtNDc1ZC1hMjBmLTg5M2Y2OWQ2NzlhNCJ9&pageName=601bbd75e649023d008d )
 
 ## Architecture
+
+![Architecture Diagram](architecture.png)
 
 The solution is built on a modular architecture:
 
 1. Data Collection and Processing Layer
 2. Analysis and Modeling Layer
 3. Visualization and Reporting Layer
-4. API and Integration Layer
+4. App model for Credit Worthiness and Risk Mitigation
 
 ## Future Enhancements
 
