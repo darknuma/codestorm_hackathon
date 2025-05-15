@@ -124,7 +124,7 @@ Find our analysis here:
 
 ## Architecture
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](archi.png)
 
 The solution is built on a modular architecture:
 
