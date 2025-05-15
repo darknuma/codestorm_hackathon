@@ -8,11 +8,32 @@ import os
 
 # --- Configuration & Load Artifacts ---
 
-PREPROCESSOR_PATH = "./preprocessor.joblib"
-FEATURE_NAMES_PATH = "./feature_names.joblib"
-MODEL_PATH = "./xgb_risk_model.joblib"
-MITIGATION_KB_PATH="./mitigation_kb.joblib"
-ORIGINAL_COLUMNS_PATH="./original_columns.joblib"
+
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT_DIR = os.path.dirname(SCRIPT_DIR)
+PATH = os.path.join(PROJECT_ROOT_DIR, "model_artifacts")
+
+PREPROCESSOR_PATH = os.path.join(PATH, 'preprocessor.joblib')
+FEATURE_NAMES_PATH = os.path.join(PATH, 'feature_names.joblib')
+MODEL_PATH = os.path.join(PATH, 'xgb_risk_model.joblib')
+MITIGATION_KB_PATH = os.path.join(PATH, 'mitigation_kb.joblib')
+ORIGINAL_COLUMNS_PATH = os.path.join(PATH, 'original_columns.joblib')
+
+# --- For Debugging ---
+print(f"Current Working Directory (CWD): {os.getcwd()}")
+print(f"Script Directory (SCRIPT_DIR): {SCRIPT_DIR}")
+print(f"Project Root Directory (PROJECT_ROOT_DIR): {PROJECT_ROOT_DIR}")
+print(f"Calculated Artifacts Path (PATH): {PATH}")
+print(f"Absolute path to model: {os.path.abspath(MODEL_PATH)}")
+
+if os.path.exists(MODEL_PATH):
+    print("SUCCESS: Model file found at the resolved path.")
+else:
+    print(f"ERROR: Model file still NOT found at {os.path.abspath(MODEL_PATH)}")
+    if os.path.isdir(PATH):
+        print(f"The directory {PATH} exists. Contents: {os.listdir(PATH)}")
+    else:
+        print(f"The directory {PATH} does NOT exist.")
 
 
 # Function to load artifacts safely
