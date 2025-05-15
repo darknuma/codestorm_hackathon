@@ -32,7 +32,7 @@ def import_helper_module(module_name):
 
 def run_generator():
 	"""Run the main data generator script."""
-	generator_path = os.path.join('data_assets', 'generator.py')
+	generator_path = os.path.join('data_assets', 'data_gen.py')
 	if not os.path.exists(generator_path):
 		raise FileNotFoundError(f'Generator script not found at {generator_path}')
 
@@ -46,85 +46,92 @@ def run_generator():
 
 
 def main():
-    """Execute the main application logic.
+	"""Execute the main application logic.
 
-    This function serves as the entry point for the application,
-    initializing and running the core components based on command line arguments.
-    """
-    parser = argparse.ArgumentParser(description='AgriFinance Data Generation Tools')
-    parser.add_argument(
-        'helper',
-        nargs='?',  # Make the argument optional
-        choices=['cl', 'ds', 'gm'],
-        help='Helper module to run (cl=Credit Lending, ds=Data Science, gm=General Model). If not provided, runs the main generator.',
-    )
-    parser.add_argument(
-        '--num-farmers',
-        type=int,
-        default=4000,
-        help='Number of farmers to generate (default: 4000)',
-    )
+	This function serves as the entry point for the application,
+	initializing and running the core components based on command line arguments.
+	"""
+	parser = argparse.ArgumentParser(description='AgriFinance Data Generation Tools')
+	parser.add_argument(
+		'helper',
+		nargs='?',  # Make the argument optional
+		choices=['cl', 'ds', 'gm'],
+		help='Helper module to run (cl=Credit Lending, ds=Data Science, gm=General Model). If not provided, runs the main generator.',
+	)
+	parser.add_argument(
+		'--num-farmers',
+		type=int,
+		default=4000,
+		help='Number of farmers to generate (default: 4000)',
+	)
 
-    args = parser.parse_args()
+	args = parser.parse_args()
 
-    try:
-        if args.helper is None:
-            # No helper specified, run the main generator
-            run_generator()
-        else:
-            # Import and run the selected helper module
-            try:
-                helper_module = import_helper_module(args.helper)
-                
-                # Each helper module has its own main function or data generation logic
-                if args.helper == 'cl':
-                    # Credit Lending module
-                    print('Generating credit lending data...')
-                    try:
-                        # The module will automatically generate data when imported
-                        # If there's specific functionality to run, add it here
-                        if hasattr(helper_module, 'generate_data'):
-                            helper_module.generate_data()
-                    except Exception as e:
-                        print(f'Error in Credit Lending module: {e}')
-                        import traceback
-                        traceback.print_exc()
+	try:
+		if args.helper is None:
+			# No helper specified, run the main generator
+			run_generator()
+		else:
+			# Import and run the selected helper module
+			try:
+				helper_module = import_helper_module(args.helper)
 
-                elif args.helper == 'ds':
-                    # Data Science module
-                    print('Generating data science dataset...')
-                    try:
-                        farmers_df = helper_module.generate_farmers(args.num_farmers)
-                        print(f'\nGenerated dataset with {len(farmers_df)} farmers')
-                        print('\nSample of generated data:')
-                        print(farmers_df.head())
-                    except Exception as e:
-                        print(f'Error in Data Science module: {e}')
-                        import traceback
-                        traceback.print_exc()
+				# Each helper module has its own main function or data generation logic
+				if args.helper == 'cl':
+					# Credit Lending module
+					print('Generating credit lending data...')
+					try:
+						# The module will automatically generate data when imported
+						# If there's specific functionality to run, add it here
+						if hasattr(helper_module, 'generate_data'):
+							helper_module.generate_data()
+					except Exception as e:
+						print(f'Error in Credit Lending module: {e}')
+						import traceback
 
-                elif args.helper == 'gm':
-                    # General Model module
-                    print('Generating general model data...')
-                    try:
-                        if hasattr(helper_module, 'run') or hasattr(helper_module, 'generate_data'):
-                            func = getattr(helper_module, 'run', None) or getattr(helper_module, 'generate_data')
-                            func()
-                    except Exception as e:
-                        print(f'Error in General Model module: {e}')
-                        import traceback
-                        traceback.print_exc()
-                        
-            except Exception as e:
-                print(f'Error importing helper module: {e}')
-                import traceback
-                traceback.print_exc()
+						traceback.print_exc()
 
-    except Exception as e:
-        print(f'Error running main module: {e}')
-        import traceback
-        traceback.print_exc()
-        sys.exit(1)
+				elif args.helper == 'ds':
+					# Data Science module
+					print('Generating data science dataset...')
+					try:
+						farmers_df = helper_module.generate_farmers(args.num_farmers)
+						print(f'\nGenerated dataset with {len(farmers_df)} farmers')
+						print('\nSample of generated data:')
+						print(farmers_df.head())
+					except Exception as e:
+						print(f'Error in Data Science module: {e}')
+						import traceback
+
+						traceback.print_exc()
+
+				elif args.helper == 'gm':
+					# General Model module
+					print('Generating general model data...')
+					try:
+						if hasattr(helper_module, 'run') or hasattr(helper_module, 'generate_data'):
+							func = getattr(helper_module, 'run', None) or getattr(
+								helper_module, 'generate_data'
+							)
+							func()
+					except Exception as e:
+						print(f'Error in General Model module: {e}')
+						import traceback
+
+						traceback.print_exc()
+
+			except Exception as e:
+				print(f'Error importing helper module: {e}')
+				import traceback
+
+				traceback.print_exc()
+
+	except Exception as e:
+		print(f'Error running main module: {e}')
+		import traceback
+
+		traceback.print_exc()
+		sys.exit(1)
 
 
 if __name__ == '__main__':

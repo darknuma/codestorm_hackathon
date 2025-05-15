@@ -68,6 +68,8 @@ For a more granular thinking towards the approach there are three markdowns (`CL
 
 ```bash
     uv run main.py  
+    # or run
+    uv run data_assets/data_gen.py
 ```
 
 ## Data Strategy
