@@ -80,6 +80,12 @@ Check out `streamlit_app/model/model_report.md` for information on our credit-sc
     streamlit run streamlit_app/app.py
 ```
 
+6; Run the Risk Assessment Model
+
+```bash
+    streamlit run risk_assessment_app/code/streamlit_risk_app.py
+```
+
 ## Data Strategy
 
 Our analysis leverages multiple data sources to build comprehensive farmer profiles:
