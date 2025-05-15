@@ -411,7 +411,6 @@
 #         unique_together = ('season', 'class_type')
 
 
-
 """
 Consolidated Generator script to generate synthetic data for Nigerian farmers,
 combining principles and features from helper_ds.py, helper_cl.py, and helper_gm.py.
@@ -440,8 +439,8 @@ MODIFIED: Added functions to generate Farmer_Profile, Farm_Enterprise, and Loan_
 
 # os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# fake = Faker() 
-# Faker.seed(42) 
+# fake = Faker()
+# Faker.seed(42)
 
 
 # np.random.seed(42)
@@ -777,7 +776,7 @@ MODIFIED: Added functions to generate Farmer_Profile, Farm_Enterprise, and Loan_
 #     regional_crops = CROPS_BY_REGION.get(region, ALL_CROPS)
 #     crop_weights = [3 if crop in MAJOR_NATIONAL_CROPS else 1 for crop in regional_crops]
 #     primary_crop = random.choices(regional_crops, weights=crop_weights, k=1)[0] if regional_crops else 'Unknown' # Handle empty regional_crops
-    
+
 #     secondary_crop_options = [c for c in regional_crops if c != primary_crop] + ['None'] if regional_crops else ['None']
 #     secondary_crop = random.choice(secondary_crop_options) if secondary_crop_options else 'None'
 
@@ -796,7 +795,7 @@ MODIFIED: Added functions to generate Farmer_Profile, Farm_Enterprise, and Loan_
 #     uses_improved_seeds = random.choices([True, False], weights=[0.101, 1 - 0.101])[0]
 #     uses_irrigation = random.choices([True, False], weights=[0.022, 1 - 0.022])[0]
 
-#     # Adjusted input use slightly based on gender context 
+#     # Adjusted input use slightly based on gender context
 #     if gender == 'Female': uses_fertilizer = uses_fertilizer if random.random() < 0.9 else False
 #     else: uses_fertilizer = uses_fertilizer if random.random() < 1.1 else True
 
@@ -809,7 +808,7 @@ MODIFIED: Added functions to generate Farmer_Profile, Farm_Enterprise, and Loan_
 
 #     # Land Tenure
 #     land_acquisition_method = weighted_choice([('Inheritance', 0.65), ('Family Allocation', 0.15), ('Purchase', 0.08), ('Lease', 0.05), ('Rental', 0.03), ('Community Grant', 0.02), ('Gift', 0.02)])
-    
+
 #     has_land_title = False
 #     if land_acquisition_method == 'Purchase': has_land_title = random.choices([True, False], weights=[0.20, 0.80])[0]
 #     else: has_land_title = random.choices([True, False], weights=[0.05, 0.95])[0]
@@ -824,7 +823,7 @@ MODIFIED: Added functions to generate Farmer_Profile, Farm_Enterprise, and Loan_
 
 #     # Extension Services
 #     uses_extension_services = random.choices([True, False], weights=[0.207, 1 - 0.207])[0]
-    
+
 #     # Financial Inclustion & Digital Footprint
 #     has_bank_account = random.choices([True, False], weights=[0.55, 0.45])[0]
 #     has_formal_id = random.choices([True, False], weights=[0.65, 0.35])[0]
@@ -836,7 +835,7 @@ MODIFIED: Added functions to generate Farmer_Profile, Farm_Enterprise, and Loan_
 #     ecommerce_activity = random.choices([True, False], weights=[0.15, 0.85])[0] if smartphone_owner else False
 #     active_on_agri_forums = random.choices([True, False], weights=[0.15, 0.85])[0] if smartphone_owner else False
 #     digital_footprint_score_1_10 = random.randint(1, 10)
-    
+
 #     # Alternate payment data
 #     utility_bill_payment_score_1_10 = random.randint(1, 10)
 #     mobile_money_activity_score_1_10 = random.randint(1, 10) if mobile_money_usage_frequency != 'Never' else 1
@@ -845,7 +844,7 @@ MODIFIED: Added functions to generate Farmer_Profile, Farm_Enterprise, and Loan_
 #     phone_bill_timeliness = random.choice(UTILITY_PAYMENT_TIMELINESS_CATS)
 #     last_utility_payment_date = fake.date_between(start_date='-100d', end_date='today')
 #     last_rent_payment_date = fake.date_between(start_date='-70d', end_date='today') if rent_payment_timeliness != 'N/A' else None
-    
+
 #     # Value Chain Platform
 #     value_chain_platform_registered = random.choices([True, False], weights=[0.25, 0.75])[0]
 #     years_on_platform = 0
@@ -853,16 +852,16 @@ MODIFIED: Added functions to generate Farmer_Profile, Farm_Enterprise, and Loan_
 #     if value_chain_platform_registered:
 #         years_on_platform = random.randint(0, 4)
 #         if years_on_platform > 0: marketplace_sales_ngn_last_year = random.uniform(0.1, 0.6)
-    
-#     # Cooperative 
+
+#     # Cooperative
 #     cooperative_member = random.choices([True, False], weights=[0.40, 0.60])[0]
 #     cooperative_repayment_rate_percent = random.randint(60, 100) if cooperative_member else 0
-    
+
 #     # Distances
 #     distance_to_market_km = round(random.uniform(0.5, 70), 1)
 #     distance_to_bank_km = round(random.uniform(1, 100), 1) if has_bank_account else round(random.uniform(10, 150), 1)
 
-#     # --- Calculations requiring generated data --- 
+#     # --- Calculations requiring generated data ---
 #     temp_row_for_calc = {
 #         'primary_crop': primary_crop, 'education_category': education_category,
 #         'uses_improved_seeds': uses_improved_seeds, 'uses_fertilizer': uses_fertilizer,
@@ -887,7 +886,7 @@ MODIFIED: Added functions to generate Farmer_Profile, Farm_Enterprise, and Loan_
 
 #     # Crop Disposition Estimation (Simplified based on Table 6.12 averages)
 #     crop_disposition = {'Stored': 0.40, 'Sold Unprocessed': 0.25, 'Sold Processed': 0.05, 'Consumed': 0.25, 'Given Out': 0.04, 'Lost': 0.01}
-#     if primary_crop == 'Cassava': 
+#     if primary_crop == 'Cassava':
 #         crop_disposition = {
 # 			'Stored': 0.10,
 # 			'Sold Unprocessed': 0.28,
@@ -950,7 +949,7 @@ MODIFIED: Added functions to generate Farmer_Profile, Farm_Enterprise, and Loan_
 # 			'Given Out': 0.03,
 # 			'Lost': 0.001,
 # 		}
-          
+
 #     percentage_sold_unprocessed = round(crop_disposition['Sold Unprocessed'] * 100 * random.uniform(0.8, 1.2), 1)
 #     percentage_consumed = round(crop_disposition['Consumed'] * 100 * random.uniform(0.8, 1.2), 1)
 
@@ -1111,7 +1110,7 @@ MODIFIED: Added functions to generate Farmer_Profile, Farm_Enterprise, and Loan_
 #         if row['owns_tractor']: equipment_type = 'Modern'
 #         elif row['owns_plow'] or row['owns_sprayer']: equipment_type = 'Integrated'
 #         elif row['owns_cutlass'] or row['owns_sickle']: equipment_type = 'Traditional'
-        
+
 #         value_of_farm_assets = (row['farm_size_ha'] * 300000) + \
 #                                (5000000 if row['owns_tractor'] else 0) + \
 #                                (200000 if row['owns_plow'] else 0) + \
@@ -1198,7 +1197,7 @@ MODIFIED: Added functions to generate Farmer_Profile, Farm_Enterprise, and Loan_
 #         if row['has_prior_loan'] and row['prior_loan_amount_ngn'] > 0:
 #             loan_id = f"L{loan_id_counter:08d}"
 #             loan_id_counter += 1
-            
+
 #             duration_months = random.randint(6, 36)
 #             loan_date_obj = fake_instance.date_between(start_date='-3y', end_date='-3m')
 #             repayment_date_obj = loan_date_obj + relativedelta(months=duration_months)
@@ -1206,10 +1205,10 @@ MODIFIED: Added functions to generate Farmer_Profile, Farm_Enterprise, and Loan_
 #             credit_worthy_status = 'Non-creditworthy'
 #             if row['prior_loan_repayment_history'] in ['Excellent', 'Good']:
 #                 credit_worthy_status = 'Creditworthy'
-            
+
 #             loan_asset_ratio = (row['prior_loan_amount_ngn'] / enterprise_value_assets) if enterprise_value_assets > 0 else 0
 #             op_ex_income_ratio = (enterprise_op_ex / enterprise_income) if enterprise_income > 0 else 0
-            
+
 #             has_defaulted = row['prior_loan_repayment_history'] == 'Poor'
 #             default_reason = random.choice(['Market Loss', 'Low Yield', 'Illness', 'Diversion of Funds']) if has_defaulted else None
 
@@ -1251,14 +1250,14 @@ MODIFIED: Added functions to generate Farmer_Profile, Farm_Enterprise, and Loan_
 #                 loan_date_obj = datetime.strptime(loan_date_obj, '%Y-%m-%d').date()
 
 #             repayment_date_obj = loan_date_obj + relativedelta(months=row['current_loan_tenure_months'])
-            
+
 #             loan_asset_ratio = (row['loan_amount_requested_ngn'] / enterprise_value_assets) if enterprise_value_assets > 0 else 0
 #             op_ex_income_ratio = (enterprise_op_ex / enterprise_income) if enterprise_income > 0 else 0
 
 #             # Predicted default for current loan
 #             has_defaulted_predicted = row['predicted_default_probability_current_loan'] > 0.4 # Threshold for prediction
 #             default_reason_predicted = random.choice(['Predicted Market Loss', 'Predicted Low Yield', 'Predicted Illness']) if has_defaulted_predicted else None
-            
+
 #             loan_source = random.choice(['Bank', 'Cooperative', 'BOA', 'Fintech Platform', 'Microfinance'])
 #             if row['value_chain_platform_registered'] and random.random() < 0.5:
 #                  loan_source = 'Fintech Platform' # Higher chance if on platform
@@ -1306,4 +1305,3 @@ MODIFIED: Added functions to generate Farmer_Profile, Farm_Enterprise, and Loan_
 #     print(f'Loan Record data saved to {LOAN_RECORD_FILENAME}')
 
 #     print("\nAll CSV files generated successfully in the 'data' directory.")
-

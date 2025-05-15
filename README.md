@@ -23,13 +23,14 @@ Our solution combines data analysis, predictive modeling, and visualization to:
 
 For a more granular thinking towards the approach there are three markdowns (`CL.md`, `DS.md` and `GC.md`) that shows the thought to generating the data we needed in the master data, which incorporated different researches and macro/micro economic data from Nigeria Bureau Statistics their ***LSMS Integrated Surveys on Agriculture Nigeria General Household SurveyPanel*** report to generate a synthetic simulated data from existing data, the documentation shown in `MasterTD.md` you would find this files in `technical_docs/` directory
 
+Check out `streamlit_app/model/model_report.md` for information on our credit-score worthiness model
+
 ## Project Structure
 
 ```.
 ├── data_assets/           # Raw and processed data files, data generated
 ├── data/                  # Data (contains master data, and other data)
-├── notebook/              # Data Science and ML folder
-├── app/                   # Streamlit frontend dev app for Credit worthiness
+├── streamlit_app/          # Streamlit app for Data Science and ML models 
 ├── main.py                # Main script
 ├── requirements.txt       # Project dependencies
 ├── technical_docs/        # Technical Documentation for generating data, focus on `MasterTD.md`
@@ -72,6 +73,12 @@ For a more granular thinking towards the approach there are three markdowns (`CL
     uv run data_assets/data_gen.py
 ```
 
+5; Run the Credit_Score Model
+
+```bash
+    streamlit run streamlit_app/app.py
+```
+
 ## Data Strategy
 
 Our analysis leverages multiple data sources to build comprehensive farmer profiles:
@@ -87,7 +94,7 @@ Our analysis leverages multiple data sources to build comprehensive farmer profi
 We developed a predictive model that assesses:
 
 - Farmer creditworthiness
-- Business success probability
+- Business success probability or Farmer Business Viability
 - Risk factors and mitigation strategies
 
 ## Analysis and Insights
