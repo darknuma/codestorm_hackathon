@@ -2,4 +2,7 @@
 .ruff_cache
 uv.lock
 __pycache__
-demo.py 
+deep_seek.md
+claude.md
+gemini.md.
+
